@@ -17,7 +17,7 @@ description: "A great collection of free tokens to use in your fantasy RPG campa
 <div class="container-fluid">
     
     <div class="card-columns">        
-        {% for post in paginator.posts reversed %}
+        {% for post in paginator.posts %}
             {% include card-post.html %}
         {% endfor %}            
     </div>

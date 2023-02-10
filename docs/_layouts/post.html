@@ -31,12 +31,17 @@ layout: default
                     </small>                    
                     
     				{{ content }}
-                    
+                    {% if page.image %} 
+                    <p><a href="{{ page.image | absolute_url }}" download class="btn btn-red d-block font-weight-bold">
+                        Download Token</a>
+                    </p>
+                    {% endif %}
                     {% if page.visit %}
                     <p><a target="_blank" href="{{page.visit}}" class="btn btn-gray d-block font-weight-bold">
                         Visit <i class="fas fa-external-link-alt"></i></a>
                     </p>
                     {% endif %}
+                    
                     
                     {% for category in page.categories %}
                       <a class="btn btn-sm btn-primary mt-2" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">
