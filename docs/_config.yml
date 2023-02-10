@@ -1,12 +1,18 @@
 # Site
-name: 'Pintereso'
-description: 'Pintereso is a free Jekyll theme for awesome people like you, Pinterest like.'
+
+title: Minis as Tokens
+email: minisastokens.20.thedex@spamgourmet.com
+description: >- # this means to ignore newlines until "baseurl:"
+  If you want to use pictures of real minis as tokens in your online
+  fantasy RPG campaing you have come to the right place!
+domain: minitokens.github.io  
+baseurl: /minitokens.github.io/ # the subpath of your site, e.g. /blog
+url: https://minitokens.github.io # the base hostname & protocol for your site, e.g. http://example.com
+
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/template-pintereso-bootstrap-jekyll'
 avatar: 'assets/images/sal.jpg'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+
 
 include: ["_pages"]
 permalink: /:title/
