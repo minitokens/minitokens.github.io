@@ -10,7 +10,7 @@ layout: default
                     
                  {% if page.image %} 
                     <span class="pinme">
-                        <a href="{ page.image | absolute_url }" download></a>
+                      <a class="btn btn-sm btn-danger mb-1" href="{{ page.image | absolute_url }}" download>Save</a>
                     </span>
                     <img class="card-img-top mb-2" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}"> 
                 {% endif %}
