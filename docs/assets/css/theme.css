@@ -91,7 +91,7 @@ footer.footer {
 	border: 0;
     transition:ease .1s;
 }
-.card-img-top.mb-2{
+.col-md-8 .card-img-top{
   max-width: 50%;
   transform: translateX(50%);
 }
