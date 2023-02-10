@@ -1,8 +1,8 @@
 ---
-title:  "Flail Snail"
+title:  "Wizard of Thay"
 metadate: "hide"
-categories: [ Elementals, Animals, Yasashii ]
-image: "/assets/images/minis/elementals/FlailSnail.png"
+categories: [ Humans, Casters, Yasashii ]
+image: "/assets/images/minis/humans/GlassStaff.png"
 visit: "https://www.patreon.com/yasashiikyojinstudio"
 ---
 3d print from [Yasashii Kyojin Studio](https://www.patreon.com/yasashiikyojinstudio). 

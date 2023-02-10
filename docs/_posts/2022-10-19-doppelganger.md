@@ -1,8 +1,8 @@
 ---
-title:  "Flail Snail"
+title:  "Doppelganger"
 metadate: "hide"
-categories: [ Elementals, Animals, Yasashii ]
-image: "/assets/images/minis/elementals/FlailSnail.png"
+categories: [ Monsters, Yasashii ]
+image: "/assets/images/minis/monsters/Doppelganger.png"
 visit: "https://www.patreon.com/yasashiikyojinstudio"
 ---
 3d print from [Yasashii Kyojin Studio](https://www.patreon.com/yasashiikyojinstudio). 

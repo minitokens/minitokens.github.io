@@ -1,8 +1,8 @@
 ---
-title:  "Flail Snail"
+title:  "Hobgoblin"
 metadate: "hide"
-categories: [ Elementals, Animals, Yasashii ]
-image: "/assets/images/minis/elementals/FlailSnail.png"
+categories: [ Goblin, Fighters, Yasashii ]
+image: "/assets/images/minis/goblins/Hobgoblin.png"
 visit: "https://www.patreon.com/yasashiikyojinstudio"
 ---
 3d print from [Yasashii Kyojin Studio](https://www.patreon.com/yasashiikyojinstudio). 
