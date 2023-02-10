@@ -5,4 +5,4 @@ categories: [ Gnomes, NPCs ]
 image: "/assets/images/minis/gnomes/GnomeMasseuse.png"
 visit: "https://www.northstarfigures.com/frostgrave-wizards"
 ---
-Northstar Miniatures Frostgrave Wizards kit
+Northstar Frostgrave Wizards kit
