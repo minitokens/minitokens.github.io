@@ -255,9 +255,6 @@ article .card-body {
      transition: all 0.2s;
     position: relative;
 }
-.card-pin.raco:hover .fa:before {
-    
-}
 .car-pin.raco:hover .fa:before {    
      -webkit-animation: pulse 2s ease-in;
     -moz-animation: pulse 2s ease-in;
