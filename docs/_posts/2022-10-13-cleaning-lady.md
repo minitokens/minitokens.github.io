@@ -1,7 +1,7 @@
 ---
 title:  "Cleaning Lady"
 metadate: "hide"
-categories: [ Humans, NPCs ]
+categories: [ Humans, NPCs, Archon-Studio ]
 image: "/assets/images/minis/humans/HumanCleaningLady.png"
 visit: "https://archon-studio.com/"
 ---

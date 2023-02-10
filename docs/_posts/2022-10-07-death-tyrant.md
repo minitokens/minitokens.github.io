@@ -1,7 +1,7 @@
 ---
 title:  "Death Tyrant"
 metadate: "hide"
-categories: [ Monsters, Undead ]
+categories: [ Monsters, Undead, Yasashii ]
 image: "/assets/images/minis/undead/DeathTyrant.png"
 visit: "https://www.patreon.com/yasashiikyojinstudio"
 ---

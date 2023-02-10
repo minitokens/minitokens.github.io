@@ -1,7 +1,7 @@
 ---
 title:  "Gnome Gardener"
 metadate: "hide"
-categories: [ Gnomes, NPCs ]
+categories: [ Gnomes, NPCs, Archon-Studio ]
 image: "/assets/images/minis/gnomes/GnomeGardener.png"
 visit: "https://archon-studio.com/"
 ---

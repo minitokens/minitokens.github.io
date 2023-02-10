@@ -1,7 +1,7 @@
 ---
 title:  "Gnome Artificer"
 metadate: "hide"
-categories: [ Gnomes, NPCs ]
+categories: [ Gnomes, NPCs, Archon-Studio ]
 image: "/assets/images/minis/gnomes/GnomeArtificer.png"
 visit: "https://archon-studio.com/"
 ---

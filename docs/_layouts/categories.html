@@ -4,27 +4,27 @@ layout: default
 
 <section class="mt-4 mb-5">
     
-    <div class="container-fluid mb-1">
+    <div class="container-fluid mb-4">
         <h1 class="font-weight-bold title">{{page.title}}</h1>    
     </div>
 
 
-<div class="container-fluid">
-    
-    <div class="card-columns">
+    <div class="container-fluid">
+        
+        <div class="card-columns">
 
-        {% assign pages_list = category[1] %}
-        {% for post in page.posts %}
-          {% if post.title != null %}
-              {% if group == null or group == post.group %}
-                {% include card-post.html %}
-              {% endif %}
-          {% endif %}
-        {% endfor %}
-        {% assign pages_list = nil %}
-        {% assign group = nil %}
+            {% assign pages_list = category[1] %}
+            {% for post in page.posts %}
+            {% if post.title != null %}
+                {% if group == null or group == post.group %}
+                    {% include card-post.html %}
+                {% endif %}
+            {% endif %}
+            {% endfor %}
+            {% assign pages_list = nil %}
+            {% assign group = nil %}
 
+        </div>
     </div>
-</div>
     
 </section>

@@ -1,7 +1,7 @@
 ---
 title:  "Goose Hydra"
 metadate: "hide"
-categories: [ Monsters, Animals ]
+categories: [ Monsters, Animals, Yasashii ]
 image: "/assets/images/minis/monsters/GooseHydra.png"
 visit: "https://www.patreon.com/yasashiikyojinstudio"
 ---
