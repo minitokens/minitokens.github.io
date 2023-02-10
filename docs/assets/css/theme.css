@@ -91,6 +91,10 @@ footer.footer {
 	border: 0;
     transition:ease .1s;
 }
+.card-img-top.mb-2{
+  max-width: 50%;
+  transform: translateX(50%);
+}
 .card-pin:hover .overlay {
 	opacity:.5;
 	border:5px solid #f3f3f3;
