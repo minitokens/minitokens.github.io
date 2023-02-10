@@ -44,7 +44,7 @@ layout: default
                     
                     
                     {% for category in page.categories %}
-                      <a class="btn btn-sm btn-primary mt-2" href="{{site.baseurl}}/category{{ category | downcase }}">
+                      <a class="btn btn-sm btn-primary mt-2" href="{{site.baseurl}}/category/{{ category | downcase }}">
                         # {{ category | downcase }}
                       </a>
                     {% endfor %}
