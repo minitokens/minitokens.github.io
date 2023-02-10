@@ -1,7 +1,7 @@
 ---
 title:  "Flail Snail"
 metadate: "hide"
-categories: [ Minis, Monsters, Animals ]
+categories: [ Monsters, Animals ]
 image: "/assets/images/minis/monsters/FlailSnail.png"
 visit: "https://www.patreon.com/yasashiikyojinstudio"
 ---
