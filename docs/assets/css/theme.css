@@ -218,6 +218,9 @@ article .card-body {
 .navbar-nav{
   flex-wrap: wrap;
 }
+.flex-row {
+  flex-direction: row;
+}
 .wrapcat {
     background-color: rgba(0,0,0,0.2);
     display: none;
@@ -302,10 +305,10 @@ article .card-body {
     color:#333;
 }
 a.prev {    
-    left: 100px;    
+    left: 0;    
 }
 a.next {
-    right: 100px;
+    right: 0;
 }
 #resultsmodal {
      background: rgba(255,255,255,0.8);
