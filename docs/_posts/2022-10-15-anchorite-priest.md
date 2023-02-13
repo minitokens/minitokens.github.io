@@ -1,8 +1,8 @@
 ---
 title:  "Half-Ork Priest"
 metadate: "hide"
-categories: [ Orks, Priests, Games-Workshop ]
-image: "/assets/images/minis/orks/AnchoritePriest.png"
+categories: [ Orcs, Priests, Casters, Games-Workshop ]
+image: "/assets/images/minis/orcs/AnchoritePriest.png"
 visit: "https://www.games-workshop.com"
 ---
 Anchorite/Priest of Talos 
