@@ -1,7 +1,7 @@
 ---
 title:  "Wizard of Thay"
 metadate: "hide"
-categories: [ Humans, Casters, Yasashii ]
+categories: [ Humans, Casters, Yasashii, 3dPrint ]
 image: "/assets/images/minis/humans/GlassStaff.png"
 visit: "https://www.patreon.com/yasashiikyojinstudio"
 ---

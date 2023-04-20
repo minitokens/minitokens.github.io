@@ -1,7 +1,7 @@
 ---
 title:  "Cave Fisher"
 metadate: "hide"
-categories: [ Beasts, Monsters ]
+categories: [ Beasts, Monsters, 3dPrint ]
 image: "/assets/images/minis/beasts/CaveFisher.png"
 visit: "https://www.myminifactory.com/object/3d-print-cave-fisher-215530"
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Giant Spider"
 metadate: "hide"
-categories: [ Anmials ]
+categories: [ Anmials, 3dPrint ]
 image: "/assets/images/minis/beasts/GiantSpider.png"
 visit: "https://cults3d.com/en/users/EmanG/creations"
 ---

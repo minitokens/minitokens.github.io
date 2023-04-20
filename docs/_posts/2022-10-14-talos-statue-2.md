@@ -1,7 +1,7 @@
 ---
 title:  "Statue of Talos"
 metadate: "hide"
-categories: [ Elementals ]
+categories: [ Elementals, 3dPrint ]
 image: "/assets/images/minis/elementals/TalosStatue2.png"
 visit: "https://www.myminifactory.com/object/3d-print-zeus-135677"
 ---

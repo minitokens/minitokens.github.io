@@ -1,7 +1,7 @@
 ---
 title:  "Flameskull"
 metadate: "hide"
-categories: [ Undead ]
+categories: [ Undead, 3dPrint ]
 image: "/assets/images/minis/undead/FlameSkull.png"
 visit: "https://www.myminifactory.com/object/3d-print-wisps-120413"
 ---

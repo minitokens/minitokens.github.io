@@ -1,7 +1,7 @@
 ---
 title:  "Bugbear with spear"
 metadate: "hide"
-categories: [ Goblins, Fighters, Yasashii ]
+categories: [ Goblins, Fighters, Yasashii, 3dPrint ]
 image: "/assets/images/minis/goblins/BugbearSpear.png"
 visit: "https://www.patreon.com/yasashiikyojinstudio"
 ---

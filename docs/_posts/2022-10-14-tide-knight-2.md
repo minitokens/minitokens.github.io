@@ -1,7 +1,7 @@
 ---
 title:  "Tide Knight"
 metadate: "hide"
-categories: [ Humans, Fighters, Water ]
+categories: [ Humans, Fighters, Water, 3dPrint ]
 image: "/assets/images/minis/humans/TideKnight2.png"
 visit: "https://www.myminifactory.com/object/3d-print-far-yantir-wild-hunt-rider-142181"
 ---

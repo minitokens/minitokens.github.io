@@ -1,7 +1,7 @@
 ---
 title:  "Carrion Crawler"
 metadate: "hide"
-categories: [ Monsters, Beasts ]
+categories: [ Monsters, Beasts, 3dPrint ]
 image: "/assets/images/minis/monsters/CarrionCrawler.png"
 visit: "https://www.myminifactory.com/object/3d-print-carrion-crawler-129829"
 ---

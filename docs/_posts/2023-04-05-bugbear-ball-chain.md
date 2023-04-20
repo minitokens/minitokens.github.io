@@ -1,7 +1,7 @@
 ---
 title:  "Bugbear with ball and chain"
 metadate: "hide"
-categories: [ Goblins, Fighters, Yasashii ]
+categories: [ Goblins, Fighters, Yasashii, 3dPrint ]
 image: "/assets/images/minis/goblins/BugbearBallChain.png"
 visit: "https://www.patreon.com/yasashiikyojinstudio"
 ---
