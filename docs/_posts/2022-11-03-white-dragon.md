@@ -1,5 +1,5 @@
 ---
-title:  "Adult White Dragon"
+title:  "Young White Dragon"
 metadate: "hide"
 categories: [ Dragons ]
 image: "/assets/images/minis/dragons/WhiteDragon.png"
