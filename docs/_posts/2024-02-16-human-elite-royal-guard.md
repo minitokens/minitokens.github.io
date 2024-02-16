@@ -1,7 +1,7 @@
 ---
 title:  "Human Elite Royal Guard"
 metadate: "hide"
-categories: [ Humans, Fighter, Archon-Studio ]
+categories: [ Humans, Fighters, Archon-Studio ]
 image: "/assets/images/minis/humanoid/humans/HumanRoyalGuard.png"
 visit: "https://archon-studio.com/"
 ---

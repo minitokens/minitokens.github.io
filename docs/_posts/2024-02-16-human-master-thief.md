@@ -1,7 +1,7 @@
 ---
 title:  "Human Master Thief"
 metadate: "hide"
-categories: [ Humans, Fighter, Archon-Studio ]
+categories: [ Humans, Fighters, Archon-Studio ]
 image: "/assets/images/minis/humanoid/humans/MasterThief.webp"
 visit: "https://archon-studio.com/"
 ---

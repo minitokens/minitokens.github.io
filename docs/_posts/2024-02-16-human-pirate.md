@@ -1,7 +1,7 @@
 ---
 title:  "Human Pirate"
 metadate: "hide"
-categories: [ Humans, Fighter, Reaper ]
+categories: [ Humans, Fighters, Reaper ]
 image: "/assets/images/minis/humanoid/humans/Pirate.webp"
 visit: "https://www.reapermini.com/search/pirate"
 ---

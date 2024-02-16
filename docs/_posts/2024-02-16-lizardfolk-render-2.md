@@ -1,7 +1,7 @@
 ---
 title:  "Lizardfolk Render"
 metadate: "hide"
-categories: [ Humans, Fighters, 3dPrint ]
+categories: [ Lizardfolk, Fighters, 3dPrint ]
 image: "/assets/images/minis/humanoid/lizardfolk/LizardfolkRender2.png"
 visit: "https://www.myminifactory.com/users/onepagerules"
 ---

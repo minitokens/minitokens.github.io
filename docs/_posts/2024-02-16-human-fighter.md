@@ -1,7 +1,7 @@
 ---
 title:  "Human Fighter"
 metadate: "hide"
-categories: [ Humans, Fighter, Archon-Studio ]
+categories: [ Humans, Fighters, Archon-Studio ]
 image: "/assets/images/minis/humanoid/humans/HumanFighter.png"
 visit: "https://archon-studio.com/"
 ---

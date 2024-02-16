@@ -1,7 +1,7 @@
 ---
 title:  "Goose Hydra"
 metadate: "hide"
-categories: [ Monsters, Beasts, Yasashii, 3dPrint ]
+categories: [ Monstrocities, Beasts, Yasashii, 3dPrint ]
 image: "/assets/images/minis/monstrosity/GooseHydra2.png"
 visit: "https://www.patreon.com/yasashiikyojinstudio"
 ---

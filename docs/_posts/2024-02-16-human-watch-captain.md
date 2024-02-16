@@ -1,7 +1,7 @@
 ---
 title:  "Human Guard Captain"
 metadate: "hide"
-categories: [ Humans, Fighter, Archon-Studio ]
+categories: [ Humans, Fighters, Archon-Studio ]
 image: "/assets/images/minis/humanoid/humans/HumanGuardCaptain.png"
 visit: "https://archon-studio.com/"
 ---
