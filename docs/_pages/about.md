@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: "/about.html"
-image: "/assets/images/minis/humans/Dex.png"
+image: "/assets/images/minis/humanoid/humans/Dex.png"
 ---
 
 Hi, guys! Thanks for checking out my token collection!

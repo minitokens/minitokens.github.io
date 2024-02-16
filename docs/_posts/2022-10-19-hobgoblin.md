@@ -1,8 +1,8 @@
 ---
 title:  "Hobgoblin"
 metadate: "hide"
-categories: [ Goblin, Fighters, Yasashii, 3dPrint ]
-image: "/assets/images/minis/goblins/Hobgoblin.png"
+categories: [ Goblins, Fighters, Yasashii, 3dPrint ]
+image: "/assets/images/minis/humanoid/goblins/Hobgoblin.png"
 visit: "https://www.patreon.com/yasashiikyojinstudio"
 ---
 3d print from [Yasashii Kyojin Studio](https://www.patreon.com/yasashiikyojinstudio). 

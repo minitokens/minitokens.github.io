@@ -2,7 +2,7 @@
 title:  "Yuan-Ti Abomination"
 metadate: "hide"
 categories: [ Monsters, Fighters, Yasashii, 3dPrint ]
-image: "/assets/images/minis/monsters/YuanTiAbomination.png"
+image: "/assets/images/minis/monstrosity/YuanTiAbomination.png"
 visit: "https://www.patreon.com/yasashiikyojinstudio"
 ---
 3d print from [Yasashii Kyojin Studio](https://www.patreon.com/yasashiikyojinstudio). 

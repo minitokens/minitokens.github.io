@@ -2,7 +2,7 @@
 title:  "City Guard"
 metadate: "hide"
 categories: [ Humans, Fighters ]
-image: "/assets/images/minis/humans/CityGuard2.png"
+image: "/assets/images/minis/humanoid/humans/CityGuard2.png"
 visit: "https://www.archon-studio.com"
 ---
 Archon-Studio Mini

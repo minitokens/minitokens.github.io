@@ -2,7 +2,7 @@
 title:  "Sahuagin Blademaster"
 metadate: "hide"
 categories: [ Sahuagin, Fighters, 3dPrint ]
-image: "/assets/images/minis/sahuagin/SahuaginBlademaster2.png"
+image: "/assets/images/minis/humanoid/sahuagin/SahuaginBlademaster2.png"
 visit: "https://www.myminifactory.com/object/3d-print-death-tide-jurakins-presupported-122025"
 ---
 3d print from Artisan Guild. 
