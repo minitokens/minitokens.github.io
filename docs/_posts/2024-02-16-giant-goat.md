@@ -1,8 +1,8 @@
 ---
 title:  "Giant Goat"
 metadate: "hide"
-categories: [ Beasts, yasashii, 3dPrint ]
+categories: [ Beasts, Yasashii, 3dPrint ]
 image: "/assets/images/minis/beasts/GiantGoat.png"
-visit: "https://www.patreon.com/yasashiikyojinstudio"
+visit: "https://www.patreon.com/Yasashiikyojinstudio"
 ---
 3d print from Yasashii Kyojin Studio. Printed on an Anycubic Photon X 6k.

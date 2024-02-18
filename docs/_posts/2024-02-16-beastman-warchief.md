@@ -1,7 +1,7 @@
 ---
 title:  "Beastman Warchief"
 metadate: "hide"
-categories: [ Beastman, Archer, Games-Workshop ]
+categories: [ Beastmen, Fighters, Games-Workshop ]
 image: "/assets/images/minis/humanoid/beastmen/BeastmanWarchief.png"
 visit: "https://www.games-workshop.com"
 ---

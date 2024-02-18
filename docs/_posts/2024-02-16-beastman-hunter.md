@@ -1,7 +1,7 @@
 ---
 title:  "Beastman Hunter"
 metadate: "hide"
-categories: [ Beastman, Archer, Games-Workshop ]
+categories: [ Beastmen, Archers, Games-Workshop ]
 image: "/assets/images/minis/humanoid/beastmen/BeastmanHunter.png"
 visit: "https://www.games-workshop.com"
 ---
