@@ -1,0 +1,9 @@
+---
+title:  "Mezzoloth"
+metadate: "hide"
+categories: [ Casters, Fiends, Loot-Studios, 3dPrint ]
+image: "/assets/images/minis/fiends/Mezzoloth.png"
+visit: "https://lootstudios.com/"
+---
+Loot Studios 3d print.
+Printed on an Anycubic Photon X 6k.
