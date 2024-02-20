@@ -1,7 +1,7 @@
 ---
 title:  "Horned Devil"
 metadate: "hide"
-categories: [ Devils, Games-Workshop ]
+categories: [ Devils, Fiends, Games-Workshop ]
 image: "/assets/images/minis/devils/HornedDevil1.png"
 visit: "https://www.games-workshop.com/en-EU/chaotic-beasts-2022"
 ---
