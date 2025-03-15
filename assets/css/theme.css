@@ -152,6 +152,16 @@ footer.footer {
   background: black;
 }
 
+.card .card-img {
+  max-width: 100%;
+  width: auto;
+  border-radius: calc(0.25rem - 1px);
+  max-height: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
 .col-md-8 .card-img-top {
   max-width: 50%;
   transform: translateX(50%);
