@@ -46,7 +46,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Pagination
-paginate: 20
+paginate: 25
 
 # category pages
 jekyll-archives:

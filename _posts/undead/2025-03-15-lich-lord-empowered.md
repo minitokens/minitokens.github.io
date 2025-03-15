@@ -1,0 +1,8 @@
+---
+title:  "Lich Lord"
+metadate: "hide"
+categories: [ Undead, Archon-Studio ]
+image: "/assets/images/minis/undead/LichLordEmpowered.png"
+visit: "https://www.archon-studio.com"
+---
+Dungeons & Lasers: Deuslair Kickstarter mini.
