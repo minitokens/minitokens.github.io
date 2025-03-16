@@ -1,0 +1,8 @@
+---
+title:  "Bearded Devil"
+metadate: "hide"
+categories: [ Fiends, Devils, Archon-Studio, DNL:Deuslair ]
+image: "/assets/images/minis/devils/BeardedDevil3.png"
+visit: "https://archon-studio.com/"
+---
+From the Archon-Studio Dungeons & Lasers: Deuslair Campaign.

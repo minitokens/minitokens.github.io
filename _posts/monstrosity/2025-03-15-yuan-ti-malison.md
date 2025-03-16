@@ -1,7 +1,7 @@
 ---
 title:  "Yuan-Ti Malison"
 metadate: "hide"
-categories: [ Monstrocities, Archon-Studio ]
+categories: [ Monstrocities, Archon-Studio, DNL:Encounters ]
 image: "/assets/images/minis/monstrosity/YuanTiMalison.png"
 visit: "https://www.archon-studio.com"
 ---

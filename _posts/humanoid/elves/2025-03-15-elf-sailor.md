@@ -1,7 +1,7 @@
 ---
 title:  "Elf Sailor"
 metadate: "hide"
-categories: [ Elves, Games-Workshop ]
+categories: [ Elves, Archon-Studio, Deuslair ]
 image: "/assets/images/minis/humanoid/elves/Sailor11.png"
 visit: "https://www.archon-studio.com"
 ---
