@@ -3,11 +3,11 @@
 title: Minis as Tokens
 name: Frank Urbainsky
 email: minisastokens.20.thedex@spamgourmet.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   If you want to use pictures of real minis as tokens in your online
   fantasy RPG campaing you have come to the right place!
 domain: zuckerrausch.de  
-url: https://zuckerrausch.de # the base hostname & protocol for your site, e.g. http://example.com
+url: https://minis.zuckerrausch.de # the base hostname & protocol for your site, e.g. http://example.com
 
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -30,7 +30,7 @@ defaults:
 
   # all posts
   - scope:
-      path: "_posts"
+      path: "_minis"
     values:
       layout: post
       
