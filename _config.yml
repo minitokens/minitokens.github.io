@@ -30,9 +30,9 @@ defaults:
 
   # all posts
   - scope:
-      path: "_minis"
+      path: "_posts"
     values:
-      layout: mini
+      layout: post
       
   # all pages
   - scope:
