@@ -32,7 +32,7 @@ defaults:
   - scope:
       path: "_minis"
     values:
-      layout: post
+      layout: mini
       
   # all pages
   - scope:
