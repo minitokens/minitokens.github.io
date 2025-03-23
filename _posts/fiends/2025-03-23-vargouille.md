@@ -1,0 +1,8 @@
+---
+title:  "Vargouille"
+metadate: "hide"
+categories: [ Fiend, Games-Workshop ]
+image: "/assets/images/minis/fiend/Vargouille.png"
+visit: "https://games-workshop.com/"
+---
+Games Workshop Warhammer Underworlds Mini
