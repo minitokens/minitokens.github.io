@@ -1,8 +1,8 @@
 ---
 title:  "Dwarf Captain"
 metadate: "hide"
-categories: [ Dwarves, Fighters, Archon-Studio ]
+categories: [ Dwarves, Fighters, Loot-Studios ]
 image: "/assets/images/minis/humanoid/dwarves/DwarfCaptain.png"
-visit: "https://www.archon-studio.com"
+visit: "https://www.lootstudios.com"
 ---
-Archon-Studio Mini
+3d print from Loot-Studios. Printed on an Anycubic Photon X 6k.
