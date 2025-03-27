@@ -1,7 +1,7 @@
 ---
 title:  "Night Goblin Bard"
 metadate: "hide"
-categories: [ Goblins, Games-Workshop ]
+categories: [ Goblins, Bards, Games-Workshop ]
 image: "/assets/images/minis/humanoid/goblins/NightGoblinBard3.png"
 visit: "https://www.games-workshop.com"
 ---

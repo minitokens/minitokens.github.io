@@ -1,7 +1,7 @@
 ---
 title:  "Falconeer"
 metadate: "hide"
-categories: [ Humans, Archers, Archon-Studio, DNL:Deuslair ]
+categories: [ Humans, Archers, Archon-Studio, DnL-Deuslair ]
 image: "/assets/images/minis/humanoid/humans/Falconeer.png"
 visit: "https://archon-studio.com/"
 ---

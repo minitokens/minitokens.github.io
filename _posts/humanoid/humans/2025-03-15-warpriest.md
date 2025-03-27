@@ -1,7 +1,7 @@
 ---
 title:  "Warpriest"
 metadate: "hide"
-categories: [ Humans, Casters, Archon-Studio, DNL:Deuslair ]
+categories: [ Humans, Casters, Archon-Studio, DnL-Deuslair ]
 image: "/assets/images/minis/humanoid/humans/Warpriest.png"
 visit: "https://archon-studio.com/"
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Displacer Lion"
 metadate: "hide"
-categories: [ Monstrocities, Archon-Studio, DNL:Deuslair ]
+categories: [ Monstrocities, Archon-Studio, DnL-Deuslair ]
 image: "/assets/images/minis/monstrosity/DisplacerLion.png"
 visit: "https://www.archon-studio.com"
 ---

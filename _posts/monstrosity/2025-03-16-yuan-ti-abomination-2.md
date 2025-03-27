@@ -1,7 +1,7 @@
 ---
 title:  "Yuan-Ti Abomination"
 metadate: "hide"
-categories: [ Monstrocities, Fighters, Archon-Studio, DNL:Deuslair ]
+categories: [ Monstrocities, Fighters, Archon-Studio, DnL-Deuslair ]
 image: "/assets/images/minis/monstrosity/YuanTiAbomination2.png"
 visit: "https://www.archon-studio.com"
 ---

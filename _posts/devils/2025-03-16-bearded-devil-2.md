@@ -1,7 +1,7 @@
 ---
 title:  "Bearded Devil"
 metadate: "hide"
-categories: [ Fiends, Devils, Archon-Studio, DNL:Deuslair ]
+categories: [ Fiends, Devils, Archon-Studio, DnL-Deuslair ]
 image: "/assets/images/minis/devils/BeardedDevil2.png"
 visit: "https://archon-studio.com/"
 ---
