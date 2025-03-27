@@ -1,7 +1,7 @@
 ---
 title:  "Magic Shop Dealer"
 metadate: "hide"
-categories: [ Humans, NPCs, Casters, Loot-Studios, 3dPrint ]
+categories: [ Humans, NPCs, Casters, Loot-Studios, 3dPrints ]
 image: "/assets/images/minis/humanoid/humans/MagicShopDealer.png"
 visit: "https://lootstudios.com/"
 ---

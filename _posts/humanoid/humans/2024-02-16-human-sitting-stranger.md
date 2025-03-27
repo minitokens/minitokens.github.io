@@ -1,7 +1,7 @@
 ---
 title:  "Human Stranger"
 metadate: "hide"
-categories: [ Humans, NPCs, 3dPrint, Loot-Studios ]
+categories: [ Humans, NPCs, 3dPrints, Loot-Studios ]
 image: "/assets/images/minis/humanoid/humans/SittingStranger.webp"
 visit: "https://Loot-Studios.com/"
 ---

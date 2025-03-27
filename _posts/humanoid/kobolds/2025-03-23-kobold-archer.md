@@ -1,7 +1,7 @@
 ---
 title:  "Kobold Archer"
 metadate: "hide"
-categories: [ Kobolds, Archers, Yasashii, 3dPrint ]
+categories: [ Kobolds, Archers, Yasashii, 3dPrints ]
 image: "/assets/images/minis/humanoid/kobolds/KoboldArcher.png"
 visit: "https://www.patreon.com/Yasashiikyojinstudio"
 ---

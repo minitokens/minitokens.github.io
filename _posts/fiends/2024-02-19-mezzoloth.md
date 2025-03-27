@@ -1,7 +1,7 @@
 ---
 title:  "Mezzoloth"
 metadate: "hide"
-categories: [ Casters, Fiends, Loot-Studios, 3dPrint ]
+categories: [ Casters, Fiends, Loot-Studios, 3dPrints ]
 image: "/assets/images/minis/fiends/Mezzoloth.png"
 visit: "https://lootstudios.com/"
 ---

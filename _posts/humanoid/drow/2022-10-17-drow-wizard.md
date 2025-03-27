@@ -1,7 +1,7 @@
 ---
 title:  "Drow Wizard"
 metadate: "hide"
-categories: [ Drow, Casters, 3dPrint ]
+categories: [ Drow, Casters, 3dPrints ]
 image: "/assets/images/minis/humanoid/drow/DrowWizard.png"
 visit: "https://www.myminifactory.com/object/3d-print-kalanaar-dryaalein-drow-arachnomancer-143098"
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Death Tyrant"
 metadate: "hide"
-categories: [ Undead, Yasashii, 3dPrint ]
+categories: [ Undead, Yasashii, 3dPrints ]
 image: "/assets/images/minis/undead/DeathTyrant.png"
 visit: "https://www.patreon.com/Yasashiikyojinstudio"
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Myconid Kid"
 metadate: "hide"
-categories: [ Plants, Yasashii, 3dPrint ]
+categories: [ Plants, Yasashii, 3dPrints ]
 image: "/assets/images/minis/plants/MyconidKid2.png"
 visit: "https://www.patreon.com/Yasashiikyojinstudio"
 ---

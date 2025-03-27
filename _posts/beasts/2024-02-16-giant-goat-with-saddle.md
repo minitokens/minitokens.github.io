@@ -1,7 +1,7 @@
 ---
 title:  "Giant Goat with Saddle"
 metadate: "hide"
-categories: [ Beasts, Loot-Studios, 3dPrint ]
+categories: [ Beasts, Loot-Studios, 3dPrints ]
 image: "/assets/images/minis/beasts/GoatWithSaddle.png"
 visit: "https://Loot-Studios.com"
 ---

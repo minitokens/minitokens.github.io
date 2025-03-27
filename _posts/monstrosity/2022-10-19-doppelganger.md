@@ -1,7 +1,7 @@
 ---
 title:  "Doppelganger"
 metadate: "hide"
-categories: [ Monstrocities, Yasashii, 3dPrint ]
+categories: [ Monstrocities, Yasashii, 3dPrints ]
 image: "/assets/images/minis/monstrosity/Doppelganger.png"
 visit: "https://www.patreon.com/Yasashiikyojinstudio"
 ---

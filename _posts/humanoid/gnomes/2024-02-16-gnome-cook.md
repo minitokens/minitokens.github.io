@@ -1,7 +1,7 @@
 ---
 title:  "Gnome Rogue"
 metadate: "hide"
-categories: [ Gnomes, NPCs, 3dPrint ]
+categories: [ Gnomes, NPCs, 3dPrints ]
 image: "/assets/images/minis/humanoid/gnomes/GnomeCook.png"
 visit: "https://lastsword.com/"
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Manticore"
 metadate: "hide"
-categories: [ Monstrocities, Loot-Studios, 3dPrint ]
+categories: [ Monstrocities, Loot-Studios, 3dPrints ]
 image: "/assets/images/minis/monstrosity/Manticore.png"
 visit: "https://www.lootstudios.com"
 ---

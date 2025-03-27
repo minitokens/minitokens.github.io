@@ -1,7 +1,7 @@
 ---
 title:  "Gnome Priest"
 metadate: "hide"
-categories: [ Gnomes, Priests, 3dPrint ]
+categories: [ Gnomes, Priests, 3dPrints ]
 image: "/assets/images/minis/humanoid/gnomes/GnomePriest.png"
 visit: "https://www.myminifactory.com/object/3d-print-halfling-cleric-196273"
 ---

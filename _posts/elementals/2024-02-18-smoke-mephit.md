@@ -1,7 +1,7 @@
 ---
 title:  "Smoke Mephit"
 metadate: "hide"
-categories: [ Elementals, 3dPrint, Loot-Studios ]
+categories: [ Elementals, 3dPrints, Loot-Studios ]
 image: "/assets/images/minis/elementals/SmokeMephit1.png"
 visit: "https://lootstudios.com"
 ---

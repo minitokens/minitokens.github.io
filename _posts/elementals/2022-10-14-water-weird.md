@@ -1,7 +1,7 @@
 ---
 title:  "Water Weird"
 metadate: "hide"
-categories: [ Elementals, Water, Yasashii, 3dPrint ]
+categories: [ Elementals, Water, Yasashii, 3dPrints ]
 image: "/assets/images/minis/elementals/WaterWeird.png"
 visit: "https://www.patreon.com/Yasashiikyojinstudio"
 ---

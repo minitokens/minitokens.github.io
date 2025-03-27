@@ -1,7 +1,7 @@
 ---
 title:  "Giant Goat"
 metadate: "hide"
-categories: [ Beasts, Yasashii, 3dPrint ]
+categories: [ Beasts, Yasashii, 3dPrints ]
 image: "/assets/images/minis/beasts/GiantGoat.png"
 visit: "https://www.patreon.com/Yasashiikyojinstudio"
 ---

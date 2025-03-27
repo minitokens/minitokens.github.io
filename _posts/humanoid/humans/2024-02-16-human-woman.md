@@ -1,8 +1,6 @@
 ---
 title:  "Human Woman"
 metadate: "hide"
-categories: [ Humans, NPCs, Archon-Studio, DnL-Woodhaven ]
+categories: [ Humans, NPCs ]
 image: "/assets/images/minis/humanoid/humans/HumanWoman.png"
-visit: "https://archon-studio.com/"
 ---
-From the Archon-Studio Dungeons & Lasers: Woodhaven Campaign.

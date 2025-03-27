@@ -1,7 +1,7 @@
 ---
 title:  "Holy Weapon"
 metadate: "hide"
-categories: [ Spells, Loot-Studios, 3dPrint ]
+categories: [ Spells, Loot-Studios, 3dPrints ]
 image: "/assets/images/minis/spells/HolyWeapon.png"
 visit: "https://www.lootstudios.com"
 ---

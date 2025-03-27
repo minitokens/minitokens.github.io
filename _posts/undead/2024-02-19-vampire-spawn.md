@@ -1,7 +1,7 @@
 ---
 title:  "Vampire Spawn"
 metadate: "hide"
-categories: [ Undead, Loot-Studios, 3dPrint ]
+categories: [ Undead, Loot-Studios, 3dPrints ]
 image: "/assets/images/minis/undead/VampireSpawn.webp"
 visit: "https://www.lootstudios.com"
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Human Female Sailor"
 metadate: "hide"
-categories: [ Humans, NPCs, Fighters, Archon-Studio, DnL-Woodhaven ]
+categories: [ Humans, NPCs, Fighters, Loot-Studios ]
 image: "/assets/images/minis/humanoid/humans/FirstMate.webp"
 visit: "https://www.lootstudios.com"
 ---

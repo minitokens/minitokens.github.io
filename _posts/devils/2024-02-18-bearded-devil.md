@@ -1,7 +1,7 @@
 ---
 title:  "Bearded Devil"
 metadate: "hide"
-categories: [ Fiends, Devils, 3dPrint, Loot-Studios ]
+categories: [ Fiends, Devils, 3dPrints, Loot-Studios ]
 image: "/assets/images/minis/devils/BeardedDevil.png"
 url: "https://lootstudios.com"
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Spectator"
 metadate: "hide"
-categories: [ Abberations, 3dPrint ]
+categories: [ Abberations, 3dPrints ]
 image: "/assets/images/minis/Aberrations/Spectator.png"
 visit: "https://www.myminifactory.com/object/3d-print-spectator-184573"
 ---

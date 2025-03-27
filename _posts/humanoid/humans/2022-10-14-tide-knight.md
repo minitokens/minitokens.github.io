@@ -1,7 +1,7 @@
 ---
 title:  "Tide Knight"
 metadate: "hide"
-categories: [ Humans, Fighters, Water, 3dPrint ]
+categories: [ Humans, Fighters, Water, 3dPrints ]
 image: "/assets/images/minis/humanoid/humans/TideKnight.png"
 visit: "https://www.myminifactory.com/object/3d-print-sentek-il-wild-hunt-rider-142179"
 ---

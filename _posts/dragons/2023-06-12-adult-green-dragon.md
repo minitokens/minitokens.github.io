@@ -1,7 +1,7 @@
 ---
 title:  "Adult Green Dragon"
 metadate: "hide"
-categories: [ Dragons, 3dPrint ]
+categories: [ Dragons, 3dPrints ]
 image: "/assets/images/minis/dragons/GreenDragon1.png"
 visit: "https://www.myminifactory.com/object/3d-print-green-dragon-220055"
 ---
