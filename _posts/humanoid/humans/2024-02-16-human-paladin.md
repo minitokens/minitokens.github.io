@@ -1,8 +1,8 @@
 ---
 title:  "Human Paladin"
 metadate: "hide"
-categories: [ Humans, Fighters, Archon-Studio ]
+categories: [ Humans, Fighters, Archon-Studio, DnL-Woodhaven ]
 image: "/assets/images/minis/humanoid/humans/HumanPaladin.png"
 visit: "https://archon-studio.com/"
 ---
-From the Archon-Studio Dungeons & Lasers 3 Campaign.
+From the Archon-Studio Dungeons & Lasers: Woodhaven Campaign.

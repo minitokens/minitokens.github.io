@@ -1,7 +1,7 @@
 ---
 title:  "Giant Insect"
 metadate: "hide"
-categories: [ Beasts, Archon-Studio ]
+categories: [ Beasts, Archon-Studio, DnL-Encounters ]
 image: "/assets/images/minis/beasts/GiantInsect2.png"
 visit: "https://archon-studio.com/"
 ---

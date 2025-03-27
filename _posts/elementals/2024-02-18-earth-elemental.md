@@ -1,7 +1,7 @@
 ---
 title:  "Earth Elemental"
 metadate: "hide"
-categories: [ Elementals, Archon-Studio ]
+categories: [ Elementals, Earth, Archon-Studio, DnL-Encounters ]
 image: "/assets/images/minis/elementals/EarthElemental.png"
 visit: "https://archon-studio.com/"
 ---

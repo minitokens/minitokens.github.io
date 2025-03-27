@@ -1,7 +1,7 @@
 ---
 title:  "City Guard"
 metadate: "hide"
-categories: [ Humans, Fighters ]
+categories: [ Humans, Fighters, Archon-Studio, DnL-Woodhaven ]
 image: "/assets/images/minis/humanoid/humans/CityGuard4.png"
 visit: "https://www.archon-studio.com"
 ---

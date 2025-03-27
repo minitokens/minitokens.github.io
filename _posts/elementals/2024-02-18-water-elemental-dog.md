@@ -1,7 +1,7 @@
 ---
 title:  "Water Elemental Dog"
 metadate: "hide"
-categories: [ Elementals, Archon-Studio ]
+categories: [ Elementals, Water, Archon-Studio, DnL-Encounters ]
 image: "/assets/images/minis/elementals/WaterElementalDog.webp"
 visit: "https://archon-studio.com/"
 ---

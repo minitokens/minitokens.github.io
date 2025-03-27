@@ -1,7 +1,7 @@
 ---
 title:  "Merfolk Archer"
 metadate: "hide"
-categories: [ Merfolk, Archon-Studio ]
+categories: [ Merfolk, Archon-Studio, DnL-Deuslair ]
 image: "/assets/images/minis/humanoid/merfolk/MerfolkArcher.png"
 visit: "https://archon-studio.com/"
 ---

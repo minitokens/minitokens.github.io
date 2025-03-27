@@ -1,7 +1,7 @@
 ---
 title:  "Fire Elemental"
 metadate: "hide"
-categories: [ Elementals ]
+categories: [ Elementals, Fire ]
 image: "/assets/images/minis/elementals/FireElemental.webp"
 visit: "https://paizo.com/products/btpya151?Pathfinder-Deep-Cuts-Unpainted-Miniatures-Medium-Fire-Elemental"
 ---

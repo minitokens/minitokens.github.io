@@ -1,8 +1,8 @@
 ---
 title:  "Miner"
 metadate: "hide"
-categories: [ Dwarves, NPCs, Archon-Studio ]
+categories: [ Dwarves, NPCs, Archon-Studio, DnL-Encounters ]
 image: "/assets/images/minis/humanoid/dwarves/DwarfMiner.png"
 visit: "https://archon-studio.com/"
 ---
-From the Archon-Studio Dungeons & Lasers 3 Campaign.
+From the Archon-Studio Dungeons & Lasers: Woodhaven Campaign.

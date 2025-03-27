@@ -1,7 +1,7 @@
 ---
 title:  "Air Myrmidon"
 metadate: "hide"
-categories: [ Elementals, 3dPrint ]
+categories: [ Elementals, Air, 3dPrint ]
 image: "/assets/images/minis/elementals/AirMyrmidon.webp"
 visit: "https://www.myminifactory.com/object/3d-print-air-elemental-guard-198067"
 ---

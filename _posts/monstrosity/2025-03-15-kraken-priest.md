@@ -1,7 +1,7 @@
 ---
 title:  "Kraken Priest"
 metadate: "hide"
-categories: [ Monstrocities, Fighters, Archon-Studio ]
+categories: [ Monstrocities, Fighters, Archon-Studio, DnL-Deuslair ]
 image: "/assets/images/minis/monstrosity/KrakenPriest.png"
 visit: "https://www.archon-studio.com"
 ---

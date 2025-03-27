@@ -1,7 +1,7 @@
 ---
 title:  "Ice Mephit"
 metadate: "hide"
-categories: [ Elementals, 3dPrint ]
+categories: [ Elementals, Ice, 3dPrint ]
 image: "/assets/images/minis/elementals/IceMephit1.webp"
 visit: "https://www.myminifactory.com/object/3d-print-ancient-cold-set-winter-ice-encounter-frost-lands-collection-pre-supported-250254"
 ---

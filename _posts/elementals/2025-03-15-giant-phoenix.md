@@ -1,7 +1,7 @@
 ---
 title:  "Giant Phoenix"
 metadate: "hide"
-categories: [ Elementals, Fire, Archon-Studio ]
+categories: [ Elementals, Fire, Archon-Studio, DnL-Woodhaven ]
 image: "/assets/images/minis/elementals/GiantPhoenix.png"
 visit: "https://archon-studio.com/"
 ---

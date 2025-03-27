@@ -1,7 +1,7 @@
 ---
 title:  "Huge Giang Crab"
 metadate: "hide"
-categories: [ Beasts, Archon-Studio ]
+categories: [ Beasts, Archon-Studio, DnL-Encounters ]
 image: "/assets/images/minis/beasts/HugeGiantCrab.webp"
 visit: "https://archon-studio.com/"
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Corpse Collector"
 metadate: "hide"
-categories: [ Constructs, Games-Workshop ]
+categories: [ Constructs, Archon-Studio, DnL-Encounters ]
 image: "/assets/images/minis/constructs/CorpseCollector.png"
 visit: "https://archon-studio.com/"
 ---

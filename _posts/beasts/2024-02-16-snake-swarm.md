@@ -1,7 +1,7 @@
 ---
 title:  "Snake Swarm"
 metadate: "hide"
-categories: [ Beasts, Archon-Studio ]
+categories: [ Beasts, Archon-Studio, DnL-Encounters ]
 image: "/assets/images/minis/beasts/SnakeSwarm.webp"
 visit: "https://archon-studio.com/"
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Water Elemental"
 metadate: "hide"
-categories: [ Elementals, Archon-Studio ]
+categories: [ Elementals, Water, Archon-Studio, DnL-Encounters ]
 image: "/assets/images/minis/elementals/WaterElemental.webp"
 visit: "https://archon-studio.com/"
 ---

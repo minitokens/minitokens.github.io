@@ -1,8 +1,8 @@
 ---
 title:  "Human Smith"
 metadate: "hide"
-categories: [ Humans, NPCs, Fighters, Archon-Studio ]
+categories: [ Humans, NPCs, Fighters, Archon-Studio, DnL-Woodhaven ]
 image: "/assets/images/minis/humanoid/humans/Smith.png"
 visit: "https://archon-studio.com/"
 ---
-From the Archon-Studio Dungeons & Lasers 3 Campaign.
+From the Archon-Studio Dungeons & Lasers: Woodhaven Campaign.

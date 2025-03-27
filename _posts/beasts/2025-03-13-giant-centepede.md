@@ -1,7 +1,7 @@
 ---
 title:  "Giant Centepede"
 metadate: "hide"
-categories: [ Beasts, Archon-Studio ]
+categories: [ Beasts, Archon-Studio, DnL-Encounters ]
 image: "/assets/images/minis/beasts/GiantCentepede.png"
 visit: "https://archon-studio.com"
 ---
