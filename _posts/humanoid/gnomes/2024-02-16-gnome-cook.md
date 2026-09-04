@@ -1,5 +1,5 @@
 ---
-title:  "Gnome Rogue"
+title:  "Gnome Cook"
 metadate: "hide"
 categories: [ Gnomes, NPCs, 3dPrints ]
 image: "/assets/images/minis/humanoid/gnomes/GnomeCook.png"
