@@ -1,5 +1,5 @@
 ---
-title:  "Half-Ork Priest"
+title:  "Half-Orc Banner Bearer"
 metadate: "hide"
 categories: [ Orcs, Fighters, Games-Workshop ]
 image: "/assets/images/minis/humanoid/orcs/HalfOrcBannerBearer.png"

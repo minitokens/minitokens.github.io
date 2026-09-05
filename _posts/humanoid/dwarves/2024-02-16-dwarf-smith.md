@@ -1,5 +1,5 @@
 ---
-title:  "Dwarf Hammerer"
+title:  "Dwarf Smith"
 metadate: "hide"
 categories: [ Dwarves, NPCs, Loot-Studios ]
 image: "/assets/images/minis/humanoid/dwarves/Smith3.webp"

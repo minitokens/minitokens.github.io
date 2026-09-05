@@ -1,5 +1,5 @@
 ---
-title:  "Falcon"
+title:  "Giant Bat Swarm"
 metadate: "hide"
 categories: [ Beasts, Games-Workshop ]
 image: "/assets/images/minis/beasts/GiantBatSwarm.png"

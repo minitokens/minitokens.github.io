@@ -1,5 +1,5 @@
 ---
-title:  "Wererat"
+title:  "Wereraven"
 metadate: "hide"
 categories: [ Lycanthropes, Archers, Loot-Studios ]
 image: "/assets/images/minis/humanoid/lycanthropes/WereRaven.png"
