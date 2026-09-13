@@ -1,0 +1,10347 @@
+{
+  "aarakocra": {
+    "name": "Aarakocra",
+    "type": "humanoid",
+    "tags": [
+      "aarakocra"
+    ],
+    "source": "MM"
+  },
+  "aboleth": {
+    "name": "Aboleth",
+    "type": "aberration",
+    "tags": [],
+    "source": "MM"
+  },
+  "abominable yeti": {
+    "name": "Abominable Yeti",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "acolyte": {
+    "name": "Acolyte",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "adult black dragon": {
+    "name": "Adult Black Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "adult blue dracolich": {
+    "name": "Adult Blue Dracolich",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "adult blue dragon": {
+    "name": "Adult Blue Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "adult brass dragon": {
+    "name": "Adult Brass Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "adult bronze dragon": {
+    "name": "Adult Bronze Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "adult copper dragon": {
+    "name": "Adult Copper Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "adult gold dragon": {
+    "name": "Adult Gold Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "adult green dragon": {
+    "name": "Adult Green Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "adult red dragon": {
+    "name": "Adult Red Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "adult silver dragon": {
+    "name": "Adult Silver Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "adult white dragon": {
+    "name": "Adult White Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "air elemental": {
+    "name": "Air Elemental",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "allosaurus": {
+    "name": "Allosaurus",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "ancient black dragon": {
+    "name": "Ancient Black Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "ancient blue dragon": {
+    "name": "Ancient Blue Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "ancient brass dragon": {
+    "name": "Ancient Brass Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "ancient bronze dragon": {
+    "name": "Ancient Bronze Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "ancient copper dragon": {
+    "name": "Ancient Copper Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "ancient gold dragon": {
+    "name": "Ancient Gold Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "ancient green dragon": {
+    "name": "Ancient Green Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "ancient red dragon": {
+    "name": "Ancient Red Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "ancient silver dragon": {
+    "name": "Ancient Silver Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "ancient white dragon": {
+    "name": "Ancient White Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "androsphinx": {
+    "name": "Androsphinx",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "animated armor": {
+    "name": "Animated Armor",
+    "type": "construct",
+    "tags": [],
+    "source": "MM"
+  },
+  "ankheg": {
+    "name": "Ankheg",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "ankylosaurus": {
+    "name": "Ankylosaurus",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "ape": {
+    "name": "Ape",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "arcanaloth": {
+    "name": "Arcanaloth",
+    "type": "fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "source": "MM"
+  },
+  "archmage": {
+    "name": "Archmage",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "assassin": {
+    "name": "Assassin",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "awakened shrub": {
+    "name": "Awakened Shrub",
+    "type": "plant",
+    "tags": [],
+    "source": "MM"
+  },
+  "awakened tree": {
+    "name": "Awakened Tree",
+    "type": "plant",
+    "tags": [],
+    "source": "MM"
+  },
+  "axe beak": {
+    "name": "Axe Beak",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "azer": {
+    "name": "Azer",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "baboon": {
+    "name": "Baboon",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "badger": {
+    "name": "Badger",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "balor": {
+    "name": "Balor",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MM"
+  },
+  "bandit": {
+    "name": "Bandit",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "bandit captain": {
+    "name": "Bandit Captain",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "banshee": {
+    "name": "Banshee",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "barbed devil": {
+    "name": "Barbed Devil",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MM"
+  },
+  "barlgura": {
+    "name": "Barlgura",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MM"
+  },
+  "basilisk": {
+    "name": "Basilisk",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "bat": {
+    "name": "Bat",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "bearded devil": {
+    "name": "Bearded Devil",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MM"
+  },
+  "behir": {
+    "name": "Behir",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "beholder": {
+    "name": "Beholder",
+    "type": "aberration",
+    "tags": [],
+    "source": "MM"
+  },
+  "beholder zombie": {
+    "name": "Beholder Zombie",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "berserker": {
+    "name": "Berserker",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "black bear": {
+    "name": "Black Bear",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "black dragon wyrmling": {
+    "name": "Black Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "black pudding": {
+    "name": "Black Pudding",
+    "type": "ooze",
+    "tags": [],
+    "source": "MM"
+  },
+  "blink dog": {
+    "name": "Blink Dog",
+    "type": "fey",
+    "tags": [],
+    "source": "MM"
+  },
+  "blood hawk": {
+    "name": "Blood Hawk",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "blue dragon wyrmling": {
+    "name": "Blue Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "blue slaad": {
+    "name": "Blue Slaad",
+    "type": "aberration",
+    "tags": [],
+    "source": "MM"
+  },
+  "boar": {
+    "name": "Boar",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "bone devil": {
+    "name": "Bone Devil",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MM"
+  },
+  "bone naga (guardian)": {
+    "name": "Bone Naga (Guardian)",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "bone naga (spirit)": {
+    "name": "Bone Naga (Spirit)",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "brass dragon wyrmling": {
+    "name": "Brass Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "bronze dragon wyrmling": {
+    "name": "Bronze Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "brown bear": {
+    "name": "Brown Bear",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "bugbear": {
+    "name": "Bugbear",
+    "type": "humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "source": "MM"
+  },
+  "bugbear chief": {
+    "name": "Bugbear Chief",
+    "type": "humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "source": "MM"
+  },
+  "bulette": {
+    "name": "Bulette",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "bullywug": {
+    "name": "Bullywug",
+    "type": "humanoid",
+    "tags": [
+      "bullywug"
+    ],
+    "source": "MM"
+  },
+  "cambion": {
+    "name": "Cambion",
+    "type": "fiend",
+    "tags": [],
+    "source": "MM"
+  },
+  "camel": {
+    "name": "Camel",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "carrion crawler": {
+    "name": "Carrion Crawler",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "cat": {
+    "name": "Cat",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "cave bear": {
+    "name": "Cave Bear",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "centaur": {
+    "name": "Centaur",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "chain devil": {
+    "name": "Chain Devil",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MM"
+  },
+  "chasme": {
+    "name": "Chasme",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MM"
+  },
+  "chimera": {
+    "name": "Chimera",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "chuul": {
+    "name": "Chuul",
+    "type": "aberration",
+    "tags": [],
+    "source": "MM"
+  },
+  "clay golem": {
+    "name": "Clay Golem",
+    "type": "construct",
+    "tags": [],
+    "source": "MM"
+  },
+  "cloaker": {
+    "name": "Cloaker",
+    "type": "aberration",
+    "tags": [],
+    "source": "MM"
+  },
+  "cloud giant": {
+    "name": "Cloud Giant",
+    "type": "giant",
+    "tags": [],
+    "source": "MM"
+  },
+  "cockatrice": {
+    "name": "Cockatrice",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "commoner": {
+    "name": "Commoner",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "constrictor snake": {
+    "name": "Constrictor Snake",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "copper dragon wyrmling": {
+    "name": "Copper Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "couatl": {
+    "name": "Couatl",
+    "type": "celestial",
+    "tags": [],
+    "source": "MM"
+  },
+  "crab": {
+    "name": "Crab",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "crawling claw": {
+    "name": "Crawling Claw",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "crocodile": {
+    "name": "Crocodile",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "cult fanatic": {
+    "name": "Cult Fanatic",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "cultist": {
+    "name": "Cultist",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "cyclops": {
+    "name": "Cyclops",
+    "type": "giant",
+    "tags": [],
+    "source": "MM"
+  },
+  "dao": {
+    "name": "Dao",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "darkmantle": {
+    "name": "Darkmantle",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "death dog": {
+    "name": "Death Dog",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "death knight": {
+    "name": "Death Knight",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "death slaad": {
+    "name": "Death Slaad",
+    "type": "aberration",
+    "tags": [
+      "shapechanger"
+    ],
+    "source": "MM"
+  },
+  "death tyrant": {
+    "name": "Death Tyrant",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "deep gnome (svirfneblin)": {
+    "name": "Deep Gnome (Svirfneblin)",
+    "type": "humanoid",
+    "tags": [
+      "gnome"
+    ],
+    "source": "MM"
+  },
+  "deer": {
+    "name": "Deer",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "demilich": {
+    "name": "Demilich",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "deva": {
+    "name": "Deva",
+    "type": "celestial",
+    "tags": [],
+    "source": "MM"
+  },
+  "dire wolf": {
+    "name": "Dire Wolf",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "displacer beast": {
+    "name": "Displacer Beast",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "djinni": {
+    "name": "Djinni",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "doppelganger": {
+    "name": "Doppelganger",
+    "type": "monstrosity",
+    "tags": [
+      "shapechanger"
+    ],
+    "source": "MM"
+  },
+  "draft horse": {
+    "name": "Draft Horse",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "dragon turtle": {
+    "name": "Dragon Turtle",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "dretch": {
+    "name": "Dretch",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MM"
+  },
+  "drider": {
+    "name": "Drider",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "drow": {
+    "name": "Drow",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "elf",
+        "prefix": "Drow",
+        "prefixHidden": true
+      }
+    ],
+    "source": "MM"
+  },
+  "drow elite warrior": {
+    "name": "Drow Elite Warrior",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "elf",
+        "prefix": "Drow",
+        "prefixHidden": true
+      }
+    ],
+    "source": "MM"
+  },
+  "drow mage": {
+    "name": "Drow Mage",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "elf",
+        "prefix": "Drow",
+        "prefixHidden": true
+      }
+    ],
+    "source": "MM"
+  },
+  "drow priestess of lolth": {
+    "name": "Drow Priestess of Lolth",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "elf",
+        "prefix": "Drow",
+        "prefixHidden": true
+      }
+    ],
+    "source": "MM"
+  },
+  "druid": {
+    "name": "Druid",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "dryad": {
+    "name": "Dryad",
+    "type": "fey",
+    "tags": [],
+    "source": "MM"
+  },
+  "duergar": {
+    "name": "Duergar",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "MM"
+  },
+  "duodrone": {
+    "name": "Duodrone",
+    "type": "construct",
+    "tags": [],
+    "source": "MM"
+  },
+  "dust mephit": {
+    "name": "Dust Mephit",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "eagle": {
+    "name": "Eagle",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "earth elemental": {
+    "name": "Earth Elemental",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "efreeti": {
+    "name": "Efreeti",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "elephant": {
+    "name": "Elephant",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "elk": {
+    "name": "Elk",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "empyrean": {
+    "name": "Empyrean",
+    "type": "celestial",
+    "tags": [
+      "titan"
+    ],
+    "source": "MM"
+  },
+  "erinyes": {
+    "name": "Erinyes",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MM"
+  },
+  "ettercap": {
+    "name": "Ettercap",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "ettin": {
+    "name": "Ettin",
+    "type": "giant",
+    "tags": [],
+    "source": "MM"
+  },
+  "faerie dragon (blue)": {
+    "name": "Faerie Dragon (Blue)",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "faerie dragon (green)": {
+    "name": "Faerie Dragon (Green)",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "faerie dragon (indigo)": {
+    "name": "Faerie Dragon (Indigo)",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "faerie dragon (orange)": {
+    "name": "Faerie Dragon (Orange)",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "faerie dragon (red)": {
+    "name": "Faerie Dragon (Red)",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "faerie dragon (violet)": {
+    "name": "Faerie Dragon (Violet)",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "faerie dragon (yellow)": {
+    "name": "Faerie Dragon (Yellow)",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "fire elemental": {
+    "name": "Fire Elemental",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "fire giant": {
+    "name": "Fire Giant",
+    "type": "giant",
+    "tags": [],
+    "source": "MM"
+  },
+  "fire snake": {
+    "name": "Fire Snake",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "flameskull": {
+    "name": "Flameskull",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "flesh golem": {
+    "name": "Flesh Golem",
+    "type": "construct",
+    "tags": [],
+    "source": "MM"
+  },
+  "flumph": {
+    "name": "Flumph",
+    "type": "aberration",
+    "tags": [],
+    "source": "MM"
+  },
+  "flying snake": {
+    "name": "Flying Snake",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "flying sword": {
+    "name": "Flying Sword",
+    "type": "construct",
+    "tags": [],
+    "source": "MM"
+  },
+  "fomorian": {
+    "name": "Fomorian",
+    "type": "giant",
+    "tags": [],
+    "source": "MM"
+  },
+  "frog": {
+    "name": "Frog",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "frost giant": {
+    "name": "Frost Giant",
+    "type": "giant",
+    "tags": [],
+    "source": "MM"
+  },
+  "galeb duhr": {
+    "name": "Galeb Duhr",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "gargoyle": {
+    "name": "Gargoyle",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "gas spore": {
+    "name": "Gas Spore",
+    "type": "plant",
+    "tags": [],
+    "source": "MM"
+  },
+  "gelatinous cube": {
+    "name": "Gelatinous Cube",
+    "type": "ooze",
+    "tags": [],
+    "source": "MM"
+  },
+  "ghast": {
+    "name": "Ghast",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "ghost": {
+    "name": "Ghost",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "ghoul": {
+    "name": "Ghoul",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant ape": {
+    "name": "Giant Ape",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant badger": {
+    "name": "Giant Badger",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant bat": {
+    "name": "Giant Bat",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant boar": {
+    "name": "Giant Boar",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant centipede": {
+    "name": "Giant Centipede",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant constrictor snake": {
+    "name": "Giant Constrictor Snake",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant crab": {
+    "name": "Giant Crab",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant crocodile": {
+    "name": "Giant Crocodile",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant eagle": {
+    "name": "Giant Eagle",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant elk": {
+    "name": "Giant Elk",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant fire beetle": {
+    "name": "Giant Fire Beetle",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant frog": {
+    "name": "Giant Frog",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant goat": {
+    "name": "Giant Goat",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant hyena": {
+    "name": "Giant Hyena",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant lizard": {
+    "name": "Giant Lizard",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant octopus": {
+    "name": "Giant Octopus",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant owl": {
+    "name": "Giant Owl",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant poisonous snake": {
+    "name": "Giant Poisonous Snake",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant rat": {
+    "name": "Giant Rat",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant scorpion": {
+    "name": "Giant Scorpion",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant sea horse": {
+    "name": "Giant Sea Horse",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant shark": {
+    "name": "Giant Shark",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant spider": {
+    "name": "Giant Spider",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant toad": {
+    "name": "Giant Toad",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant vulture": {
+    "name": "Giant Vulture",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant wasp": {
+    "name": "Giant Wasp",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant weasel": {
+    "name": "Giant Weasel",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "giant wolf spider": {
+    "name": "Giant Wolf Spider",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "gibbering mouther": {
+    "name": "Gibbering Mouther",
+    "type": "aberration",
+    "tags": [],
+    "source": "MM"
+  },
+  "githyanki knight": {
+    "name": "Githyanki Knight",
+    "type": "humanoid",
+    "tags": [
+      "gith"
+    ],
+    "source": "MM"
+  },
+  "githyanki warrior": {
+    "name": "Githyanki Warrior",
+    "type": "humanoid",
+    "tags": [
+      "gith"
+    ],
+    "source": "MM"
+  },
+  "githzerai monk": {
+    "name": "Githzerai Monk",
+    "type": "humanoid",
+    "tags": [
+      "gith"
+    ],
+    "source": "MM"
+  },
+  "githzerai zerth": {
+    "name": "Githzerai Zerth",
+    "type": "humanoid",
+    "tags": [
+      "gith"
+    ],
+    "source": "MM"
+  },
+  "glabrezu": {
+    "name": "Glabrezu",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MM"
+  },
+  "gladiator": {
+    "name": "Gladiator",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "gnoll": {
+    "name": "Gnoll",
+    "type": "humanoid",
+    "tags": [
+      "gnoll"
+    ],
+    "source": "MM"
+  },
+  "gnoll fang of yeenoghu": {
+    "name": "Gnoll Fang of Yeenoghu",
+    "type": "fiend",
+    "tags": [
+      "gnoll"
+    ],
+    "source": "MM"
+  },
+  "gnoll pack lord": {
+    "name": "Gnoll Pack Lord",
+    "type": "humanoid",
+    "tags": [
+      "gnoll"
+    ],
+    "source": "MM"
+  },
+  "goat": {
+    "name": "Goat",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "goblin": {
+    "name": "Goblin",
+    "type": "humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "source": "MM"
+  },
+  "goblin boss": {
+    "name": "Goblin Boss",
+    "type": "humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "source": "MM"
+  },
+  "gold dragon wyrmling": {
+    "name": "Gold Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "gorgon": {
+    "name": "Gorgon",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "goristro": {
+    "name": "Goristro",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MM"
+  },
+  "gray ooze": {
+    "name": "Gray Ooze",
+    "type": "ooze",
+    "tags": [],
+    "source": "MM"
+  },
+  "gray slaad": {
+    "name": "Gray Slaad",
+    "type": "aberration",
+    "tags": [
+      "shapechanger"
+    ],
+    "source": "MM"
+  },
+  "green dragon wyrmling": {
+    "name": "Green Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "green hag": {
+    "name": "Green Hag",
+    "type": "fey",
+    "tags": [],
+    "source": "MM"
+  },
+  "green slaad": {
+    "name": "Green Slaad",
+    "type": "aberration",
+    "tags": [
+      "shapechanger"
+    ],
+    "source": "MM"
+  },
+  "grell": {
+    "name": "Grell",
+    "type": "aberration",
+    "tags": [],
+    "source": "MM"
+  },
+  "grick": {
+    "name": "Grick",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "grick alpha": {
+    "name": "Grick Alpha",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "griffon": {
+    "name": "Griffon",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "grimlock": {
+    "name": "Grimlock",
+    "type": "humanoid",
+    "tags": [
+      "grimlock"
+    ],
+    "source": "MM"
+  },
+  "guard": {
+    "name": "Guard",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "guardian naga": {
+    "name": "Guardian Naga",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "gynosphinx": {
+    "name": "Gynosphinx",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "half-ogre (ogrillon)": {
+    "name": "Half-Ogre (Ogrillon)",
+    "type": "giant",
+    "tags": [],
+    "source": "MM"
+  },
+  "half-red dragon veteran": {
+    "name": "Half-Red Dragon Veteran",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "MM"
+  },
+  "harpy": {
+    "name": "Harpy",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "hawk": {
+    "name": "Hawk",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "hell hound": {
+    "name": "Hell Hound",
+    "type": "fiend",
+    "tags": [],
+    "source": "MM"
+  },
+  "helmed horror": {
+    "name": "Helmed Horror",
+    "type": "construct",
+    "tags": [],
+    "source": "MM"
+  },
+  "hezrou": {
+    "name": "Hezrou",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MM"
+  },
+  "hill giant": {
+    "name": "Hill Giant",
+    "type": "giant",
+    "tags": [],
+    "source": "MM"
+  },
+  "hippogriff": {
+    "name": "Hippogriff",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "hobgoblin": {
+    "name": "Hobgoblin",
+    "type": "humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "source": "MM"
+  },
+  "hobgoblin captain": {
+    "name": "Hobgoblin Captain",
+    "type": "humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "source": "MM"
+  },
+  "hobgoblin warlord": {
+    "name": "Hobgoblin Warlord",
+    "type": "humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "source": "MM"
+  },
+  "homunculus": {
+    "name": "Homunculus",
+    "type": "construct",
+    "tags": [],
+    "source": "MM"
+  },
+  "hook horror": {
+    "name": "Hook Horror",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "horned devil": {
+    "name": "Horned Devil",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MM"
+  },
+  "hunter shark": {
+    "name": "Hunter Shark",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "hydra": {
+    "name": "Hydra",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "hyena": {
+    "name": "Hyena",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "ice devil": {
+    "name": "Ice Devil",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MM"
+  },
+  "ice mephit": {
+    "name": "Ice Mephit",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "imp": {
+    "name": "Imp",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MM"
+  },
+  "incubus": {
+    "name": "Incubus",
+    "type": "fiend",
+    "tags": [
+      "shapechanger"
+    ],
+    "source": "MM"
+  },
+  "intellect devourer": {
+    "name": "Intellect Devourer",
+    "type": "aberration",
+    "tags": [],
+    "source": "MM"
+  },
+  "invisible stalker": {
+    "name": "Invisible Stalker",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "iron golem": {
+    "name": "Iron Golem",
+    "type": "construct",
+    "tags": [],
+    "source": "MM"
+  },
+  "jackal": {
+    "name": "Jackal",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "jackalwere": {
+    "name": "Jackalwere",
+    "type": "humanoid",
+    "tags": [
+      "shapechanger"
+    ],
+    "source": "MM"
+  },
+  "kenku": {
+    "name": "Kenku",
+    "type": "humanoid",
+    "tags": [
+      "kenku"
+    ],
+    "source": "MM"
+  },
+  "killer whale": {
+    "name": "Killer Whale",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "knight": {
+    "name": "Knight",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "kobold": {
+    "name": "Kobold",
+    "type": "humanoid",
+    "tags": [
+      "kobold"
+    ],
+    "source": "MM"
+  },
+  "kraken": {
+    "name": "Kraken",
+    "type": "monstrosity",
+    "tags": [
+      "titan"
+    ],
+    "source": "MM"
+  },
+  "kuo-toa": {
+    "name": "Kuo-toa",
+    "type": "humanoid",
+    "tags": [
+      "kuo-toa"
+    ],
+    "source": "MM"
+  },
+  "kuo-toa archpriest": {
+    "name": "Kuo-toa Archpriest",
+    "type": "humanoid",
+    "tags": [
+      "kuo-toa"
+    ],
+    "source": "MM"
+  },
+  "kuo-toa monitor": {
+    "name": "Kuo-toa Monitor",
+    "type": "humanoid",
+    "tags": [
+      "kuo-toa"
+    ],
+    "source": "MM"
+  },
+  "kuo-toa whip": {
+    "name": "Kuo-toa Whip",
+    "type": "humanoid",
+    "tags": [
+      "kuo-toa"
+    ],
+    "source": "MM"
+  },
+  "lamia": {
+    "name": "Lamia",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "lemure": {
+    "name": "Lemure",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MM"
+  },
+  "lich": {
+    "name": "Lich",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "lion": {
+    "name": "Lion",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "lizard": {
+    "name": "Lizard",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "lizard king": {
+    "name": "Lizard King",
+    "type": "humanoid",
+    "tags": [
+      "lizardfolk"
+    ],
+    "source": "MM"
+  },
+  "lizard queen": {
+    "name": "Lizard Queen",
+    "type": "humanoid",
+    "tags": [
+      "lizardfolk"
+    ],
+    "source": "MM"
+  },
+  "lizardfolk": {
+    "name": "Lizardfolk",
+    "type": "humanoid",
+    "tags": [
+      "lizardfolk"
+    ],
+    "source": "MM"
+  },
+  "lizardfolk shaman": {
+    "name": "Lizardfolk Shaman",
+    "type": "humanoid",
+    "tags": [
+      "lizardfolk"
+    ],
+    "source": "MM"
+  },
+  "mage": {
+    "name": "Mage",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "magma mephit": {
+    "name": "Magma Mephit",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "magmin": {
+    "name": "Magmin",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "mammoth": {
+    "name": "Mammoth",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "manes": {
+    "name": "Manes",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MM"
+  },
+  "manticore": {
+    "name": "Manticore",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "marid": {
+    "name": "Marid",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "marilith": {
+    "name": "Marilith",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MM"
+  },
+  "mastiff": {
+    "name": "Mastiff",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "medusa": {
+    "name": "Medusa",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "merfolk": {
+    "name": "Merfolk",
+    "type": "humanoid",
+    "tags": [
+      "merfolk"
+    ],
+    "source": "MM"
+  },
+  "merrow": {
+    "name": "Merrow",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "mezzoloth": {
+    "name": "Mezzoloth",
+    "type": "fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "source": "MM"
+  },
+  "mimic": {
+    "name": "Mimic",
+    "type": "monstrosity",
+    "tags": [
+      "shapechanger"
+    ],
+    "source": "MM"
+  },
+  "mind flayer": {
+    "name": "Mind Flayer",
+    "type": "aberration",
+    "tags": [],
+    "source": "MM"
+  },
+  "mind flayer arcanist": {
+    "name": "Mind Flayer Arcanist",
+    "type": "aberration",
+    "tags": [],
+    "source": "MM"
+  },
+  "minotaur": {
+    "name": "Minotaur",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "minotaur skeleton": {
+    "name": "Minotaur Skeleton",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "monodrone": {
+    "name": "Monodrone",
+    "type": "construct",
+    "tags": [],
+    "source": "MM"
+  },
+  "mud mephit": {
+    "name": "Mud Mephit",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "mule": {
+    "name": "Mule",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "mummy": {
+    "name": "Mummy",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "mummy lord": {
+    "name": "Mummy Lord",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "myconid adult": {
+    "name": "Myconid Adult",
+    "type": "plant",
+    "tags": [],
+    "source": "MM"
+  },
+  "myconid sovereign": {
+    "name": "Myconid Sovereign",
+    "type": "plant",
+    "tags": [],
+    "source": "MM"
+  },
+  "myconid sprout": {
+    "name": "Myconid Sprout",
+    "type": "plant",
+    "tags": [],
+    "source": "MM"
+  },
+  "nalfeshnee": {
+    "name": "Nalfeshnee",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MM"
+  },
+  "needle blight": {
+    "name": "Needle Blight",
+    "type": "plant",
+    "tags": [],
+    "source": "MM"
+  },
+  "night hag": {
+    "name": "Night Hag",
+    "type": "fiend",
+    "tags": [],
+    "source": "MM"
+  },
+  "nightmare": {
+    "name": "Nightmare",
+    "type": "fiend",
+    "tags": [],
+    "source": "MM"
+  },
+  "noble": {
+    "name": "Noble",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "nothic": {
+    "name": "Nothic",
+    "type": "aberration",
+    "tags": [],
+    "source": "MM"
+  },
+  "nycaloth": {
+    "name": "Nycaloth",
+    "type": "fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "source": "MM"
+  },
+  "ochre jelly": {
+    "name": "Ochre Jelly",
+    "type": "ooze",
+    "tags": [],
+    "source": "MM"
+  },
+  "octopus": {
+    "name": "Octopus",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "ogre": {
+    "name": "Ogre",
+    "type": "giant",
+    "tags": [],
+    "source": "MM"
+  },
+  "ogre zombie": {
+    "name": "Ogre Zombie",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "oni": {
+    "name": "Oni",
+    "type": "giant",
+    "tags": [],
+    "source": "MM"
+  },
+  "orc": {
+    "name": "Orc",
+    "type": "humanoid",
+    "tags": [
+      "orc"
+    ],
+    "source": "MM"
+  },
+  "orc eye of gruumsh": {
+    "name": "Orc Eye of Gruumsh",
+    "type": "humanoid",
+    "tags": [
+      "orc"
+    ],
+    "source": "MM"
+  },
+  "orc war chief": {
+    "name": "Orc War Chief",
+    "type": "humanoid",
+    "tags": [
+      "orc"
+    ],
+    "source": "MM"
+  },
+  "orog": {
+    "name": "Orog",
+    "type": "humanoid",
+    "tags": [
+      "orc"
+    ],
+    "source": "MM"
+  },
+  "otyugh": {
+    "name": "Otyugh",
+    "type": "aberration",
+    "tags": [],
+    "source": "MM"
+  },
+  "owl": {
+    "name": "Owl",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "owlbear": {
+    "name": "Owlbear",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "panther": {
+    "name": "Panther",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "pegasus": {
+    "name": "Pegasus",
+    "type": "celestial",
+    "tags": [],
+    "source": "MM"
+  },
+  "pentadrone": {
+    "name": "Pentadrone",
+    "type": "construct",
+    "tags": [],
+    "source": "MM"
+  },
+  "peryton": {
+    "name": "Peryton",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "phase spider": {
+    "name": "Phase Spider",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "piercer": {
+    "name": "Piercer",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "pit fiend": {
+    "name": "Pit Fiend",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MM"
+  },
+  "pixie": {
+    "name": "Pixie",
+    "type": "fey",
+    "tags": [],
+    "source": "MM"
+  },
+  "planetar": {
+    "name": "Planetar",
+    "type": "celestial",
+    "tags": [],
+    "source": "MM"
+  },
+  "plesiosaurus": {
+    "name": "Plesiosaurus",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "poisonous snake": {
+    "name": "Poisonous Snake",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "polar bear": {
+    "name": "Polar Bear",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "poltergeist": {
+    "name": "Poltergeist",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "pony": {
+    "name": "Pony",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "priest": {
+    "name": "Priest",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "pseudodragon": {
+    "name": "Pseudodragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "pteranodon": {
+    "name": "Pteranodon",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "purple worm": {
+    "name": "Purple Worm",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "quadrone": {
+    "name": "Quadrone",
+    "type": "construct",
+    "tags": [],
+    "source": "MM"
+  },
+  "quaggoth": {
+    "name": "Quaggoth",
+    "type": "humanoid",
+    "tags": [
+      "quaggoth"
+    ],
+    "source": "MM"
+  },
+  "quaggoth spore servant": {
+    "name": "Quaggoth Spore Servant",
+    "type": "plant",
+    "tags": [],
+    "source": "MM"
+  },
+  "quaggoth thonot": {
+    "name": "Quaggoth Thonot",
+    "type": "humanoid",
+    "tags": [
+      "quaggoth"
+    ],
+    "source": "MM"
+  },
+  "quasit": {
+    "name": "Quasit",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MM"
+  },
+  "quipper": {
+    "name": "Quipper",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "rakshasa": {
+    "name": "Rakshasa",
+    "type": "fiend",
+    "tags": [],
+    "source": "MM"
+  },
+  "rat": {
+    "name": "Rat",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "raven": {
+    "name": "Raven",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "red dragon wyrmling": {
+    "name": "Red Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "red slaad": {
+    "name": "Red Slaad",
+    "type": "aberration",
+    "tags": [],
+    "source": "MM"
+  },
+  "reef shark": {
+    "name": "Reef Shark",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "remorhaz": {
+    "name": "Remorhaz",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "revenant": {
+    "name": "Revenant",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "rhinoceros": {
+    "name": "Rhinoceros",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "riding horse": {
+    "name": "Riding Horse",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "roc": {
+    "name": "Roc",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "roper": {
+    "name": "Roper",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "rug of smothering": {
+    "name": "Rug of Smothering",
+    "type": "construct",
+    "tags": [],
+    "source": "MM"
+  },
+  "rust monster": {
+    "name": "Rust Monster",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "saber-toothed tiger": {
+    "name": "Saber-Toothed Tiger",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "sahuagin": {
+    "name": "Sahuagin",
+    "type": "humanoid",
+    "tags": [
+      "sahuagin"
+    ],
+    "source": "MM"
+  },
+  "sahuagin baron": {
+    "name": "Sahuagin Baron",
+    "type": "humanoid",
+    "tags": [
+      "sahuagin"
+    ],
+    "source": "MM"
+  },
+  "sahuagin priestess": {
+    "name": "Sahuagin Priestess",
+    "type": "humanoid",
+    "tags": [
+      "sahuagin"
+    ],
+    "source": "MM"
+  },
+  "salamander": {
+    "name": "Salamander",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "satyr": {
+    "name": "Satyr",
+    "type": "fey",
+    "tags": [],
+    "source": "MM"
+  },
+  "scarecrow": {
+    "name": "Scarecrow",
+    "type": "construct",
+    "tags": [],
+    "source": "MM"
+  },
+  "scorpion": {
+    "name": "Scorpion",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "scout": {
+    "name": "Scout",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "sea hag": {
+    "name": "Sea Hag",
+    "type": "fey",
+    "tags": [],
+    "source": "MM"
+  },
+  "sea horse": {
+    "name": "Sea Horse",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "shadow": {
+    "name": "Shadow",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "shadow demon": {
+    "name": "Shadow Demon",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MM"
+  },
+  "shambling mound": {
+    "name": "Shambling Mound",
+    "type": "plant",
+    "tags": [],
+    "source": "MM"
+  },
+  "shield guardian": {
+    "name": "Shield Guardian",
+    "type": "construct",
+    "tags": [],
+    "source": "MM"
+  },
+  "shrieker": {
+    "name": "Shrieker",
+    "type": "plant",
+    "tags": [],
+    "source": "MM"
+  },
+  "silver dragon wyrmling": {
+    "name": "Silver Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "skeleton": {
+    "name": "Skeleton",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "slaad tadpole": {
+    "name": "Slaad Tadpole",
+    "type": "aberration",
+    "tags": [],
+    "source": "MM"
+  },
+  "smoke mephit": {
+    "name": "Smoke Mephit",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "solar": {
+    "name": "Solar",
+    "type": "celestial",
+    "tags": [],
+    "source": "MM"
+  },
+  "spectator": {
+    "name": "Spectator",
+    "type": "aberration",
+    "tags": [],
+    "source": "MM"
+  },
+  "specter": {
+    "name": "Specter",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "spider": {
+    "name": "Spider",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "spined devil": {
+    "name": "Spined Devil",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MM"
+  },
+  "spirit naga": {
+    "name": "Spirit Naga",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "sprite": {
+    "name": "Sprite",
+    "type": "fey",
+    "tags": [],
+    "source": "MM"
+  },
+  "spy": {
+    "name": "Spy",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "steam mephit": {
+    "name": "Steam Mephit",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "stirge": {
+    "name": "Stirge",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "stone giant": {
+    "name": "Stone Giant",
+    "type": "giant",
+    "tags": [],
+    "source": "MM"
+  },
+  "stone golem": {
+    "name": "Stone Golem",
+    "type": "construct",
+    "tags": [],
+    "source": "MM"
+  },
+  "storm giant": {
+    "name": "Storm Giant",
+    "type": "giant",
+    "tags": [],
+    "source": "MM"
+  },
+  "succubus": {
+    "name": "Succubus",
+    "type": "fiend",
+    "tags": [
+      "shapechanger"
+    ],
+    "source": "MM"
+  },
+  "swarm of bats": {
+    "name": "Swarm of Bats",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "swarm of beetles": {
+    "name": "Swarm of Beetles",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "swarm of centipedes": {
+    "name": "Swarm of Centipedes",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "swarm of insects": {
+    "name": "Swarm of Insects",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "swarm of poisonous snakes": {
+    "name": "Swarm of Poisonous Snakes",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "swarm of quippers": {
+    "name": "Swarm of Quippers",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "swarm of rats": {
+    "name": "Swarm of Rats",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "swarm of ravens": {
+    "name": "Swarm of Ravens",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "swarm of spiders": {
+    "name": "Swarm of Spiders",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "swarm of wasps": {
+    "name": "Swarm of Wasps",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "tarrasque": {
+    "name": "Tarrasque",
+    "type": "monstrosity",
+    "tags": [
+      "titan"
+    ],
+    "source": "MM"
+  },
+  "thri-kreen": {
+    "name": "Thri-kreen",
+    "type": "humanoid",
+    "tags": [
+      "thri-kreen"
+    ],
+    "source": "MM"
+  },
+  "thug": {
+    "name": "Thug",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "tiger": {
+    "name": "Tiger",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "treant": {
+    "name": "Treant",
+    "type": "plant",
+    "tags": [],
+    "source": "MM"
+  },
+  "tribal warrior": {
+    "name": "Tribal Warrior",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "triceratops": {
+    "name": "Triceratops",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "tridrone": {
+    "name": "Tridrone",
+    "type": "construct",
+    "tags": [],
+    "source": "MM"
+  },
+  "troglodyte": {
+    "name": "Troglodyte",
+    "type": "humanoid",
+    "tags": [
+      "troglodyte"
+    ],
+    "source": "MM"
+  },
+  "troll": {
+    "name": "Troll",
+    "type": "giant",
+    "tags": [],
+    "source": "MM"
+  },
+  "twig blight": {
+    "name": "Twig Blight",
+    "type": "plant",
+    "tags": [],
+    "source": "MM"
+  },
+  "tyrannosaurus rex": {
+    "name": "Tyrannosaurus Rex",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "ultroloth": {
+    "name": "Ultroloth",
+    "type": "fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "source": "MM"
+  },
+  "umber hulk": {
+    "name": "Umber Hulk",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "unicorn": {
+    "name": "Unicorn",
+    "type": "celestial",
+    "tags": [],
+    "source": "MM"
+  },
+  "vampire": {
+    "name": "Vampire",
+    "type": "undead",
+    "tags": [
+      "shapechanger"
+    ],
+    "source": "MM"
+  },
+  "vampire spawn": {
+    "name": "Vampire Spawn",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "vampire spellcaster": {
+    "name": "Vampire Spellcaster",
+    "type": "undead",
+    "tags": [
+      "shapechanger"
+    ],
+    "source": "MM"
+  },
+  "vampire warrior": {
+    "name": "Vampire Warrior",
+    "type": "undead",
+    "tags": [
+      "shapechanger"
+    ],
+    "source": "MM"
+  },
+  "veteran": {
+    "name": "Veteran",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "MM"
+  },
+  "vine blight": {
+    "name": "Vine Blight",
+    "type": "plant",
+    "tags": [],
+    "source": "MM"
+  },
+  "violet fungus": {
+    "name": "Violet Fungus",
+    "type": "plant",
+    "tags": [],
+    "source": "MM"
+  },
+  "vrock": {
+    "name": "Vrock",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MM"
+  },
+  "vulture": {
+    "name": "Vulture",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "warhorse": {
+    "name": "Warhorse",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "warhorse skeleton": {
+    "name": "Warhorse Skeleton",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "water elemental": {
+    "name": "Water Elemental",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "water weird": {
+    "name": "Water Weird",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "weasel": {
+    "name": "Weasel",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "werebear": {
+    "name": "Werebear",
+    "type": "humanoid",
+    "tags": [
+      "human",
+      "shapechanger"
+    ],
+    "source": "MM"
+  },
+  "wereboar": {
+    "name": "Wereboar",
+    "type": "humanoid",
+    "tags": [
+      "human",
+      "shapechanger"
+    ],
+    "source": "MM"
+  },
+  "wererat": {
+    "name": "Wererat",
+    "type": "humanoid",
+    "tags": [
+      "human",
+      "shapechanger"
+    ],
+    "source": "MM"
+  },
+  "weretiger": {
+    "name": "Weretiger",
+    "type": "humanoid",
+    "tags": [
+      "human",
+      "shapechanger"
+    ],
+    "source": "MM"
+  },
+  "werewolf": {
+    "name": "Werewolf",
+    "type": "humanoid",
+    "tags": [
+      "human",
+      "shapechanger"
+    ],
+    "source": "MM"
+  },
+  "white dragon wyrmling": {
+    "name": "White Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "wight": {
+    "name": "Wight",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "will-o'-wisp": {
+    "name": "Will-o'-Wisp",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "winged kobold": {
+    "name": "Winged Kobold",
+    "type": "humanoid",
+    "tags": [
+      "kobold"
+    ],
+    "source": "MM"
+  },
+  "winter wolf": {
+    "name": "Winter Wolf",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "wolf": {
+    "name": "Wolf",
+    "type": "beast",
+    "tags": [],
+    "source": "MM"
+  },
+  "worg": {
+    "name": "Worg",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "wraith": {
+    "name": "Wraith",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "wyvern": {
+    "name": "Wyvern",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "xorn": {
+    "name": "Xorn",
+    "type": "elemental",
+    "tags": [],
+    "source": "MM"
+  },
+  "yeti": {
+    "name": "Yeti",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "yochlol": {
+    "name": "Yochlol",
+    "type": "fiend",
+    "tags": [
+      "demon",
+      "shapechanger"
+    ],
+    "source": "MM"
+  },
+  "young black dragon": {
+    "name": "Young Black Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "young blue dragon": {
+    "name": "Young Blue Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "young brass dragon": {
+    "name": "Young Brass Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "young bronze dragon": {
+    "name": "Young Bronze Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "young copper dragon": {
+    "name": "Young Copper Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "young gold dragon": {
+    "name": "Young Gold Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "young green dragon": {
+    "name": "Young Green Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "young red dragon": {
+    "name": "Young Red Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "young red shadow dragon": {
+    "name": "Young Red Shadow Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "young remorhaz": {
+    "name": "Young Remorhaz",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MM"
+  },
+  "young silver dragon": {
+    "name": "Young Silver Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "young white dragon": {
+    "name": "Young White Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "MM"
+  },
+  "yuan-ti abomination": {
+    "name": "Yuan-ti Abomination",
+    "type": "monstrosity",
+    "tags": [
+      "shapechanger",
+      "yuan-ti"
+    ],
+    "source": "MM"
+  },
+  "yuan-ti malison (type 1)": {
+    "name": "Yuan-ti Malison (Type 1)",
+    "type": "monstrosity",
+    "tags": [
+      "shapechanger",
+      "yuan-ti"
+    ],
+    "source": "MM"
+  },
+  "yuan-ti malison (type 2)": {
+    "name": "Yuan-ti Malison (Type 2)",
+    "type": "monstrosity",
+    "tags": [
+      "shapechanger",
+      "yuan-ti"
+    ],
+    "source": "MM"
+  },
+  "yuan-ti malison (type 3)": {
+    "name": "Yuan-ti Malison (Type 3)",
+    "type": "monstrosity",
+    "tags": [
+      "shapechanger",
+      "yuan-ti"
+    ],
+    "source": "MM"
+  },
+  "yuan-ti pureblood": {
+    "name": "Yuan-ti Pureblood",
+    "type": "humanoid",
+    "tags": [
+      "yuan-ti"
+    ],
+    "source": "MM"
+  },
+  "zombie": {
+    "name": "Zombie",
+    "type": "undead",
+    "tags": [],
+    "source": "MM"
+  },
+  "abjurer": {
+    "name": "Abjurer",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "VGM"
+  },
+  "alhoon": {
+    "name": "Alhoon",
+    "type": "undead",
+    "tags": [
+      "mind flayer",
+      "wizard"
+    ],
+    "source": "MPMM"
+  },
+  "annis hag": {
+    "name": "Annis Hag",
+    "type": "fey",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "apprentice wizard": {
+    "name": "Apprentice Wizard",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "archdruid": {
+    "name": "Archdruid",
+    "type": "humanoid",
+    "tags": [
+      "druid"
+    ],
+    "source": "MPMM"
+  },
+  "archer": {
+    "name": "Archer",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "aurochs": {
+    "name": "Aurochs",
+    "type": "beast",
+    "tags": [
+      "cattle"
+    ],
+    "source": "MPMM"
+  },
+  "babau": {
+    "name": "Babau",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MPMM"
+  },
+  "banderhobb": {
+    "name": "Banderhobb",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "bard": {
+    "name": "Bard",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "barghest": {
+    "name": "Barghest",
+    "type": "fiend",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "bheur hag": {
+    "name": "Bheur Hag",
+    "type": "fey",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "black guard drake": {
+    "name": "Black Guard Drake",
+    "type": "dragon",
+    "tags": [],
+    "source": "VGM"
+  },
+  "blackguard": {
+    "name": "Blackguard",
+    "type": "humanoid",
+    "tags": [
+      "paladin"
+    ],
+    "source": "MPMM"
+  },
+  "blue guard drake": {
+    "name": "Blue Guard Drake",
+    "type": "dragon",
+    "tags": [],
+    "source": "VGM"
+  },
+  "bodak": {
+    "name": "Bodak",
+    "type": "undead",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "boggle": {
+    "name": "Boggle",
+    "type": "fey",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "brontosaurus": {
+    "name": "Brontosaurus",
+    "type": "beast",
+    "tags": [
+      "dinosaur"
+    ],
+    "source": "MPMM"
+  },
+  "catoblepas": {
+    "name": "Catoblepas",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "cave fisher": {
+    "name": "Cave Fisher",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "champion": {
+    "name": "Champion",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "chitine": {
+    "name": "Chitine",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "choldrith": {
+    "name": "Choldrith",
+    "type": "monstrosity",
+    "tags": [
+      "cleric"
+    ],
+    "source": "MPMM"
+  },
+  "cloud giant smiling one": {
+    "name": "Cloud Giant Smiling One",
+    "type": "giant",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "conjurer": {
+    "name": "Conjurer",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "VGM"
+  },
+  "cow": {
+    "name": "Cow",
+    "type": "beast",
+    "tags": [],
+    "source": "VGM"
+  },
+  "cranium rat": {
+    "name": "Cranium Rat",
+    "type": "aberration",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "darkling": {
+    "name": "Darkling",
+    "type": "fey",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "darkling elder": {
+    "name": "Darkling Elder",
+    "type": "fey",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "death kiss": {
+    "name": "Death Kiss",
+    "type": "aberration",
+    "tags": [
+      "beholder"
+    ],
+    "source": "MPMM"
+  },
+  "deep roth\u00e9": {
+    "name": "Deep Roth\u00e9",
+    "type": "beast",
+    "tags": [
+      "cattle"
+    ],
+    "source": "MPMM"
+  },
+  "deep scion": {
+    "name": "Deep Scion",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "deinonychus": {
+    "name": "Deinonychus",
+    "type": "beast",
+    "tags": [
+      "dinosaur"
+    ],
+    "source": "MPMM"
+  },
+  "devourer": {
+    "name": "Devourer",
+    "type": "undead",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "dimetrodon": {
+    "name": "Dimetrodon",
+    "type": "beast",
+    "tags": [
+      "dinosaur"
+    ],
+    "source": "MPMM"
+  },
+  "diviner": {
+    "name": "Diviner",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "VGM"
+  },
+  "dolphin": {
+    "name": "Dolphin",
+    "type": "beast",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "draegloth": {
+    "name": "Draegloth",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MPMM"
+  },
+  "elder brain": {
+    "name": "Elder Brain",
+    "type": "aberration",
+    "tags": [
+      "mind flayer"
+    ],
+    "source": "MPMM"
+  },
+  "enchanter": {
+    "name": "Enchanter",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "VGM"
+  },
+  "evoker": {
+    "name": "Evoker",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "VGM"
+  },
+  "fire giant dreadnought": {
+    "name": "Fire Giant Dreadnought",
+    "type": "giant",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "firenewt warlock of imix": {
+    "name": "Firenewt Warlock of Imix",
+    "type": "elemental",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "firenewt warrior": {
+    "name": "Firenewt Warrior",
+    "type": "elemental",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "flail snail": {
+    "name": "Flail Snail",
+    "type": "elemental",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "flind": {
+    "name": "Flind",
+    "type": "fiend",
+    "tags": [
+      "gnoll"
+    ],
+    "source": "MPMM"
+  },
+  "froghemoth": {
+    "name": "Froghemoth",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "frost giant everlasting one": {
+    "name": "Frost Giant Everlasting One",
+    "type": "giant",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "gauth": {
+    "name": "Gauth",
+    "type": "aberration",
+    "tags": [
+      "beholder"
+    ],
+    "source": "MPMM"
+  },
+  "gazer": {
+    "name": "Gazer",
+    "type": "aberration",
+    "tags": [
+      "beholder"
+    ],
+    "source": "MPMM"
+  },
+  "giant strider": {
+    "name": "Giant Strider",
+    "type": "elemental",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "girallon": {
+    "name": "Girallon",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "gnoll flesh gnawer": {
+    "name": "Gnoll Flesh Gnawer",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "gnoll hunter": {
+    "name": "Gnoll Hunter",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "gnoll witherling": {
+    "name": "Gnoll Witherling",
+    "type": "undead",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "green guard drake": {
+    "name": "Green Guard Drake",
+    "type": "dragon",
+    "tags": [],
+    "source": "VGM"
+  },
+  "grung": {
+    "name": "Grung",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "grung elite warrior": {
+    "name": "Grung Elite Warrior",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "grung wildling": {
+    "name": "Grung Wildling",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "hadrosaurus": {
+    "name": "Hadrosaurus",
+    "type": "beast",
+    "tags": [
+      "dinosaur"
+    ],
+    "source": "MPMM"
+  },
+  "hobgoblin devastator": {
+    "name": "Hobgoblin Devastator",
+    "type": "fey",
+    "tags": [
+      "goblinoid"
+    ],
+    "source": "MPMM"
+  },
+  "hobgoblin iron shadow": {
+    "name": "Hobgoblin Iron Shadow",
+    "type": "fey",
+    "tags": [
+      "goblinoid"
+    ],
+    "source": "MPMM"
+  },
+  "illithilich": {
+    "name": "Illithilich",
+    "type": "undead",
+    "tags": [],
+    "source": "VGM"
+  },
+  "illusionist": {
+    "name": "Illusionist",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "VGM"
+  },
+  "ki-rin": {
+    "name": "Ki-rin",
+    "type": "celestial",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "kobold dragonshield": {
+    "name": "Kobold Dragonshield",
+    "type": "dragon",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "kobold inventor": {
+    "name": "Kobold Inventor",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "kobold scale sorcerer": {
+    "name": "Kobold Scale Sorcerer",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "korred": {
+    "name": "Korred",
+    "type": "fey",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "kraken priest": {
+    "name": "Kraken Priest",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "leucrotta": {
+    "name": "Leucrotta",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "martial arts adept": {
+    "name": "Martial Arts Adept",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "master thief": {
+    "name": "Master Thief",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "maw demon": {
+    "name": "Maw Demon",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MPMM"
+  },
+  "meenlock": {
+    "name": "Meenlock",
+    "type": "fey",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "mind flayer psion": {
+    "name": "Mind Flayer Psion",
+    "type": "aberration",
+    "tags": [],
+    "source": "VGM"
+  },
+  "mindwitness": {
+    "name": "Mindwitness",
+    "type": "aberration",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "morkoth": {
+    "name": "Morkoth",
+    "type": "aberration",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "mouth of grolantor": {
+    "name": "Mouth of Grolantor",
+    "type": "giant",
+    "tags": [
+      "hill giant"
+    ],
+    "source": "MPMM"
+  },
+  "necromancer": {
+    "name": "Necromancer",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "VGM"
+  },
+  "neogi": {
+    "name": "Neogi",
+    "type": "aberration",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "neogi hatchling": {
+    "name": "Neogi Hatchling",
+    "type": "aberration",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "neogi master": {
+    "name": "Neogi Master",
+    "type": "aberration",
+    "tags": [
+      "warlock"
+    ],
+    "source": "MPMM"
+  },
+  "neothelid": {
+    "name": "Neothelid",
+    "type": "aberration",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "nilbog": {
+    "name": "Nilbog",
+    "type": "fey",
+    "tags": [
+      "goblinoid"
+    ],
+    "source": "MPMM"
+  },
+  "orc blade of ilneval": {
+    "name": "Orc Blade of Ilneval",
+    "type": "humanoid",
+    "tags": [
+      "orc"
+    ],
+    "source": "VGM"
+  },
+  "orc claw of luthic": {
+    "name": "Orc Claw of Luthic",
+    "type": "humanoid",
+    "tags": [
+      "orc"
+    ],
+    "source": "VGM"
+  },
+  "orc hand of yurtrus": {
+    "name": "Orc Hand of Yurtrus",
+    "type": "humanoid",
+    "tags": [
+      "orc"
+    ],
+    "source": "VGM"
+  },
+  "orc nurtured one of yurtrus": {
+    "name": "Orc Nurtured One of Yurtrus",
+    "type": "humanoid",
+    "tags": [
+      "orc"
+    ],
+    "source": "VGM"
+  },
+  "orc red fang of shargaas": {
+    "name": "Orc Red Fang of Shargaas",
+    "type": "humanoid",
+    "tags": [
+      "orc"
+    ],
+    "source": "VGM"
+  },
+  "ox": {
+    "name": "Ox",
+    "type": "beast",
+    "tags": [
+      "cattle"
+    ],
+    "source": "MPMM"
+  },
+  "quetzalcoatlus": {
+    "name": "Quetzalcoatlus",
+    "type": "beast",
+    "tags": [
+      "dinosaur"
+    ],
+    "source": "MPMM"
+  },
+  "quickling": {
+    "name": "Quickling",
+    "type": "fey",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "red guard drake": {
+    "name": "Red Guard Drake",
+    "type": "dragon",
+    "tags": [],
+    "source": "VGM"
+  },
+  "redcap": {
+    "name": "Redcap",
+    "type": "fey",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "roth\u00e9": {
+    "name": "Roth\u00e9",
+    "type": "beast",
+    "tags": [],
+    "source": "VGM"
+  },
+  "sea spawn": {
+    "name": "Sea Spawn",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "shadow mastiff": {
+    "name": "Shadow Mastiff",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "shoosuva": {
+    "name": "Shoosuva",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MPMM"
+  },
+  "slithering tracker": {
+    "name": "Slithering Tracker",
+    "type": "ooze",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "spawn of kyuss": {
+    "name": "Spawn of Kyuss",
+    "type": "undead",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "stegosaurus": {
+    "name": "Stegosaurus",
+    "type": "beast",
+    "tags": [
+      "dinosaur"
+    ],
+    "source": "MPMM"
+  },
+  "stench kow": {
+    "name": "Stench Kow",
+    "type": "fiend",
+    "tags": [
+      "cattle"
+    ],
+    "source": "MPMM"
+  },
+  "stone giant dreamwalker": {
+    "name": "Stone Giant Dreamwalker",
+    "type": "giant",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "storm giant quintessent": {
+    "name": "Storm Giant Quintessent",
+    "type": "giant",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "swarm of cranium rats": {
+    "name": "Swarm of Cranium Rats",
+    "type": "aberration",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "swarm of rot grubs": {
+    "name": "Swarm of Rot Grubs",
+    "type": "beast",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "swashbuckler": {
+    "name": "Swashbuckler",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "tanarukk": {
+    "name": "Tanarukk",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MPMM"
+  },
+  "thorny": {
+    "name": "Thorny",
+    "type": "plant",
+    "tags": [],
+    "source": "VGM"
+  },
+  "tlincalli": {
+    "name": "Tlincalli",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "transmuter": {
+    "name": "Transmuter",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "VGM"
+  },
+  "trapper": {
+    "name": "Trapper",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "ulitharid": {
+    "name": "Ulitharid",
+    "type": "aberration",
+    "tags": [
+      "mind flayer"
+    ],
+    "source": "MPMM"
+  },
+  "vargouille": {
+    "name": "Vargouille",
+    "type": "fiend",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "vegepygmy": {
+    "name": "Vegepygmy",
+    "type": "plant",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "vegepygmy chief": {
+    "name": "Vegepygmy Chief",
+    "type": "plant",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "velociraptor": {
+    "name": "Velociraptor",
+    "type": "beast",
+    "tags": [
+      "dinosaur"
+    ],
+    "source": "MPMM"
+  },
+  "war priest": {
+    "name": "War Priest",
+    "type": "humanoid",
+    "tags": [
+      "cleric"
+    ],
+    "source": "MPMM"
+  },
+  "warlock of the archfey": {
+    "name": "Warlock of the Archfey",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "warlock of the fiend": {
+    "name": "Warlock of the Fiend",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "warlock of the great old one": {
+    "name": "Warlock of the Great Old One",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "warlord": {
+    "name": "Warlord",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "white guard drake": {
+    "name": "White Guard Drake",
+    "type": "dragon",
+    "tags": [],
+    "source": "VGM"
+  },
+  "wood woad": {
+    "name": "Wood Woad",
+    "type": "plant",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "xvart": {
+    "name": "Xvart",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "xvart speaker": {
+    "name": "Xvart Speaker",
+    "type": "humanoid",
+    "tags": [
+      "xvart"
+    ],
+    "source": "VGM"
+  },
+  "xvart warlock of raxivort": {
+    "name": "Xvart Warlock of Raxivort",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "yeth hound": {
+    "name": "Yeth Hound",
+    "type": "fey",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "yuan-ti anathema": {
+    "name": "Yuan-ti Anathema",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "yuan-ti broodguard": {
+    "name": "Yuan-ti Broodguard",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "yuan-ti malison (type 4)": {
+    "name": "Yuan-ti Malison (Type 4)",
+    "type": "monstrosity",
+    "tags": [
+      "shapechanger",
+      "yuan-ti"
+    ],
+    "source": "VGM"
+  },
+  "yuan-ti malison (type 5)": {
+    "name": "Yuan-ti Malison (Type 5)",
+    "type": "monstrosity",
+    "tags": [
+      "shapechanger",
+      "yuan-ti"
+    ],
+    "source": "VGM"
+  },
+  "yuan-ti mind whisperer": {
+    "name": "Yuan-ti Mind Whisperer",
+    "type": "monstrosity",
+    "tags": [
+      "warlock"
+    ],
+    "source": "MPMM"
+  },
+  "yuan-ti nightmare speaker": {
+    "name": "Yuan-ti Nightmare Speaker",
+    "type": "monstrosity",
+    "tags": [
+      "warlock"
+    ],
+    "source": "MPMM"
+  },
+  "yuan-ti pit master": {
+    "name": "Yuan-ti Pit Master",
+    "type": "monstrosity",
+    "tags": [
+      "warlock"
+    ],
+    "source": "MPMM"
+  },
+  "abjurer wizard": {
+    "name": "Abjurer Wizard",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "adult kruthik": {
+    "name": "Adult Kruthik",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MTF"
+  },
+  "adult oblex": {
+    "name": "Adult Oblex",
+    "type": "ooze",
+    "tags": [],
+    "source": "MTF"
+  },
+  "air elemental myrmidon": {
+    "name": "Air Elemental Myrmidon",
+    "type": "elemental",
+    "tags": [],
+    "source": "MTF"
+  },
+  "alkilith": {
+    "name": "Alkilith",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "allip": {
+    "name": "Allip",
+    "type": "undead",
+    "tags": [],
+    "source": "MTF"
+  },
+  "amnizu": {
+    "name": "Amnizu",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MTF"
+  },
+  "angry sorrowsworn": {
+    "name": "Angry Sorrowsworn",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "armanite": {
+    "name": "Armanite",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "astral dreadnought": {
+    "name": "Astral Dreadnought",
+    "type": "monstrosity",
+    "tags": [
+      "titan"
+    ],
+    "source": "MTF"
+  },
+  "autumn eladrin": {
+    "name": "Autumn Eladrin",
+    "type": "fey",
+    "tags": [
+      "elf"
+    ],
+    "source": "MTF"
+  },
+  "bael": {
+    "name": "Bael",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MTF"
+  },
+  "balhannoth": {
+    "name": "Balhannoth",
+    "type": "aberration",
+    "tags": [],
+    "source": "MTF"
+  },
+  "baphomet": {
+    "name": "Baphomet",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "berbalang": {
+    "name": "Berbalang",
+    "type": "aberration",
+    "tags": [],
+    "source": "MTF"
+  },
+  "black abishai": {
+    "name": "Black Abishai",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MTF"
+  },
+  "blue abishai": {
+    "name": "Blue Abishai",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MTF"
+  },
+  "boneclaw": {
+    "name": "Boneclaw",
+    "type": "undead",
+    "tags": [],
+    "source": "MTF"
+  },
+  "bulezau": {
+    "name": "Bulezau",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "cadaver collector": {
+    "name": "Cadaver Collector",
+    "type": "construct",
+    "tags": [],
+    "source": "MTF"
+  },
+  "canoloth": {
+    "name": "Canoloth",
+    "type": "fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "source": "MTF"
+  },
+  "choker": {
+    "name": "Choker",
+    "type": "aberration",
+    "tags": [],
+    "source": "MTF"
+  },
+  "clockwork bronze scout": {
+    "name": "Clockwork Bronze Scout",
+    "type": "construct",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "clockwork iron cobra": {
+    "name": "Clockwork Iron Cobra",
+    "type": "construct",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "clockwork oaken bolter": {
+    "name": "Clockwork Oaken Bolter",
+    "type": "construct",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "clockwork stone defender": {
+    "name": "Clockwork Stone Defender",
+    "type": "construct",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "conjurer wizard": {
+    "name": "Conjurer Wizard",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "corpse flower": {
+    "name": "Corpse Flower",
+    "type": "plant",
+    "tags": [],
+    "source": "MTF"
+  },
+  "deathlock": {
+    "name": "Deathlock",
+    "type": "undead",
+    "tags": [],
+    "source": "MTF"
+  },
+  "deathlock mastermind": {
+    "name": "Deathlock Mastermind",
+    "type": "undead",
+    "tags": [],
+    "source": "MTF"
+  },
+  "deathlock wight": {
+    "name": "Deathlock Wight",
+    "type": "undead",
+    "tags": [],
+    "source": "MTF"
+  },
+  "demogorgon": {
+    "name": "Demogorgon",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "derro": {
+    "name": "Derro",
+    "type": "humanoid",
+    "tags": [
+      "derro"
+    ],
+    "source": "MTF"
+  },
+  "derro savant": {
+    "name": "Derro Savant",
+    "type": "humanoid",
+    "tags": [
+      "derro"
+    ],
+    "source": "MTF"
+  },
+  "dhergoloth": {
+    "name": "Dhergoloth",
+    "type": "fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "source": "MTF"
+  },
+  "dire troll": {
+    "name": "Dire Troll",
+    "type": "giant",
+    "tags": [],
+    "source": "MTF"
+  },
+  "diviner wizard": {
+    "name": "Diviner Wizard",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "dolphin delighter": {
+    "name": "Dolphin Delighter",
+    "type": "fey",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "drow arachnomancer": {
+    "name": "Drow Arachnomancer",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "elf",
+        "prefix": "Drow",
+        "prefixHidden": true
+      }
+    ],
+    "source": "MTF"
+  },
+  "drow favored consort": {
+    "name": "Drow Favored Consort",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "elf",
+        "prefix": "Drow",
+        "prefixHidden": true
+      }
+    ],
+    "source": "MTF"
+  },
+  "drow house captain": {
+    "name": "Drow House Captain",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "elf",
+        "prefix": "Drow",
+        "prefixHidden": true
+      }
+    ],
+    "source": "MTF"
+  },
+  "drow inquisitor": {
+    "name": "Drow Inquisitor",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "elf",
+        "prefix": "Drow",
+        "prefixHidden": true
+      }
+    ],
+    "source": "MTF"
+  },
+  "drow matron mother": {
+    "name": "Drow Matron Mother",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "elf",
+        "prefix": "Drow",
+        "prefixHidden": true
+      }
+    ],
+    "source": "MTF"
+  },
+  "drow shadowblade": {
+    "name": "Drow Shadowblade",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "elf",
+        "prefix": "Drow",
+        "prefixHidden": true
+      }
+    ],
+    "source": "MTF"
+  },
+  "duergar despot": {
+    "name": "Duergar Despot",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "MTF"
+  },
+  "duergar hammerer": {
+    "name": "Duergar Hammerer",
+    "type": "construct",
+    "tags": [],
+    "source": "MTF"
+  },
+  "duergar kavalrachni": {
+    "name": "Duergar Kavalrachni",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "MTF"
+  },
+  "duergar mind master": {
+    "name": "Duergar Mind Master",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "MTF"
+  },
+  "duergar screamer": {
+    "name": "Duergar Screamer",
+    "type": "construct",
+    "tags": [],
+    "source": "MTF"
+  },
+  "duergar soulblade": {
+    "name": "Duergar Soulblade",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "MTF"
+  },
+  "duergar stone guard": {
+    "name": "Duergar Stone Guard",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "MTF"
+  },
+  "duergar warlord": {
+    "name": "Duergar Warlord",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "MTF"
+  },
+  "duergar xarrorn": {
+    "name": "Duergar Xarrorn",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "MTF"
+  },
+  "dybbuk": {
+    "name": "Dybbuk",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "earth elemental myrmidon": {
+    "name": "Earth Elemental Myrmidon",
+    "type": "elemental",
+    "tags": [],
+    "source": "MTF"
+  },
+  "eidolon": {
+    "name": "Eidolon",
+    "type": "undead",
+    "tags": [],
+    "source": "MTF"
+  },
+  "elder oblex": {
+    "name": "Elder Oblex",
+    "type": "ooze",
+    "tags": [],
+    "source": "MTF"
+  },
+  "elder tempest": {
+    "name": "Elder Tempest",
+    "type": "elemental",
+    "tags": [],
+    "source": "MTF"
+  },
+  "enchanter wizard": {
+    "name": "Enchanter Wizard",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "evoker wizard": {
+    "name": "Evoker Wizard",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "female steeder": {
+    "name": "Female Steeder",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MTF"
+  },
+  "fire elemental myrmidon": {
+    "name": "Fire Elemental Myrmidon",
+    "type": "elemental",
+    "tags": [],
+    "source": "MTF"
+  },
+  "fraz-urb'luu": {
+    "name": "Fraz-Urb'luu",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "frost salamander": {
+    "name": "Frost Salamander",
+    "type": "elemental",
+    "tags": [],
+    "source": "MTF"
+  },
+  "geryon": {
+    "name": "Geryon",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MTF"
+  },
+  "giff": {
+    "name": "Giff",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MTF"
+  },
+  "githyanki gish": {
+    "name": "Githyanki Gish",
+    "type": "humanoid",
+    "tags": [
+      "gith"
+    ],
+    "source": "MTF"
+  },
+  "githyanki kith'rak": {
+    "name": "Githyanki Kith'rak",
+    "type": "humanoid",
+    "tags": [
+      "gith"
+    ],
+    "source": "MTF"
+  },
+  "githyanki supreme commander": {
+    "name": "Githyanki Supreme Commander",
+    "type": "humanoid",
+    "tags": [
+      "gith"
+    ],
+    "source": "MTF"
+  },
+  "githzerai anarch": {
+    "name": "Githzerai Anarch",
+    "type": "humanoid",
+    "tags": [
+      "gith"
+    ],
+    "source": "MTF"
+  },
+  "githzerai enlightened": {
+    "name": "Githzerai Enlightened",
+    "type": "humanoid",
+    "tags": [
+      "gith"
+    ],
+    "source": "MTF"
+  },
+  "gray render": {
+    "name": "Gray Render",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MTF"
+  },
+  "graz'zt": {
+    "name": "Graz'zt",
+    "type": "fiend",
+    "tags": [
+      "demon",
+      "shapechanger"
+    ],
+    "source": "MTF"
+  },
+  "green abishai": {
+    "name": "Green Abishai",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MTF"
+  },
+  "guard drake": {
+    "name": "Guard Drake",
+    "type": "dragon",
+    "tags": [],
+    "source": "HotDQ"
+  },
+  "hellfire engine": {
+    "name": "Hellfire Engine",
+    "type": "construct",
+    "tags": [],
+    "source": "MTF"
+  },
+  "howler": {
+    "name": "Howler",
+    "type": "fiend",
+    "tags": [],
+    "source": "MTF"
+  },
+  "hungry sorrowsworn": {
+    "name": "Hungry Sorrowsworn",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "hutijin": {
+    "name": "Hutijin",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MTF"
+  },
+  "hydroloth": {
+    "name": "Hydroloth",
+    "type": "fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "source": "MTF"
+  },
+  "illusionist wizard": {
+    "name": "Illusionist Wizard",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "juiblex": {
+    "name": "Juiblex",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "kruthik hive lord": {
+    "name": "Kruthik Hive Lord",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MTF"
+  },
+  "leviathan": {
+    "name": "Leviathan",
+    "type": "elemental",
+    "tags": [],
+    "source": "MTF"
+  },
+  "lonely sorrowsworn": {
+    "name": "Lonely Sorrowsworn",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "lost sorrowsworn": {
+    "name": "Lost Sorrowsworn",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "male steeder": {
+    "name": "Male Steeder",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MTF"
+  },
+  "marut": {
+    "name": "Marut",
+    "type": "construct",
+    "tags": [
+      "inevitable"
+    ],
+    "source": "MTF"
+  },
+  "maurezhi": {
+    "name": "Maurezhi",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "meazel": {
+    "name": "Meazel",
+    "type": "humanoid",
+    "tags": [
+      "meazel"
+    ],
+    "source": "MTF"
+  },
+  "merregon": {
+    "name": "Merregon",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MTF"
+  },
+  "merrenoloth": {
+    "name": "Merrenoloth",
+    "type": "fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "source": "MTF"
+  },
+  "moloch": {
+    "name": "Moloch",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MTF"
+  },
+  "molydeus": {
+    "name": "Molydeus",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "nabassu": {
+    "name": "Nabassu",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "nagpa": {
+    "name": "Nagpa",
+    "type": "humanoid",
+    "tags": [
+      "nagpa"
+    ],
+    "source": "MTF"
+  },
+  "narzugon": {
+    "name": "Narzugon",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MTF"
+  },
+  "necromancer wizard": {
+    "name": "Necromancer Wizard",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "nightwalker": {
+    "name": "Nightwalker",
+    "type": "undead",
+    "tags": [],
+    "source": "MTF"
+  },
+  "nupperibo": {
+    "name": "Nupperibo",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MTF"
+  },
+  "oblex spawn": {
+    "name": "Oblex Spawn",
+    "type": "ooze",
+    "tags": [],
+    "source": "MTF"
+  },
+  "ogre battering ram": {
+    "name": "Ogre Battering Ram",
+    "type": "giant",
+    "tags": [],
+    "source": "MTF"
+  },
+  "ogre bolt launcher": {
+    "name": "Ogre Bolt Launcher",
+    "type": "giant",
+    "tags": [],
+    "source": "MTF"
+  },
+  "ogre chain brute": {
+    "name": "Ogre Chain Brute",
+    "type": "giant",
+    "tags": [],
+    "source": "MTF"
+  },
+  "ogre howdah": {
+    "name": "Ogre Howdah",
+    "type": "giant",
+    "tags": [],
+    "source": "MTF"
+  },
+  "oinoloth": {
+    "name": "Oinoloth",
+    "type": "fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "source": "MTF"
+  },
+  "orcus": {
+    "name": "Orcus",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "orthon": {
+    "name": "Orthon",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MTF"
+  },
+  "phoenix": {
+    "name": "Phoenix",
+    "type": "elemental",
+    "tags": [],
+    "source": "MTF"
+  },
+  "red abishai": {
+    "name": "Red Abishai",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MTF"
+  },
+  "retriever": {
+    "name": "Retriever",
+    "type": "construct",
+    "tags": [],
+    "source": "MTF"
+  },
+  "rot troll": {
+    "name": "Rot Troll",
+    "type": "giant",
+    "tags": [],
+    "source": "MTF"
+  },
+  "rutterkin": {
+    "name": "Rutterkin",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "sacred statue": {
+    "name": "Sacred Statue",
+    "type": "construct",
+    "tags": [],
+    "source": "MTF"
+  },
+  "shadar-kai gloom weaver": {
+    "name": "Shadar-kai Gloom Weaver",
+    "type": "humanoid",
+    "tags": [
+      "elf"
+    ],
+    "source": "MPMM"
+  },
+  "shadar-kai shadow dancer": {
+    "name": "Shadar-kai Shadow Dancer",
+    "type": "humanoid",
+    "tags": [
+      "elf"
+    ],
+    "source": "MPMM"
+  },
+  "shadar-kai soul monger": {
+    "name": "Shadar-kai Soul Monger",
+    "type": "humanoid",
+    "tags": [
+      "elf"
+    ],
+    "source": "MPMM"
+  },
+  "shadow mastiff alpha": {
+    "name": "Shadow Mastiff Alpha",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "sibriex": {
+    "name": "Sibriex",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "skulk": {
+    "name": "Skulk",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MTF"
+  },
+  "skull lord": {
+    "name": "Skull Lord",
+    "type": "undead",
+    "tags": [],
+    "source": "MTF"
+  },
+  "spirit troll": {
+    "name": "Spirit Troll",
+    "type": "giant",
+    "tags": [],
+    "source": "MTF"
+  },
+  "spring eladrin": {
+    "name": "Spring Eladrin",
+    "type": "fey",
+    "tags": [
+      "elf"
+    ],
+    "source": "MTF"
+  },
+  "star spawn grue": {
+    "name": "Star Spawn Grue",
+    "type": "aberration",
+    "tags": [],
+    "source": "MTF"
+  },
+  "star spawn hulk": {
+    "name": "Star Spawn Hulk",
+    "type": "aberration",
+    "tags": [],
+    "source": "MTF"
+  },
+  "star spawn larva mage": {
+    "name": "Star Spawn Larva Mage",
+    "type": "aberration",
+    "tags": [],
+    "source": "MTF"
+  },
+  "star spawn mangler": {
+    "name": "Star Spawn Mangler",
+    "type": "aberration",
+    "tags": [],
+    "source": "MTF"
+  },
+  "star spawn seer": {
+    "name": "Star Spawn Seer",
+    "type": "aberration",
+    "tags": [],
+    "source": "MTF"
+  },
+  "steel predator": {
+    "name": "Steel Predator",
+    "type": "construct",
+    "tags": [],
+    "source": "MTF"
+  },
+  "stone cursed": {
+    "name": "Stone Cursed",
+    "type": "construct",
+    "tags": [],
+    "source": "MTF"
+  },
+  "summer eladrin": {
+    "name": "Summer Eladrin",
+    "type": "fey",
+    "tags": [
+      "elf"
+    ],
+    "source": "MTF"
+  },
+  "sword wraith commander": {
+    "name": "Sword Wraith Commander",
+    "type": "undead",
+    "tags": [],
+    "source": "MTF"
+  },
+  "sword wraith warrior": {
+    "name": "Sword Wraith Warrior",
+    "type": "undead",
+    "tags": [],
+    "source": "MTF"
+  },
+  "thorny vegepygmy": {
+    "name": "Thorny Vegepygmy",
+    "type": "plant",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "titivilus": {
+    "name": "Titivilus",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MTF"
+  },
+  "tortle": {
+    "name": "Tortle",
+    "type": "humanoid",
+    "tags": [
+      "tortle"
+    ],
+    "source": "MTF"
+  },
+  "tortle druid": {
+    "name": "Tortle Druid",
+    "type": "humanoid",
+    "tags": [
+      "tortle"
+    ],
+    "source": "MTF"
+  },
+  "transmuter wizard": {
+    "name": "Transmuter Wizard",
+    "type": "humanoid",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "vampiric mist": {
+    "name": "Vampiric Mist",
+    "type": "undead",
+    "tags": [],
+    "source": "MTF"
+  },
+  "venom troll": {
+    "name": "Venom Troll",
+    "type": "giant",
+    "tags": [],
+    "source": "MTF"
+  },
+  "wastrilith": {
+    "name": "Wastrilith",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "water elemental myrmidon": {
+    "name": "Water Elemental Myrmidon",
+    "type": "elemental",
+    "tags": [],
+    "source": "MTF"
+  },
+  "white abishai": {
+    "name": "White Abishai",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MTF"
+  },
+  "winter eladrin": {
+    "name": "Winter Eladrin",
+    "type": "fey",
+    "tags": [
+      "elf"
+    ],
+    "source": "MTF"
+  },
+  "wretched sorrowsworn": {
+    "name": "Wretched Sorrowsworn",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MPMM"
+  },
+  "yagnoloth": {
+    "name": "Yagnoloth",
+    "type": "fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "source": "MTF"
+  },
+  "yeenoghu": {
+    "name": "Yeenoghu",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "young kruthik": {
+    "name": "Young Kruthik",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MTF"
+  },
+  "zaratan": {
+    "name": "Zaratan",
+    "type": "elemental",
+    "tags": [],
+    "source": "MTF"
+  },
+  "zariel": {
+    "name": "Zariel",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "MTF"
+  },
+  "zuggtmoy": {
+    "name": "Zuggtmoy",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "abyssal wretch": {
+    "name": "Abyssal Wretch",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "MTF"
+  },
+  "bronze scout": {
+    "name": "Bronze Scout",
+    "type": "construct",
+    "tags": [],
+    "source": "MTF"
+  },
+  "gloom weaver": {
+    "name": "Gloom Weaver",
+    "type": "humanoid",
+    "tags": [
+      "elf"
+    ],
+    "source": "MTF"
+  },
+  "iron cobra": {
+    "name": "Iron Cobra",
+    "type": "construct",
+    "tags": [],
+    "source": "MTF"
+  },
+  "oaken bolter": {
+    "name": "Oaken Bolter",
+    "type": "construct",
+    "tags": [],
+    "source": "MTF"
+  },
+  "shadow dancer": {
+    "name": "Shadow Dancer",
+    "type": "humanoid",
+    "tags": [
+      "elf"
+    ],
+    "source": "MTF"
+  },
+  "soul monger": {
+    "name": "Soul Monger",
+    "type": "humanoid",
+    "tags": [
+      "elf"
+    ],
+    "source": "MTF"
+  },
+  "stone defender": {
+    "name": "Stone Defender",
+    "type": "construct",
+    "tags": [],
+    "source": "MTF"
+  },
+  "the angry": {
+    "name": "The Angry",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MTF"
+  },
+  "the hungry": {
+    "name": "The Hungry",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MTF"
+  },
+  "the lonely": {
+    "name": "The Lonely",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MTF"
+  },
+  "the lost": {
+    "name": "The Lost",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MTF"
+  },
+  "the wretched": {
+    "name": "The Wretched",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "MTF"
+  },
+  "adult amethyst dragon": {
+    "name": "Adult Amethyst Dragon",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "adult crystal dragon": {
+    "name": "Adult Crystal Dragon",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "adult deep dragon": {
+    "name": "Adult Deep Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "FTD"
+  },
+  "adult emerald dragon": {
+    "name": "Adult Emerald Dragon",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "adult moonstone dragon": {
+    "name": "Adult Moonstone Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "FTD"
+  },
+  "adult sapphire dragon": {
+    "name": "Adult Sapphire Dragon",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "adult topaz dragon": {
+    "name": "Adult Topaz Dragon",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "amethyst dragon wyrmling": {
+    "name": "Amethyst Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "amethyst greatwyrm": {
+    "name": "Amethyst Greatwyrm",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "ancient amethyst dragon": {
+    "name": "Ancient Amethyst Dragon",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "ancient crystal dragon": {
+    "name": "Ancient Crystal Dragon",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "ancient deep dragon": {
+    "name": "Ancient Deep Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "FTD"
+  },
+  "ancient dragon turtle": {
+    "name": "Ancient Dragon Turtle",
+    "type": "dragon",
+    "tags": [],
+    "source": "FTD"
+  },
+  "ancient emerald dragon": {
+    "name": "Ancient Emerald Dragon",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "ancient moonstone dragon": {
+    "name": "Ancient Moonstone Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "FTD"
+  },
+  "ancient sapphire dragon": {
+    "name": "Ancient Sapphire Dragon",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "ancient sea serpent": {
+    "name": "Ancient Sea Serpent",
+    "type": "dragon",
+    "tags": [],
+    "source": "FTD"
+  },
+  "ancient topaz dragon": {
+    "name": "Ancient Topaz Dragon",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "animated breath": {
+    "name": "Animated Breath",
+    "type": "elemental",
+    "tags": [],
+    "source": "FTD"
+  },
+  "aspect of bahamut": {
+    "name": "Aspect of Bahamut",
+    "type": "dragon",
+    "tags": [
+      "metallic"
+    ],
+    "source": "FTD"
+  },
+  "aspect of tiamat": {
+    "name": "Aspect of Tiamat",
+    "type": "dragon",
+    "tags": [
+      "chromatic"
+    ],
+    "source": "FTD"
+  },
+  "black greatwyrm": {
+    "name": "Black Greatwyrm",
+    "type": "dragon",
+    "tags": [
+      "chromatic"
+    ],
+    "source": "FTD"
+  },
+  "blue greatwyrm": {
+    "name": "Blue Greatwyrm",
+    "type": "dragon",
+    "tags": [
+      "chromatic"
+    ],
+    "source": "FTD"
+  },
+  "brass greatwyrm": {
+    "name": "Brass Greatwyrm",
+    "type": "dragon",
+    "tags": [
+      "metallic"
+    ],
+    "source": "FTD"
+  },
+  "bronze greatwyrm": {
+    "name": "Bronze Greatwyrm",
+    "type": "dragon",
+    "tags": [
+      "metallic"
+    ],
+    "source": "FTD"
+  },
+  "copper greatwyrm": {
+    "name": "Copper Greatwyrm",
+    "type": "dragon",
+    "tags": [
+      "metallic"
+    ],
+    "source": "FTD"
+  },
+  "crystal dragon wyrmling": {
+    "name": "Crystal Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "crystal greatwyrm": {
+    "name": "Crystal Greatwyrm",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "deep dragon wyrmling": {
+    "name": "Deep Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [],
+    "source": "FTD"
+  },
+  "dracohydra": {
+    "name": "Dracohydra",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "FTD"
+  },
+  "draconian dreadnought": {
+    "name": "Draconian Dreadnought",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "FTD"
+  },
+  "draconian foot soldier": {
+    "name": "Draconian Foot Soldier",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "FTD"
+  },
+  "draconian infiltrator": {
+    "name": "Draconian Infiltrator",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "FTD"
+  },
+  "draconian mage": {
+    "name": "Draconian Mage",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "FTD"
+  },
+  "draconian mastermind": {
+    "name": "Draconian Mastermind",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "FTD"
+  },
+  "draconic shard": {
+    "name": "Draconic Shard",
+    "type": "undead",
+    "tags": [],
+    "source": "FTD"
+  },
+  "draconic spirit": {
+    "name": "Draconic Spirit",
+    "type": "dragon",
+    "tags": [],
+    "source": "FTD"
+  },
+  "dragon blessed": {
+    "name": "Dragon Blessed",
+    "type": "humanoid",
+    "tags": [],
+    "source": "FTD"
+  },
+  "dragon chosen": {
+    "name": "Dragon Chosen",
+    "type": "humanoid",
+    "tags": [],
+    "source": "FTD"
+  },
+  "dragon speaker": {
+    "name": "Dragon Speaker",
+    "type": "humanoid",
+    "tags": [],
+    "source": "FTD"
+  },
+  "dragon turtle wyrmling": {
+    "name": "Dragon Turtle Wyrmling",
+    "type": "dragon",
+    "tags": [],
+    "source": "FTD"
+  },
+  "dragonblood ooze": {
+    "name": "Dragonblood Ooze",
+    "type": "ooze",
+    "tags": [],
+    "source": "FTD"
+  },
+  "dragonbone golem": {
+    "name": "Dragonbone Golem",
+    "type": "construct",
+    "tags": [],
+    "source": "FTD"
+  },
+  "dragonborn of bahamut": {
+    "name": "Dragonborn of Bahamut",
+    "type": "humanoid",
+    "tags": [],
+    "source": "FTD"
+  },
+  "dragonborn of sardior": {
+    "name": "Dragonborn of Sardior",
+    "type": "humanoid",
+    "tags": [],
+    "source": "FTD"
+  },
+  "dragonborn of tiamat": {
+    "name": "Dragonborn of Tiamat",
+    "type": "humanoid",
+    "tags": [],
+    "source": "FTD"
+  },
+  "dragonflesh abomination": {
+    "name": "Dragonflesh Abomination",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "FTD"
+  },
+  "dragonflesh grafter": {
+    "name": "Dragonflesh Grafter",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "FTD"
+  },
+  "dragonnel": {
+    "name": "Dragonnel",
+    "type": "dragon",
+    "tags": [],
+    "source": "FTD"
+  },
+  "drake companion": {
+    "name": "Drake Companion",
+    "type": "dragon",
+    "tags": [],
+    "source": "FTD"
+  },
+  "egg hunter adult": {
+    "name": "Egg Hunter Adult",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "FTD"
+  },
+  "egg hunter hatchling": {
+    "name": "Egg Hunter Hatchling",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "FTD"
+  },
+  "elder brain dragon": {
+    "name": "Elder Brain Dragon",
+    "type": "aberration",
+    "tags": [],
+    "source": "FTD"
+  },
+  "emerald dragon wyrmling": {
+    "name": "Emerald Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "emerald greatwyrm": {
+    "name": "Emerald Greatwyrm",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "eyedrake": {
+    "name": "Eyedrake",
+    "type": "aberration",
+    "tags": [],
+    "source": "FTD"
+  },
+  "gem stalker": {
+    "name": "Gem Stalker",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "FTD"
+  },
+  "ghost dragon": {
+    "name": "Ghost Dragon",
+    "type": "undead",
+    "tags": [],
+    "source": "FTD"
+  },
+  "giant canary": {
+    "name": "Giant Canary",
+    "type": "beast",
+    "tags": [],
+    "source": "FTD"
+  },
+  "gold greatwyrm": {
+    "name": "Gold Greatwyrm",
+    "type": "dragon",
+    "tags": [
+      "metallic"
+    ],
+    "source": "FTD"
+  },
+  "green greatwyrm": {
+    "name": "Green Greatwyrm",
+    "type": "dragon",
+    "tags": [
+      "chromatic"
+    ],
+    "source": "FTD"
+  },
+  "hoard mimic": {
+    "name": "Hoard Mimic",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "FTD"
+  },
+  "hoard scarab": {
+    "name": "Hoard Scarab",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "FTD"
+  },
+  "hollow dragon": {
+    "name": "Hollow Dragon",
+    "type": "undead",
+    "tags": [],
+    "source": "FTD"
+  },
+  "liondrake": {
+    "name": "Liondrake",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "FTD"
+  },
+  "metallic peacekeeper": {
+    "name": "Metallic Peacekeeper",
+    "type": "construct",
+    "tags": [],
+    "source": "FTD"
+  },
+  "metallic warbler": {
+    "name": "Metallic Warbler",
+    "type": "construct",
+    "tags": [],
+    "source": "FTD"
+  },
+  "moonstone dragon wyrmling": {
+    "name": "Moonstone Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [],
+    "source": "FTD"
+  },
+  "red greatwyrm": {
+    "name": "Red Greatwyrm",
+    "type": "dragon",
+    "tags": [
+      "chromatic"
+    ],
+    "source": "FTD"
+  },
+  "sapphire dragon wyrmling": {
+    "name": "Sapphire Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "sapphire greatwyrm": {
+    "name": "Sapphire Greatwyrm",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "silver greatwyrm": {
+    "name": "Silver Greatwyrm",
+    "type": "dragon",
+    "tags": [
+      "metallic"
+    ],
+    "source": "FTD"
+  },
+  "swarm of hoard scarabs": {
+    "name": "Swarm of Hoard Scarabs",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "FTD"
+  },
+  "topaz dragon wyrmling": {
+    "name": "Topaz Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "topaz greatwyrm": {
+    "name": "Topaz Greatwyrm",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "white greatwyrm": {
+    "name": "White Greatwyrm",
+    "type": "dragon",
+    "tags": [
+      "chromatic"
+    ],
+    "source": "FTD"
+  },
+  "young amethyst dragon": {
+    "name": "Young Amethyst Dragon",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "young crystal dragon": {
+    "name": "Young Crystal Dragon",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "young deep dragon": {
+    "name": "Young Deep Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "FTD"
+  },
+  "young dragon turtle": {
+    "name": "Young Dragon Turtle",
+    "type": "dragon",
+    "tags": [],
+    "source": "FTD"
+  },
+  "young emerald dragon": {
+    "name": "Young Emerald Dragon",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "young moonstone dragon": {
+    "name": "Young Moonstone Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "FTD"
+  },
+  "young sapphire dragon": {
+    "name": "Young Sapphire Dragon",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "young sea serpent": {
+    "name": "Young Sea Serpent",
+    "type": "dragon",
+    "tags": [],
+    "source": "FTD"
+  },
+  "young topaz dragon": {
+    "name": "Young Topaz Dragon",
+    "type": "dragon",
+    "tags": [
+      "gem"
+    ],
+    "source": "FTD"
+  },
+  "aartuk elder": {
+    "name": "Aartuk Elder",
+    "type": "plant",
+    "tags": [],
+    "source": "BAM"
+  },
+  "aartuk starhorror": {
+    "name": "Aartuk Starhorror",
+    "type": "plant",
+    "tags": [],
+    "source": "BAM"
+  },
+  "aartuk weedling": {
+    "name": "Aartuk Weedling",
+    "type": "plant",
+    "tags": [],
+    "source": "BAM"
+  },
+  "adult lunar dragon": {
+    "name": "Adult Lunar Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "BAM"
+  },
+  "adult solar dragon": {
+    "name": "Adult Solar Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "BAM"
+  },
+  "ancient lunar dragon": {
+    "name": "Ancient Lunar Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "BAM"
+  },
+  "ancient solar dragon": {
+    "name": "Ancient Solar Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "BAM"
+  },
+  "astral elf aristocrat": {
+    "name": "Astral Elf Aristocrat",
+    "type": "humanoid",
+    "tags": [
+      "wizard"
+    ],
+    "source": "BAM"
+  },
+  "astral elf commander": {
+    "name": "Astral Elf Commander",
+    "type": "humanoid",
+    "tags": [],
+    "source": "BAM"
+  },
+  "astral elf honor guard": {
+    "name": "Astral Elf Honor Guard",
+    "type": "humanoid",
+    "tags": [],
+    "source": "BAM"
+  },
+  "astral elf star priest": {
+    "name": "Astral Elf Star Priest",
+    "type": "humanoid",
+    "tags": [
+      "cleric"
+    ],
+    "source": "BAM"
+  },
+  "astral elf warrior": {
+    "name": "Astral Elf Warrior",
+    "type": "humanoid",
+    "tags": [],
+    "source": "BAM"
+  },
+  "autognome": {
+    "name": "Autognome",
+    "type": "construct",
+    "tags": [],
+    "source": "BAM"
+  },
+  "b'rohg": {
+    "name": "B'rohg",
+    "type": "giant",
+    "tags": [],
+    "source": "BAM"
+  },
+  "braxat": {
+    "name": "Braxat",
+    "type": "giant",
+    "tags": [],
+    "source": "BAM"
+  },
+  "brown scavver": {
+    "name": "Brown Scavver",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "BAM"
+  },
+  "chwinga astronaut": {
+    "name": "Chwinga Astronaut",
+    "type": "elemental",
+    "tags": [],
+    "source": "BAM"
+  },
+  "cosmic horror": {
+    "name": "Cosmic Horror",
+    "type": "aberration",
+    "tags": [],
+    "source": "BAM"
+  },
+  "dohwar": {
+    "name": "Dohwar",
+    "type": "fey",
+    "tags": [],
+    "source": "BAM"
+  },
+  "esthetic": {
+    "name": "Esthetic",
+    "type": "aberration",
+    "tags": [],
+    "source": "BAM"
+  },
+  "eye monger": {
+    "name": "Eye Monger",
+    "type": "aberration",
+    "tags": [],
+    "source": "BAM"
+  },
+  "feyr": {
+    "name": "Feyr",
+    "type": "aberration",
+    "tags": [],
+    "source": "BAM"
+  },
+  "gaj": {
+    "name": "Gaj",
+    "type": "aberration",
+    "tags": [],
+    "source": "BAM"
+  },
+  "giant space hamster": {
+    "name": "Giant Space Hamster",
+    "type": "beast",
+    "tags": [],
+    "source": "BAM"
+  },
+  "giff shipmate": {
+    "name": "Giff Shipmate",
+    "type": "humanoid",
+    "tags": [],
+    "source": "BAM"
+  },
+  "giff shock trooper": {
+    "name": "Giff Shock Trooper",
+    "type": "humanoid",
+    "tags": [],
+    "source": "BAM"
+  },
+  "giff warlord": {
+    "name": "Giff Warlord",
+    "type": "humanoid",
+    "tags": [],
+    "source": "BAM"
+  },
+  "githyanki buccaneer": {
+    "name": "Githyanki Buccaneer",
+    "type": "humanoid",
+    "tags": [
+      "gith"
+    ],
+    "source": "BAM"
+  },
+  "githyanki star seer": {
+    "name": "Githyanki Star Seer",
+    "type": "humanoid",
+    "tags": [
+      "gith",
+      "warlock"
+    ],
+    "source": "BAM"
+  },
+  "githyanki xenomancer": {
+    "name": "Githyanki Xenomancer",
+    "type": "humanoid",
+    "tags": [
+      "druid",
+      "gith"
+    ],
+    "source": "BAM"
+  },
+  "gray scavver": {
+    "name": "Gray Scavver",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "BAM"
+  },
+  "hadozee explorer": {
+    "name": "Hadozee Explorer",
+    "type": "humanoid",
+    "tags": [],
+    "source": "BAM"
+  },
+  "hadozee shipmate": {
+    "name": "Hadozee Shipmate",
+    "type": "humanoid",
+    "tags": [],
+    "source": "BAM"
+  },
+  "hadozee warrior": {
+    "name": "Hadozee Warrior",
+    "type": "humanoid",
+    "tags": [],
+    "source": "BAM"
+  },
+  "jammer leech": {
+    "name": "Jammer Leech",
+    "type": "plant",
+    "tags": [],
+    "source": "BAM"
+  },
+  "kindori": {
+    "name": "Kindori",
+    "type": "celestial",
+    "tags": [],
+    "source": "BAM"
+  },
+  "lunar dragon wyrmling": {
+    "name": "Lunar Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [],
+    "source": "BAM"
+  },
+  "megapede": {
+    "name": "Megapede",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "BAM"
+  },
+  "mercane": {
+    "name": "Mercane",
+    "type": "celestial",
+    "tags": [],
+    "source": "BAM"
+  },
+  "murder comet": {
+    "name": "Murder Comet",
+    "type": "elemental",
+    "tags": [],
+    "source": "BAM"
+  },
+  "neh-thalggu": {
+    "name": "Neh-thalggu",
+    "type": "aberration",
+    "tags": [],
+    "source": "BAM"
+  },
+  "neogi hatchling swarm": {
+    "name": "Neogi Hatchling Swarm",
+    "type": "aberration",
+    "tags": [],
+    "source": "BAM"
+  },
+  "neogi pirate": {
+    "name": "Neogi Pirate",
+    "type": "aberration",
+    "tags": [],
+    "source": "BAM"
+  },
+  "neogi void hunter": {
+    "name": "Neogi Void Hunter",
+    "type": "aberration",
+    "tags": [
+      "warlock"
+    ],
+    "source": "BAM"
+  },
+  "night scavver": {
+    "name": "Night Scavver",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "BAM"
+  },
+  "plasmoid boss": {
+    "name": "Plasmoid Boss",
+    "type": "ooze",
+    "tags": [],
+    "source": "BAM"
+  },
+  "plasmoid explorer": {
+    "name": "Plasmoid Explorer",
+    "type": "ooze",
+    "tags": [],
+    "source": "BAM"
+  },
+  "plasmoid warrior": {
+    "name": "Plasmoid Warrior",
+    "type": "ooze",
+    "tags": [],
+    "source": "BAM"
+  },
+  "psurlon": {
+    "name": "Psurlon",
+    "type": "aberration",
+    "tags": [],
+    "source": "BAM"
+  },
+  "psurlon leader": {
+    "name": "Psurlon Leader",
+    "type": "aberration",
+    "tags": [],
+    "source": "BAM"
+  },
+  "psurlon ringer": {
+    "name": "Psurlon Ringer",
+    "type": "aberration",
+    "tags": [],
+    "source": "BAM"
+  },
+  "reigar": {
+    "name": "Reigar",
+    "type": "celestial",
+    "tags": [],
+    "source": "BAM"
+  },
+  "solar dragon wyrmling": {
+    "name": "Solar Dragon Wyrmling",
+    "type": "dragon",
+    "tags": [],
+    "source": "BAM"
+  },
+  "space clown": {
+    "name": "Space Clown",
+    "type": "fiend",
+    "tags": [],
+    "source": "BAM"
+  },
+  "space eel": {
+    "name": "Space Eel",
+    "type": "beast",
+    "tags": [],
+    "source": "BAM"
+  },
+  "space guppy": {
+    "name": "Space Guppy",
+    "type": "beast",
+    "tags": [],
+    "source": "BAM"
+  },
+  "space hamster": {
+    "name": "Space Hamster",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "BAM"
+  },
+  "space mollymawk": {
+    "name": "Space Mollymawk",
+    "type": "beast",
+    "tags": [],
+    "source": "BAM"
+  },
+  "space swine": {
+    "name": "Space Swine",
+    "type": "beast",
+    "tags": [],
+    "source": "BAM"
+  },
+  "ssurran defiler": {
+    "name": "Ssurran Defiler",
+    "type": "monstrosity",
+    "tags": [
+      "lizardfolk"
+    ],
+    "source": "BAM"
+  },
+  "ssurran poisoner": {
+    "name": "Ssurran Poisoner",
+    "type": "monstrosity",
+    "tags": [
+      "lizardfolk"
+    ],
+    "source": "BAM"
+  },
+  "starlight apparition": {
+    "name": "Starlight Apparition",
+    "type": "celestial",
+    "tags": [],
+    "source": "BAM"
+  },
+  "thri-kreen gladiator": {
+    "name": "Thri-kreen Gladiator",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "BAM"
+  },
+  "thri-kreen hunter": {
+    "name": "Thri-kreen Hunter",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "BAM"
+  },
+  "thri-kreen mystic": {
+    "name": "Thri-kreen Mystic",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "BAM"
+  },
+  "vampirate": {
+    "name": "Vampirate",
+    "type": "undead",
+    "tags": [],
+    "source": "BAM"
+  },
+  "vampirate captain": {
+    "name": "Vampirate Captain",
+    "type": "undead",
+    "tags": [],
+    "source": "BAM"
+  },
+  "vampirate mage": {
+    "name": "Vampirate Mage",
+    "type": "undead",
+    "tags": [],
+    "source": "BAM"
+  },
+  "void scavver": {
+    "name": "Void Scavver",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "BAM"
+  },
+  "young lunar dragon": {
+    "name": "Young Lunar Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "BAM"
+  },
+  "young solar dragon": {
+    "name": "Young Solar Dragon",
+    "type": "dragon",
+    "tags": [],
+    "source": "BAM"
+  },
+  "zodar": {
+    "name": "Zodar",
+    "type": "aberration",
+    "tags": [],
+    "source": "BAM"
+  },
+  "aerosaur": {
+    "name": "Aerosaur",
+    "type": "monstrosity",
+    "tags": [
+      "dinosaur"
+    ],
+    "source": "BGG"
+  },
+  "altisaur": {
+    "name": "Altisaur",
+    "type": "monstrosity",
+    "tags": [
+      "dinosaur"
+    ],
+    "source": "BGG"
+  },
+  "bag jelly": {
+    "name": "Bag Jelly",
+    "type": "ooze",
+    "tags": [],
+    "source": "BGG"
+  },
+  "barrowghast": {
+    "name": "Barrowghast",
+    "type": "undead",
+    "tags": [],
+    "source": "BGG"
+  },
+  "cairnwight": {
+    "name": "Cairnwight",
+    "type": "undead",
+    "tags": [],
+    "source": "BGG"
+  },
+  "ceratops": {
+    "name": "Ceratops",
+    "type": "monstrosity",
+    "tags": [
+      "dinosaur"
+    ],
+    "source": "BGG"
+  },
+  "cinder hulk": {
+    "name": "Cinder Hulk",
+    "type": "elemental",
+    "tags": [],
+    "source": "BGG"
+  },
+  "cloud giant destiny gambler": {
+    "name": "Cloud Giant Destiny Gambler",
+    "type": "giant",
+    "tags": [
+      "bard"
+    ],
+    "source": "BGG"
+  },
+  "cloud giant of evil air": {
+    "name": "Cloud Giant of Evil Air",
+    "type": "giant",
+    "tags": [],
+    "source": "BGG"
+  },
+  "cradle of the cloud scion": {
+    "name": "Cradle of the Cloud Scion",
+    "type": "elemental",
+    "tags": [],
+    "source": "BGG"
+  },
+  "cradle of the fire scion": {
+    "name": "Cradle of the Fire Scion",
+    "type": "elemental",
+    "tags": [],
+    "source": "BGG"
+  },
+  "cradle of the frost scion": {
+    "name": "Cradle of the Frost Scion",
+    "type": "elemental",
+    "tags": [],
+    "source": "BGG"
+  },
+  "cradle of the hill scion": {
+    "name": "Cradle of the Hill Scion",
+    "type": "elemental",
+    "tags": [],
+    "source": "BGG"
+  },
+  "cradle of the stone scion": {
+    "name": "Cradle of the Stone Scion",
+    "type": "elemental",
+    "tags": [],
+    "source": "BGG"
+  },
+  "cradle of the storm scion": {
+    "name": "Cradle of the Storm Scion",
+    "type": "elemental",
+    "tags": [],
+    "source": "BGG"
+  },
+  "death giant reaper": {
+    "name": "Death Giant Reaper",
+    "type": "giant",
+    "tags": [],
+    "source": "BGG"
+  },
+  "death giant shrouded one": {
+    "name": "Death Giant Shrouded One",
+    "type": "giant",
+    "tags": [
+      "wizard"
+    ],
+    "source": "BGG"
+  },
+  "dust hulk": {
+    "name": "Dust Hulk",
+    "type": "elemental",
+    "tags": [],
+    "source": "BGG"
+  },
+  "echo of demogorgon": {
+    "name": "Echo of Demogorgon",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "BGG"
+  },
+  "ettin ceremorph": {
+    "name": "Ettin Ceremorph",
+    "type": "aberration",
+    "tags": [],
+    "source": "BGG"
+  },
+  "fensir devourer": {
+    "name": "Fensir Devourer",
+    "type": "celestial",
+    "tags": [],
+    "source": "BGG"
+  },
+  "fensir skirmisher": {
+    "name": "Fensir Skirmisher",
+    "type": "giant",
+    "tags": [],
+    "source": "BGG"
+  },
+  "firbolg primeval warden": {
+    "name": "Firbolg Primeval Warden",
+    "type": "humanoid",
+    "tags": [
+      "druid"
+    ],
+    "source": "BGG"
+  },
+  "firbolg wanderer": {
+    "name": "Firbolg Wanderer",
+    "type": "humanoid",
+    "tags": [
+      "cleric"
+    ],
+    "source": "BGG"
+  },
+  "fire giant forgecaller": {
+    "name": "Fire Giant Forgecaller",
+    "type": "giant",
+    "tags": [
+      "cleric"
+    ],
+    "source": "BGG"
+  },
+  "fire giant of evil fire": {
+    "name": "Fire Giant of Evil Fire",
+    "type": "giant",
+    "tags": [],
+    "source": "BGG"
+  },
+  "fire hellion": {
+    "name": "Fire Hellion",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "BGG"
+  },
+  "firegaunt": {
+    "name": "Firegaunt",
+    "type": "undead",
+    "tags": [],
+    "source": "BGG"
+  },
+  "flesh colossus": {
+    "name": "Flesh Colossus",
+    "type": "construct",
+    "tags": [],
+    "source": "BGG"
+  },
+  "fomorian deep crawler": {
+    "name": "Fomorian Deep Crawler",
+    "type": "giant",
+    "tags": [],
+    "source": "BGG"
+  },
+  "fomorian noble": {
+    "name": "Fomorian Noble",
+    "type": "giant",
+    "tags": [
+      "wizard"
+    ],
+    "source": "BGG"
+  },
+  "fomorian warlock of the dark": {
+    "name": "Fomorian Warlock of the Dark",
+    "type": "giant",
+    "tags": [],
+    "source": "BGG"
+  },
+  "frost giant ice shaper": {
+    "name": "Frost Giant Ice Shaper",
+    "type": "giant",
+    "tags": [
+      "cleric"
+    ],
+    "source": "BGG"
+  },
+  "frost giant of evil water": {
+    "name": "Frost Giant of Evil Water",
+    "type": "giant",
+    "tags": [],
+    "source": "BGG"
+  },
+  "frostmourn": {
+    "name": "Frostmourn",
+    "type": "undead",
+    "tags": [],
+    "source": "BGG"
+  },
+  "fury of kostchtchie": {
+    "name": "Fury of Kostchtchie",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "BGG"
+  },
+  "gargantua": {
+    "name": "Gargantua",
+    "type": "aberration",
+    "tags": [],
+    "source": "BGG"
+  },
+  "giant child": {
+    "name": "Giant Child",
+    "type": "giant",
+    "tags": [],
+    "source": "BGG"
+  },
+  "giant goose": {
+    "name": "Giant Goose",
+    "type": "fey",
+    "tags": [],
+    "source": "BGG"
+  },
+  "giant lynx": {
+    "name": "Giant Lynx",
+    "type": "fey",
+    "tags": [],
+    "source": "BGG"
+  },
+  "giant ox": {
+    "name": "Giant Ox",
+    "type": "fey",
+    "tags": [],
+    "source": "BGG"
+  },
+  "giant ram": {
+    "name": "Giant Ram",
+    "type": "fey",
+    "tags": [],
+    "source": "BGG"
+  },
+  "giant tick": {
+    "name": "Giant Tick",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "BGG"
+  },
+  "gigant": {
+    "name": "Gigant",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "BGG"
+  },
+  "goliath giant-kin": {
+    "name": "Goliath Giant-Kin",
+    "type": "humanoid",
+    "tags": [],
+    "source": "BGG"
+  },
+  "grinning cat": {
+    "name": "Grinning Cat",
+    "type": "fey",
+    "tags": [],
+    "source": "BGG"
+  },
+  "hill giant avalancher": {
+    "name": "Hill Giant Avalancher",
+    "type": "giant",
+    "tags": [
+      "druid"
+    ],
+    "source": "BGG"
+  },
+  "lightning hulk": {
+    "name": "Lightning Hulk",
+    "type": "elemental",
+    "tags": [],
+    "source": "BGG"
+  },
+  "maw of yeenoghu": {
+    "name": "Maw of Yeenoghu",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "BGG"
+  },
+  "mist hulk": {
+    "name": "Mist Hulk",
+    "type": "elemental",
+    "tags": [],
+    "source": "BGG"
+  },
+  "mud hulk": {
+    "name": "Mud Hulk",
+    "type": "elemental",
+    "tags": [],
+    "source": "BGG"
+  },
+  "regisaur": {
+    "name": "Regisaur",
+    "type": "monstrosity",
+    "tags": [
+      "dinosaur"
+    ],
+    "source": "BGG"
+  },
+  "rime hulk": {
+    "name": "Rime Hulk",
+    "type": "elemental",
+    "tags": [],
+    "source": "BGG"
+  },
+  "runic colossus": {
+    "name": "Runic Colossus",
+    "type": "construct",
+    "tags": [],
+    "source": "BGG"
+  },
+  "scion of grolantor": {
+    "name": "Scion of Grolantor",
+    "type": "giant",
+    "tags": [
+      "titan"
+    ],
+    "source": "BGG"
+  },
+  "scion of memnor": {
+    "name": "Scion of Memnor",
+    "type": "giant",
+    "tags": [
+      "titan"
+    ],
+    "source": "BGG"
+  },
+  "scion of skoraeus": {
+    "name": "Scion of Skoraeus",
+    "type": "giant",
+    "tags": [
+      "titan"
+    ],
+    "source": "BGG"
+  },
+  "scion of stronmaus": {
+    "name": "Scion of Stronmaus",
+    "type": "giant",
+    "tags": [
+      "titan"
+    ],
+    "source": "BGG"
+  },
+  "scion of surtur": {
+    "name": "Scion of Surtur",
+    "type": "giant",
+    "tags": [
+      "titan"
+    ],
+    "source": "BGG"
+  },
+  "scion of thrym": {
+    "name": "Scion of Thrym",
+    "type": "giant",
+    "tags": [
+      "titan"
+    ],
+    "source": "BGG"
+  },
+  "spectral cloud": {
+    "name": "Spectral Cloud",
+    "type": "undead",
+    "tags": [],
+    "source": "BGG"
+  },
+  "spotted lion": {
+    "name": "Spotted Lion",
+    "type": "beast",
+    "tags": [],
+    "source": "BGG"
+  },
+  "stalker of baphomet": {
+    "name": "Stalker of Baphomet",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "BGG"
+  },
+  "stone giant of evil earth": {
+    "name": "Stone Giant of Evil Earth",
+    "type": "giant",
+    "tags": [],
+    "source": "BGG"
+  },
+  "stone giant rockspeaker": {
+    "name": "Stone Giant Rockspeaker",
+    "type": "giant",
+    "tags": [
+      "wizard"
+    ],
+    "source": "BGG"
+  },
+  "storm crab": {
+    "name": "Storm Crab",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "BGG"
+  },
+  "storm giant tempest caller": {
+    "name": "Storm Giant Tempest Caller",
+    "type": "giant",
+    "tags": [
+      "sorcerer"
+    ],
+    "source": "BGG"
+  },
+  "storm herald": {
+    "name": "Storm Herald",
+    "type": "aberration",
+    "tags": [],
+    "source": "BGG"
+  },
+  "tempest spirit": {
+    "name": "Tempest Spirit",
+    "type": "undead",
+    "tags": [],
+    "source": "BGG"
+  },
+  "titanothere": {
+    "name": "Titanothere",
+    "type": "beast",
+    "tags": [],
+    "source": "BGG"
+  },
+  "troll amalgam": {
+    "name": "Troll Amalgam",
+    "type": "giant",
+    "tags": [],
+    "source": "BGG"
+  },
+  "troll mutate": {
+    "name": "Troll Mutate",
+    "type": "giant",
+    "tags": [],
+    "source": "BGG"
+  },
+  "ambitious assassin": {
+    "name": "Ambitious Assassin",
+    "type": "humanoid",
+    "tags": [],
+    "source": "BMT"
+  },
+  "aspirant of the comet": {
+    "name": "Aspirant of the Comet",
+    "type": "humanoid",
+    "tags": [],
+    "source": "BMT"
+  },
+  "asteria": {
+    "name": "Asteria",
+    "type": "humanoid",
+    "tags": [
+      "human",
+      "paladin"
+    ],
+    "source": "BMT"
+  },
+  "aurnozci": {
+    "name": "Aurnozci",
+    "type": "fiend",
+    "tags": [
+      "demon"
+    ],
+    "source": "BMT"
+  },
+  "boss augustus": {
+    "name": "Boss Augustus",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "BMT"
+  },
+  "boss delour": {
+    "name": "Boss Delour",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "BMT"
+  },
+  "breath drinker": {
+    "name": "Breath Drinker",
+    "type": "aberration",
+    "tags": [],
+    "source": "BMT"
+  },
+  "brusipha": {
+    "name": "Brusipha",
+    "type": "humanoid",
+    "tags": [
+      "minotaur",
+      "warlock"
+    ],
+    "source": "BMT"
+  },
+  "deck defender": {
+    "name": "Deck Defender",
+    "type": "construct",
+    "tags": [],
+    "source": "BMT"
+  },
+  "enchanting infiltrator": {
+    "name": "Enchanting Infiltrator",
+    "type": "fey",
+    "tags": [],
+    "source": "BMT"
+  },
+  "euryale": {
+    "name": "Euryale",
+    "type": "monstrosity",
+    "tags": [
+      "druid",
+      "medusa"
+    ],
+    "source": "BMT"
+  },
+  "fate hag": {
+    "name": "Fate Hag",
+    "type": "fey",
+    "tags": [],
+    "source": "BMT"
+  },
+  "gremorly's ghost": {
+    "name": "Gremorly's Ghost",
+    "type": "undead",
+    "tags": [],
+    "source": "BMT"
+  },
+  "grim champion of bloodshed": {
+    "name": "Grim Champion of Bloodshed",
+    "type": "undead",
+    "tags": [],
+    "source": "BMT"
+  },
+  "grim champion of desolation": {
+    "name": "Grim Champion of Desolation",
+    "type": "undead",
+    "tags": [],
+    "source": "BMT"
+  },
+  "grim champion of pestilence": {
+    "name": "Grim Champion of Pestilence",
+    "type": "undead",
+    "tags": [],
+    "source": "BMT"
+  },
+  "harrow hawk": {
+    "name": "Harrow Hawk",
+    "type": "undead",
+    "tags": [],
+    "source": "BMT"
+  },
+  "harrow hound": {
+    "name": "Harrow Hound",
+    "type": "undead",
+    "tags": [],
+    "source": "BMT"
+  },
+  "hierophant medusa": {
+    "name": "Hierophant Medusa",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "BMT"
+  },
+  "hierophant of the comet": {
+    "name": "Hierophant of the Comet",
+    "type": "humanoid",
+    "tags": [
+      "warlock"
+    ],
+    "source": "BMT"
+  },
+  "hulgaz": {
+    "name": "Hulgaz",
+    "type": "fiend",
+    "tags": [
+      "devil"
+    ],
+    "source": "BMT"
+  },
+  "initiate of the comet": {
+    "name": "Initiate of the Comet",
+    "type": "humanoid",
+    "tags": [
+      "warlock"
+    ],
+    "source": "BMT"
+  },
+  "living portent": {
+    "name": "Living Portent",
+    "type": "celestial",
+    "tags": [],
+    "source": "BMT"
+  },
+  "malaxxix": {
+    "name": "Malaxxix",
+    "type": "fiend",
+    "tags": [
+      "yugoloth"
+    ],
+    "source": "BMT"
+  },
+  "minotaur archaeologist": {
+    "name": "Minotaur Archaeologist",
+    "type": "humanoid",
+    "tags": [],
+    "source": "BMT"
+  },
+  "minotaur infiltrator": {
+    "name": "Minotaur Infiltrator",
+    "type": "humanoid",
+    "tags": [],
+    "source": "BMT"
+  },
+  "oddlewin": {
+    "name": "Oddlewin",
+    "type": "fey",
+    "tags": [
+      "goblinoid"
+    ],
+    "source": "BMT"
+  },
+  "otherworldly corrupter": {
+    "name": "Otherworldly Corrupter",
+    "type": "aberration",
+    "tags": [],
+    "source": "BMT"
+  },
+  "pazrodine": {
+    "name": "Pazrodine",
+    "type": "dragon",
+    "tags": [
+      "moonstone"
+    ],
+    "source": "BMT"
+  },
+  "reaper spirit": {
+    "name": "Reaper Spirit",
+    "type": "undead",
+    "tags": [],
+    "source": "BMT"
+  },
+  "riffler": {
+    "name": "Riffler",
+    "type": "fey",
+    "tags": [],
+    "source": "BMT"
+  },
+  "ruin spider": {
+    "name": "Ruin Spider",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "BMT"
+  },
+  "sir jared": {
+    "name": "Sir Jared",
+    "type": "humanoid",
+    "tags": [],
+    "source": "BMT"
+  },
+  "solar bastion knight": {
+    "name": "Solar Bastion Knight",
+    "type": "humanoid",
+    "tags": [
+      "paladin"
+    ],
+    "source": "BMT"
+  },
+  "talon beast": {
+    "name": "Talon Beast",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "BMT"
+  },
+  "veiled presence": {
+    "name": "Veiled Presence",
+    "type": "celestial",
+    "tags": [],
+    "source": "BMT"
+  },
+  "werevulture": {
+    "name": "Werevulture",
+    "type": "fiend",
+    "tags": [],
+    "source": "BMT"
+  },
+  "auril (first form)": {
+    "name": "Auril (First Form)",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "auril (second form)": {
+    "name": "Auril (Second Form)",
+    "type": "elemental",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "auril (third form)": {
+    "name": "Auril (Third Form)",
+    "type": "elemental",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "avarice": {
+    "name": "Avarice",
+    "type": "humanoid",
+    "tags": [
+      "tiefling"
+    ],
+    "source": "IDRotF"
+  },
+  "awakened white moose": {
+    "name": "Awakened White Moose",
+    "type": "beast",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "bjornhild solvigsdottir": {
+    "name": "Bjornhild Solvigsdottir",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "IDRotF"
+  },
+  "chardalyn berserker": {
+    "name": "Chardalyn Berserker",
+    "type": "fiend",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "chardalyn dragon": {
+    "name": "Chardalyn Dragon",
+    "type": "construct",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "coldlight walker": {
+    "name": "Coldlight Walker",
+    "type": "undead",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "demos magen": {
+    "name": "Demos Magen",
+    "type": "construct",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "dzaan's simulacrum": {
+    "name": "Dzaan's Simulacrum",
+    "type": "construct",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "fox": {
+    "name": "Fox",
+    "type": "beast",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "frost druid": {
+    "name": "Frost Druid",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "IDRotF"
+  },
+  "frost giant skeleton": {
+    "name": "Frost Giant Skeleton",
+    "type": "undead",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "galvan magen": {
+    "name": "Galvan Magen",
+    "type": "construct",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "giant walrus": {
+    "name": "Giant Walrus",
+    "type": "beast",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "gnoll vampire": {
+    "name": "Gnoll Vampire",
+    "type": "undead",
+    "tags": [
+      "shapechanger"
+    ],
+    "source": "IDRotF"
+  },
+  "gnome ceremorph": {
+    "name": "Gnome Ceremorph",
+    "type": "aberration",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "gnome squidling": {
+    "name": "Gnome Squidling",
+    "type": "aberration",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "goliath warrior": {
+    "name": "Goliath Warrior",
+    "type": "humanoid",
+    "tags": [
+      "goliath"
+    ],
+    "source": "IDRotF"
+  },
+  "goliath werebear": {
+    "name": "Goliath Werebear",
+    "type": "humanoid",
+    "tags": [
+      "goliath",
+      "shapechanger"
+    ],
+    "source": "IDRotF"
+  },
+  "grandolpha muzgardt": {
+    "name": "Grandolpha Muzgardt",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "IDRotF"
+  },
+  "gunvald halraggson": {
+    "name": "Gunvald Halraggson",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "IDRotF"
+  },
+  "hare": {
+    "name": "Hare",
+    "type": "beast",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "hengar aesnvaard": {
+    "name": "Hengar Aesnvaard",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "IDRotF"
+  },
+  "hypnos magen": {
+    "name": "Hypnos Magen",
+    "type": "construct",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "ice troll": {
+    "name": "Ice Troll",
+    "type": "giant",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "icewind kobold": {
+    "name": "Icewind Kobold",
+    "type": "humanoid",
+    "tags": [
+      "kobold"
+    ],
+    "source": "IDRotF"
+  },
+  "icewind kobold zombie": {
+    "name": "Icewind Kobold Zombie",
+    "type": "undead",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "isarr kronenstrom": {
+    "name": "Isarr Kronenstrom",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "IDRotF"
+  },
+  "jarund elkhardt": {
+    "name": "Jarund Elkhardt",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "IDRotF"
+  },
+  "kingsport": {
+    "name": "Kingsport",
+    "type": "beast",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "knucklehead trout": {
+    "name": "Knucklehead Trout",
+    "type": "beast",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "kobold vampire spawn": {
+    "name": "Kobold Vampire Spawn",
+    "type": "undead",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "living bigby's hand": {
+    "name": "Living Bigby's Hand",
+    "type": "construct",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "living blade of disaster": {
+    "name": "Living Blade of Disaster",
+    "type": "construct",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "living demiplane": {
+    "name": "Living Demiplane",
+    "type": "construct",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "mjenir": {
+    "name": "Mjenir",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "IDRotF"
+  },
+  "mountain goat": {
+    "name": "Mountain Goat",
+    "type": "beast",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "nass lantomir's ghost": {
+    "name": "Nass Lantomir's Ghost",
+    "type": "undead",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "prisoner 237": {
+    "name": "Prisoner 237",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "IDRotF"
+  },
+  "seal": {
+    "name": "Seal",
+    "type": "beast",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "sephek kaltro": {
+    "name": "Sephek Kaltro",
+    "type": "undead",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "snow golem": {
+    "name": "Snow Golem",
+    "type": "construct",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "spellix romwod": {
+    "name": "Spellix Romwod",
+    "type": "humanoid",
+    "tags": [
+      "gnome"
+    ],
+    "source": "IDRotF"
+  },
+  "sperm whale": {
+    "name": "Sperm Whale",
+    "type": "beast",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "spitting mimic": {
+    "name": "Spitting Mimic",
+    "type": "monstrosity",
+    "tags": [
+      "shapechanger"
+    ],
+    "source": "IDRotF"
+  },
+  "tomb tapper": {
+    "name": "Tomb Tapper",
+    "type": "construct",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "tribal warrior spore servant": {
+    "name": "Tribal Warrior Spore Servant",
+    "type": "plant",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "vellynne harpell": {
+    "name": "Vellynne Harpell",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "IDRotF"
+  },
+  "verbeeg longstrider": {
+    "name": "Verbeeg Longstrider",
+    "type": "giant",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "verbeeg marauder": {
+    "name": "Verbeeg Marauder",
+    "type": "giant",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "walrus": {
+    "name": "Walrus",
+    "type": "beast",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "xardorok sunblight": {
+    "name": "Xardorok Sunblight",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "IDRotF"
+  },
+  "yeti tyke": {
+    "name": "Yeti Tyke",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "IDRotF"
+  },
+  "acererak": {
+    "name": "Acererak",
+    "type": "undead",
+    "tags": [],
+    "source": "ToA"
+  },
+  "albino dwarf spirit warrior": {
+    "name": "Albino Dwarf Spirit Warrior",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "ToA"
+  },
+  "albino dwarf warrior": {
+    "name": "Albino Dwarf Warrior",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "ToA"
+  },
+  "aldani (lobsterfolk)": {
+    "name": "Aldani (Lobsterfolk)",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "ToA"
+  },
+  "almiraj": {
+    "name": "Almiraj",
+    "type": "beast",
+    "tags": [],
+    "source": "ToA"
+  },
+  "ankylosaurus zombie": {
+    "name": "Ankylosaurus Zombie",
+    "type": "undead",
+    "tags": [],
+    "source": "ToA"
+  },
+  "artus cimber": {
+    "name": "Artus Cimber",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "asharra": {
+    "name": "Asharra",
+    "type": "humanoid",
+    "tags": [
+      "aarakocra"
+    ],
+    "source": "ToA"
+  },
+  "assassin vine": {
+    "name": "Assassin Vine",
+    "type": "plant",
+    "tags": [],
+    "source": "ToA"
+  },
+  "atropal": {
+    "name": "Atropal",
+    "type": "undead",
+    "tags": [
+      "titan"
+    ],
+    "source": "ToA"
+  },
+  "bag of nails": {
+    "name": "Bag of Nails",
+    "type": "humanoid",
+    "tags": [
+      "tabaxi"
+    ],
+    "source": "ToA"
+  },
+  "bosco daggerhand": {
+    "name": "Bosco Daggerhand",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "chwinga": {
+    "name": "Chwinga",
+    "type": "elemental",
+    "tags": [],
+    "source": "ToA"
+  },
+  "clay gladiator": {
+    "name": "Clay Gladiator",
+    "type": "construct",
+    "tags": [],
+    "source": "ToA"
+  },
+  "dragonbait": {
+    "name": "Dragonbait",
+    "type": "humanoid",
+    "tags": [
+      "saurial"
+    ],
+    "source": "ToA"
+  },
+  "eblis": {
+    "name": "Eblis",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "ToA"
+  },
+  "ekene-afa": {
+    "name": "Ekene-Afa",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "faroul": {
+    "name": "Faroul",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "flying monkey": {
+    "name": "Flying Monkey",
+    "type": "beast",
+    "tags": [],
+    "source": "ToA"
+  },
+  "giant four-armed gargoyle": {
+    "name": "Giant Four-Armed Gargoyle",
+    "type": "elemental",
+    "tags": [],
+    "source": "ToA"
+  },
+  "giant snapping turtle": {
+    "name": "Giant Snapping Turtle",
+    "type": "beast",
+    "tags": [],
+    "source": "ToA"
+  },
+  "girallon zombie": {
+    "name": "Girallon Zombie",
+    "type": "undead",
+    "tags": [],
+    "source": "ToA"
+  },
+  "grandfather zitembe": {
+    "name": "Grandfather Zitembe",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "hew hackinstone": {
+    "name": "Hew Hackinstone",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "ToA"
+  },
+  "ifan talro'a": {
+    "name": "Ifan Talro'a",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "jaculi": {
+    "name": "Jaculi",
+    "type": "beast",
+    "tags": [],
+    "source": "ToA"
+  },
+  "jessamine": {
+    "name": "Jessamine",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "jobal": {
+    "name": "Jobal",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "kamadan": {
+    "name": "Kamadan",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "ToA"
+  },
+  "king of feathers": {
+    "name": "King of Feathers",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "ToA"
+  },
+  "kwayoth\u00e9": {
+    "name": "Kwayoth\u00e9",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "laskilar": {
+    "name": "Laskilar",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "liara portyr": {
+    "name": "Liara Portyr",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "mantrap": {
+    "name": "Mantrap",
+    "type": "plant",
+    "tags": [],
+    "source": "ToA"
+  },
+  "mwaxanar\u00e9": {
+    "name": "Mwaxanar\u00e9",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "na": {
+    "name": "Na",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "niles breakbone": {
+    "name": "Niles Breakbone",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "orvex ocrammas": {
+    "name": "Orvex Ocrammas",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "pterafolk": {
+    "name": "Pterafolk",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "ToA"
+  },
+  "qawasha": {
+    "name": "Qawasha",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "ras nsi": {
+    "name": "Ras Nsi",
+    "type": "monstrosity",
+    "tags": [
+      "shapechanger",
+      "yuan-ti"
+    ],
+    "source": "ToA"
+  },
+  "shago": {
+    "name": "Shago",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "spiked tomb guardian": {
+    "name": "Spiked Tomb Guardian",
+    "type": "construct",
+    "tags": [],
+    "source": "ToA"
+  },
+  "stone juggernaut": {
+    "name": "Stone Juggernaut",
+    "type": "construct",
+    "tags": [],
+    "source": "ToA"
+  },
+  "su-monster": {
+    "name": "Su-monster",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "ToA"
+  },
+  "syndra silvane": {
+    "name": "Syndra Silvane",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "tabaxi hunter": {
+    "name": "Tabaxi Hunter",
+    "type": "humanoid",
+    "tags": [
+      "tabaxi"
+    ],
+    "source": "ToA"
+  },
+  "tabaxi minstrel": {
+    "name": "Tabaxi Minstrel",
+    "type": "humanoid",
+    "tags": [
+      "tabaxi"
+    ],
+    "source": "ToA"
+  },
+  "tomb dwarf": {
+    "name": "Tomb Dwarf",
+    "type": "undead",
+    "tags": [],
+    "source": "ToA"
+  },
+  "tomb guardian": {
+    "name": "Tomb Guardian",
+    "type": "construct",
+    "tags": [],
+    "source": "ToA"
+  },
+  "tri-flower frond": {
+    "name": "Tri-flower Frond",
+    "type": "plant",
+    "tags": [],
+    "source": "ToA"
+  },
+  "tyrannosaurus zombie": {
+    "name": "Tyrannosaurus Zombie",
+    "type": "undead",
+    "tags": [],
+    "source": "ToA"
+  },
+  "valindra shadowmantle": {
+    "name": "Valindra Shadowmantle",
+    "type": "undead",
+    "tags": [],
+    "source": "ToA"
+  },
+  "volothamp \"volo\" geddarm": {
+    "name": "Volothamp \"Volo\" Geddarm",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "wakanga o'tamu": {
+    "name": "Wakanga O'tamu",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "withers": {
+    "name": "Withers",
+    "type": "undead",
+    "tags": [],
+    "source": "ToA"
+  },
+  "xandala": {
+    "name": "Xandala",
+    "type": "humanoid",
+    "tags": [
+      "half-elf"
+    ],
+    "source": "ToA"
+  },
+  "yellow musk creeper": {
+    "name": "Yellow Musk Creeper",
+    "type": "plant",
+    "tags": [],
+    "source": "ToA"
+  },
+  "yellow musk zombie": {
+    "name": "Yellow Musk Zombie",
+    "type": "undead",
+    "tags": [],
+    "source": "ToA"
+  },
+  "zaroum al-saryak": {
+    "name": "Zaroum Al-Saryak",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "zhanthi": {
+    "name": "Zhanthi",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "ToA"
+  },
+  "zindar": {
+    "name": "Zindar",
+    "type": "humanoid",
+    "tags": [
+      "half-dragon"
+    ],
+    "source": "ToA"
+  },
+  "zorbo": {
+    "name": "Zorbo",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "ToA"
+  },
+  "arabelle": {
+    "name": "Arabelle",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "arrigal": {
+    "name": "Arrigal",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "baba lysaga": {
+    "name": "Baba Lysaga",
+    "type": "humanoid",
+    "tags": [
+      "human",
+      "shapechanger"
+    ],
+    "source": "CoS"
+  },
+  "baba lysaga's creeping hut": {
+    "name": "Baba Lysaga's Creeping Hut",
+    "type": "construct",
+    "tags": [],
+    "source": "CoS"
+  },
+  "baron vargas vallakovich": {
+    "name": "Baron Vargas Vallakovich",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "barovian witch": {
+    "name": "Barovian Witch",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "bluto krogarov": {
+    "name": "Bluto Krogarov",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "broom of animated attack": {
+    "name": "Broom of Animated Attack",
+    "type": "construct",
+    "tags": [],
+    "source": "CoS"
+  },
+  "donavich": {
+    "name": "Donavich",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "ezmerelda d'avenir": {
+    "name": "Ezmerelda d'Avenir",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "gadof blinsky": {
+    "name": "Gadof Blinsky",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "gertruda": {
+    "name": "Gertruda",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "guardian portrait": {
+    "name": "Guardian Portrait",
+    "type": "construct",
+    "tags": [],
+    "source": "CoS"
+  },
+  "henrik van der voort": {
+    "name": "Henrik van der Voort",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "ireena kolyana": {
+    "name": "Ireena Kolyana",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "ismark kolyanovich": {
+    "name": "Ismark Kolyanovich",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "izek strazni": {
+    "name": "Izek Strazni",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "kasimir velikov": {
+    "name": "Kasimir Velikov",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "elf",
+        "prefix": "Dusk",
+        "prefixHidden": true
+      }
+    ],
+    "source": "CoS"
+  },
+  "lady fiona wachter": {
+    "name": "Lady Fiona Wachter",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "lady lydia petrovna": {
+    "name": "Lady Lydia Petrovna",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "lief lipsiege": {
+    "name": "Lief Lipsiege",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "luvash": {
+    "name": "Luvash",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "mad mary": {
+    "name": "Mad Mary",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "madam eva": {
+    "name": "Madam Eva",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "milivoj": {
+    "name": "Milivoj",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "mongrelfolk": {
+    "name": "Mongrelfolk",
+    "type": "humanoid",
+    "tags": [
+      "mongrelfolk"
+    ],
+    "source": "CoS"
+  },
+  "nikolai wachter": {
+    "name": "Nikolai Wachter",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "parriwimple": {
+    "name": "Parriwimple",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "patrina velikovna": {
+    "name": "Patrina Velikovna",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "elf",
+        "prefix": "Dusk",
+        "prefixHidden": true
+      }
+    ],
+    "source": "CoS"
+  },
+  "phantom warrior": {
+    "name": "Phantom Warrior",
+    "type": "undead",
+    "tags": [],
+    "source": "CoS"
+  },
+  "pidlwick ii": {
+    "name": "Pidlwick II",
+    "type": "construct",
+    "tags": [],
+    "source": "CoS"
+  },
+  "rahadin": {
+    "name": "Rahadin",
+    "type": "humanoid",
+    "tags": [
+      "elf"
+    ],
+    "source": "CoS"
+  },
+  "rictavio": {
+    "name": "Rictavio",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "savid": {
+    "name": "Savid",
+    "type": "humanoid",
+    "tags": [
+      "elf"
+    ],
+    "source": "CoS"
+  },
+  "stanimir": {
+    "name": "Stanimir",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "stella wachter": {
+    "name": "Stella Wachter",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "strahd von zarovich": {
+    "name": "Strahd von Zarovich",
+    "type": "undead",
+    "tags": [
+      "shapechanger"
+    ],
+    "source": "CoS"
+  },
+  "strahd zombie": {
+    "name": "Strahd Zombie",
+    "type": "undead",
+    "tags": [],
+    "source": "CoS"
+  },
+  "strahd's animated armor": {
+    "name": "Strahd's Animated Armor",
+    "type": "construct",
+    "tags": [],
+    "source": "CoS"
+  },
+  "szoldar szoldarovich": {
+    "name": "Szoldar Szoldarovich",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "the mad mage of mount baratok": {
+    "name": "The Mad Mage of Mount Baratok",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "tree blight": {
+    "name": "Tree Blight",
+    "type": "plant",
+    "tags": [],
+    "source": "CoS"
+  },
+  "victor vallakovich": {
+    "name": "Victor Vallakovich",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "vilnius": {
+    "name": "Vilnius",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "vladimir horngaard": {
+    "name": "Vladimir Horngaard",
+    "type": "undead",
+    "tags": [],
+    "source": "CoS"
+  },
+  "yevgeni krushkin": {
+    "name": "Yevgeni Krushkin",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "CoS"
+  },
+  "aarakocra simulacrum": {
+    "name": "Aarakocra Simulacrum",
+    "type": "humanoid",
+    "tags": [
+      "aarakocra"
+    ],
+    "source": "SKT"
+  },
+  "alastrah": {
+    "name": "Alastrah",
+    "type": "giant",
+    "tags": [],
+    "source": "SKT"
+  },
+  "augrek brighthelm": {
+    "name": "Augrek Brighthelm",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "dwarf",
+        "prefix": "Shield"
+      }
+    ],
+    "source": "SKT"
+  },
+  "beldora": {
+    "name": "Beldora",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Illuskan"
+      }
+    ],
+    "source": "SKT"
+  },
+  "chief guh": {
+    "name": "Chief Guh",
+    "type": "giant",
+    "tags": [],
+    "source": "SKT"
+  },
+  "clockwork mule": {
+    "name": "Clockwork Mule",
+    "type": "construct",
+    "tags": [],
+    "source": "SKT"
+  },
+  "crag cat": {
+    "name": "Crag Cat",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "SKT"
+  },
+  "darathra shendrel": {
+    "name": "Darathra Shendrel",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "darz helgar": {
+    "name": "Darz Helgar",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Illuskan"
+      }
+    ],
+    "source": "SKT"
+  },
+  "duke zalto": {
+    "name": "Duke Zalto",
+    "type": "giant",
+    "tags": [],
+    "source": "SKT"
+  },
+  "duvessa shane": {
+    "name": "Duvessa Shane",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Illuskan"
+      }
+    ],
+    "source": "SKT"
+  },
+  "ghelryn foehammer": {
+    "name": "Ghelryn Foehammer",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "dwarf",
+        "prefix": "Shield"
+      }
+    ],
+    "source": "SKT"
+  },
+  "great chief halric bonesnapper": {
+    "name": "Great Chief Halric Bonesnapper",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "SKT"
+  },
+  "harshnag": {
+    "name": "Harshnag",
+    "type": "giant",
+    "tags": [],
+    "source": "SKT"
+  },
+  "hulking crab": {
+    "name": "Hulking Crab",
+    "type": "beast",
+    "tags": [],
+    "source": "SKT"
+  },
+  "hydia moonmusk": {
+    "name": "Hydia Moonmusk",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "SKT"
+  },
+  "iymrith": {
+    "name": "Iymrith",
+    "type": "dragon",
+    "tags": [],
+    "source": "SKT"
+  },
+  "jarl storvald": {
+    "name": "Jarl Storvald",
+    "type": "giant",
+    "tags": [],
+    "source": "SKT"
+  },
+  "kaaltar": {
+    "name": "Kaaltar",
+    "type": "giant",
+    "tags": [],
+    "source": "SKT"
+  },
+  "kella darkhope": {
+    "name": "Kella Darkhope",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "SKT"
+  },
+  "khaspere drylund": {
+    "name": "Khaspere Drylund",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "SKT"
+  },
+  "king hekaton": {
+    "name": "King Hekaton",
+    "type": "giant",
+    "tags": [],
+    "source": "SKT"
+  },
+  "klauth": {
+    "name": "Klauth",
+    "type": "dragon",
+    "tags": [],
+    "source": "SKT"
+  },
+  "lifferlas": {
+    "name": "Lifferlas",
+    "type": "plant",
+    "tags": [],
+    "source": "SKT"
+  },
+  "maegera the dawn titan": {
+    "name": "Maegera the Dawn Titan",
+    "type": "elemental",
+    "tags": [],
+    "source": "SKT"
+  },
+  "markham southwell": {
+    "name": "Markham Southwell",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Turami"
+      }
+    ],
+    "source": "SKT"
+  },
+  "miros xelbrin": {
+    "name": "Miros Xelbrin",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Damaran"
+      }
+    ],
+    "source": "SKT"
+  },
+  "narth tezrin": {
+    "name": "Narth Tezrin",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Tethyrian"
+      }
+    ],
+    "source": "SKT"
+  },
+  "naxene drathkala": {
+    "name": "Naxene Drathkala",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Turami"
+      }
+    ],
+    "source": "SKT"
+  },
+  "noori": {
+    "name": "Noori",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "SKT"
+  },
+  "oren yogilvy": {
+    "name": "Oren Yogilvy",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "halfling",
+        "prefix": "Strongheart"
+      }
+    ],
+    "source": "SKT"
+  },
+  "orok": {
+    "name": "Orok",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "SKT"
+  },
+  "othovir": {
+    "name": "Othovir",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Illuskan"
+      }
+    ],
+    "source": "SKT"
+  },
+  "pow ming": {
+    "name": "Pow Ming",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "SKT"
+  },
+  "purple wormling": {
+    "name": "Purple Wormling",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "SKT"
+  },
+  "sea elf": {
+    "name": "Sea Elf",
+    "type": "humanoid",
+    "tags": [
+      "elf"
+    ],
+    "source": "SKT"
+  },
+  "shalvus martholio": {
+    "name": "Shalvus Martholio",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Turami"
+      }
+    ],
+    "source": "SKT"
+  },
+  "sharda": {
+    "name": "Sharda",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Illuskan",
+        "prefixHidden": true
+      }
+    ],
+    "source": "SKT"
+  },
+  "sir baric nylef": {
+    "name": "Sir Baric Nylef",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Illuskan"
+      }
+    ],
+    "source": "SKT"
+  },
+  "sirac of suzail": {
+    "name": "Sirac of Suzail",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Chondathan"
+      }
+    ],
+    "source": "SKT"
+  },
+  "slarkrethel": {
+    "name": "Slarkrethel",
+    "type": "monstrosity",
+    "tags": [
+      "titan"
+    ],
+    "source": "SKT"
+  },
+  "tau": {
+    "name": "Tau",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Shou",
+        "prefixHidden": true
+      }
+    ],
+    "source": "SKT"
+  },
+  "thane kayalithica": {
+    "name": "Thane Kayalithica",
+    "type": "giant",
+    "tags": [],
+    "source": "SKT"
+  },
+  "tholtz daggerdark": {
+    "name": "Tholtz Daggerdark",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "SKT"
+  },
+  "thunderbeast skeleton": {
+    "name": "Thunderbeast Skeleton",
+    "type": "undead",
+    "tags": [],
+    "source": "SKT"
+  },
+  "tressym": {
+    "name": "Tressym",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "SKT"
+  },
+  "urgala meltimer": {
+    "name": "Urgala Meltimer",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Turami"
+      }
+    ],
+    "source": "SKT"
+  },
+  "uthgardt barbarian leader": {
+    "name": "Uthgardt Barbarian Leader",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "SKT"
+  },
+  "uthgardt shaman": {
+    "name": "Uthgardt Shaman",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "SKT"
+  },
+  "xolkin alassandar": {
+    "name": "Xolkin Alassandar",
+    "type": "humanoid",
+    "tags": [
+      "half-elf"
+    ],
+    "source": "SKT"
+  },
+  "yakfolk priest": {
+    "name": "Yakfolk Priest",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "SKT"
+  },
+  "yakfolk warrior": {
+    "name": "Yakfolk Warrior",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "SKT"
+  },
+  "zaltember": {
+    "name": "Zaltember",
+    "type": "giant",
+    "tags": [],
+    "source": "SKT"
+  },
+  "zephyros": {
+    "name": "Zephyros",
+    "type": "giant",
+    "tags": [],
+    "source": "SKT"
+  },
+  "zi liang": {
+    "name": "Zi Liang",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Shou"
+      }
+    ],
+    "source": "SKT"
+  },
+  "aerisi kalinoth": {
+    "name": "Aerisi Kalinoth",
+    "type": "humanoid",
+    "tags": [
+      "elf"
+    ],
+    "source": "PotA"
+  },
+  "bastian thermandar": {
+    "name": "Bastian Thermandar",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "genasi",
+        "prefix": "Fire"
+      }
+    ],
+    "source": "PotA"
+  },
+  "black earth guard": {
+    "name": "Black Earth Guard",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "black earth priest": {
+    "name": "Black Earth Priest",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "braelen hatherhand": {
+    "name": "Braelen Hatherhand",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "burrowshark": {
+    "name": "Burrowshark",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "cavil zaltobar": {
+    "name": "Cavil Zaltobar",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "crushing wave priest": {
+    "name": "Crushing Wave Priest",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "crushing wave reaver": {
+    "name": "Crushing Wave Reaver",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "dark tide knight": {
+    "name": "Dark Tide Knight",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "deseyna majarra": {
+    "name": "Deseyna Majarra",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "drannin splithelm": {
+    "name": "Drannin Splithelm",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "dwarf",
+        "prefix": "Shield"
+      }
+    ],
+    "source": "PotA"
+  },
+  "elizar dryflagon": {
+    "name": "Elizar Dryflagon",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "eternal flame guardian": {
+    "name": "Eternal Flame Guardian",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "eternal flame priest": {
+    "name": "Eternal Flame Priest",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "fathomer": {
+    "name": "Fathomer",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "feathergale knight": {
+    "name": "Feathergale Knight",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "fennor": {
+    "name": "Fennor",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "flamewrath": {
+    "name": "Flamewrath",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "gar shatterkeel": {
+    "name": "Gar Shatterkeel",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "ghald": {
+    "name": "Ghald",
+    "type": "humanoid",
+    "tags": [
+      "sahuagin"
+    ],
+    "source": "PotA"
+  },
+  "grumink the renegade": {
+    "name": "Grumink the Renegade",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "PotA"
+  },
+  "hellenrae": {
+    "name": "Hellenrae",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "howling hatred initiate": {
+    "name": "Howling Hatred Initiate",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "howling hatred priest": {
+    "name": "Howling Hatred Priest",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "hurricane": {
+    "name": "Hurricane",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "imix": {
+    "name": "Imix",
+    "type": "elemental",
+    "tags": [],
+    "source": "PotA"
+  },
+  "lyzandra \"lyzzie\" calderos": {
+    "name": "Lyzandra \"Lyzzie\" Calderos",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "maegla tarnlar": {
+    "name": "Maegla Tarnlar",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "marlos urnrayle": {
+    "name": "Marlos Urnrayle",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "PotA"
+  },
+  "miraj vizann": {
+    "name": "Miraj Vizann",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "genasi",
+        "prefix": "Earth"
+      }
+    ],
+    "source": "PotA"
+  },
+  "ogr\u00e9moch": {
+    "name": "Ogr\u00e9moch",
+    "type": "elemental",
+    "tags": [],
+    "source": "PotA"
+  },
+  "olhydra": {
+    "name": "Olhydra",
+    "type": "elemental",
+    "tags": [],
+    "source": "PotA"
+  },
+  "one-eyed shiver": {
+    "name": "One-Eyed Shiver",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "oreioth": {
+    "name": "Oreioth",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "padraich": {
+    "name": "Padraich",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "razerblast": {
+    "name": "Razerblast",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "sacred stone monk": {
+    "name": "Sacred Stone Monk",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "shoalar quanderil": {
+    "name": "Shoalar Quanderil",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "genasi",
+        "prefix": "Water"
+      }
+    ],
+    "source": "PotA"
+  },
+  "skyweaver": {
+    "name": "Skyweaver",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "stonemelder": {
+    "name": "Stonemelder",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "thurl merosska": {
+    "name": "Thurl Merosska",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "PotA"
+  },
+  "vanifer": {
+    "name": "Vanifer",
+    "type": "humanoid",
+    "tags": [
+      "tiefling"
+    ],
+    "source": "PotA"
+  },
+  "wiggan nettlebee": {
+    "name": "Wiggan Nettlebee",
+    "type": "humanoid",
+    "tags": [
+      "halfling"
+    ],
+    "source": "PotA"
+  },
+  "windharrow": {
+    "name": "Windharrow",
+    "type": "humanoid",
+    "tags": [
+      "half-elf"
+    ],
+    "source": "PotA"
+  },
+  "yan-c-bin": {
+    "name": "Yan-C-Bin",
+    "type": "elemental",
+    "tags": [],
+    "source": "PotA"
+  },
+  "ambush drake": {
+    "name": "Ambush Drake",
+    "type": "dragon",
+    "tags": [],
+    "source": "HotDQ"
+  },
+  "azbara jos": {
+    "name": "Azbara Jos",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "HotDQ"
+  },
+  "blagothkus": {
+    "name": "Blagothkus",
+    "type": "giant",
+    "tags": [
+      "cloud giant"
+    ],
+    "source": "HotDQ"
+  },
+  "captain othelstan": {
+    "name": "Captain Othelstan",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "HotDQ"
+  },
+  "dragonclaw": {
+    "name": "Dragonclaw",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "HotDQ"
+  },
+  "dragonwing": {
+    "name": "Dragonwing",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "HotDQ"
+  },
+  "dralmorrer borngray": {
+    "name": "Dralmorrer Borngray",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "elf",
+        "prefix": "High"
+      }
+    ],
+    "source": "HotDQ"
+  },
+  "frulam mondath": {
+    "name": "Frulam Mondath",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "HotDQ"
+  },
+  "jamna gleamsilver": {
+    "name": "Jamna Gleamsilver",
+    "type": "humanoid",
+    "tags": [
+      "gnome"
+    ],
+    "source": "HotDQ"
+  },
+  "langdedrosa cyanwrath": {
+    "name": "Langdedrosa Cyanwrath",
+    "type": "humanoid",
+    "tags": [
+      "half-dragon"
+    ],
+    "source": "HotDQ"
+  },
+  "leosin erlanthar": {
+    "name": "Leosin Erlanthar",
+    "type": "humanoid",
+    "tags": [
+      "half-elf"
+    ],
+    "source": "HotDQ"
+  },
+  "linan swift": {
+    "name": "Linan Swift",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "HotDQ"
+  },
+  "ontharr frume": {
+    "name": "Ontharr Frume",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "HotDQ"
+  },
+  "pharblex spattergoo": {
+    "name": "Pharblex Spattergoo",
+    "type": "humanoid",
+    "tags": [
+      "bullywug"
+    ],
+    "source": "HotDQ"
+  },
+  "rath modar": {
+    "name": "Rath Modar",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "HotDQ"
+  },
+  "rezmir": {
+    "name": "Rezmir",
+    "type": "humanoid",
+    "tags": [
+      "half-black dragon"
+    ],
+    "source": "HotDQ"
+  },
+  "talis the white": {
+    "name": "Talis the White",
+    "type": "humanoid",
+    "tags": [
+      "half-elf"
+    ],
+    "source": "HotDQ"
+  },
+  "trepsin": {
+    "name": "Trepsin",
+    "type": "giant",
+    "tags": [],
+    "source": "HotDQ"
+  },
+  "carnivorous flower": {
+    "name": "Carnivorous Flower",
+    "type": "plant",
+    "tags": [],
+    "source": "RoT"
+  },
+  "dragonfang": {
+    "name": "Dragonfang",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "RoT"
+  },
+  "dragonsoul": {
+    "name": "Dragonsoul",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "RoT"
+  },
+  "ice toad": {
+    "name": "Ice Toad",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "RoT"
+  },
+  "iskander": {
+    "name": "Iskander",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "RoT"
+  },
+  "mend-nets": {
+    "name": "Mend-nets",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "RoT"
+  },
+  "naergoth bladelord": {
+    "name": "Naergoth Bladelord",
+    "type": "undead",
+    "tags": [],
+    "source": "RoT"
+  },
+  "neronvain": {
+    "name": "Neronvain",
+    "type": "humanoid",
+    "tags": [
+      "elf"
+    ],
+    "source": "RoT"
+  },
+  "paper whirlwind": {
+    "name": "Paper Whirlwind",
+    "type": "construct",
+    "tags": [],
+    "source": "RoT"
+  },
+  "severin": {
+    "name": "Severin",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "RoT"
+  },
+  "tiamat": {
+    "name": "Tiamat",
+    "type": "fiend",
+    "tags": [],
+    "source": "RoT"
+  },
+  "animated ballista": {
+    "name": "Animated Ballista",
+    "type": "construct",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "animated jade serpent": {
+    "name": "Animated Jade Serpent",
+    "type": "construct",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "animated staff": {
+    "name": "Animated Staff",
+    "type": "construct",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "animated statue": {
+    "name": "Animated Statue",
+    "type": "construct",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "animated stove": {
+    "name": "Animated Stove",
+    "type": "construct",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "berlain shadowdusk": {
+    "name": "Berlain Shadowdusk",
+    "type": "aberration",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "bore worm": {
+    "name": "Bore Worm",
+    "type": "construct",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "cassiok shadowdusk": {
+    "name": "Cassiok Shadowdusk",
+    "type": "aberration",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "halaster blackcloak": {
+    "name": "Halaster Blackcloak",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDMM"
+  },
+  "halaster puppet": {
+    "name": "Halaster Puppet",
+    "type": "construct",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "haungharassk": {
+    "name": "Haungharassk",
+    "type": "beast",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "iron spider": {
+    "name": "Iron Spider",
+    "type": "construct",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "kavil mereshanter": {
+    "name": "Kavil Mereshanter",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDMM"
+  },
+  "lava child": {
+    "name": "Lava Child",
+    "type": "humanoid",
+    "tags": [
+      "lava child"
+    ],
+    "source": "WDMM"
+  },
+  "left hand of manshoon": {
+    "name": "Left Hand of Manshoon",
+    "type": "undead",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "living unseen servant": {
+    "name": "Living Unseen Servant",
+    "type": "construct",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "melissara shadowdusk": {
+    "name": "Melissara Shadowdusk",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDMM"
+  },
+  "metal wasp": {
+    "name": "Metal Wasp",
+    "type": "construct",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "muiral": {
+    "name": "Muiral",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "mutated drow": {
+    "name": "Mutated Drow",
+    "type": "giant",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "nester": {
+    "name": "Nester",
+    "type": "undead",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "portia dzuth": {
+    "name": "Portia Dzuth",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDMM"
+  },
+  "preeta kreepa": {
+    "name": "Preeta Kreepa",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDMM"
+  },
+  "rabbithead": {
+    "name": "Rabbithead",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDMM"
+  },
+  "scaladar": {
+    "name": "Scaladar",
+    "type": "construct",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "shadow assassin": {
+    "name": "Shadow Assassin",
+    "type": "undead",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "shockerstomper": {
+    "name": "Shockerstomper",
+    "type": "construct",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "sundeth": {
+    "name": "Sundeth",
+    "type": "giant",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "undead bulette": {
+    "name": "Undead Bulette",
+    "type": "undead",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "undead shambling mound": {
+    "name": "Undead Shambling Mound",
+    "type": "undead",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "vertrand shadowdusk": {
+    "name": "Vertrand Shadowdusk",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDMM"
+  },
+  "werebat": {
+    "name": "Werebat",
+    "type": "humanoid",
+    "tags": [
+      "goblinoid",
+      "shapechanger"
+    ],
+    "source": "WDMM"
+  },
+  "wooden donkey": {
+    "name": "Wooden Donkey",
+    "type": "construct",
+    "tags": [],
+    "source": "WDMM"
+  },
+  "zorak lightdrinker": {
+    "name": "Zorak Lightdrinker",
+    "type": "undead",
+    "tags": [
+      "shapechanger"
+    ],
+    "source": "WDMM"
+  },
+  "ahmaergo": {
+    "name": "Ahmaergo",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "WDH"
+  },
+  "ammalia cassalanter": {
+    "name": "Ammalia Cassalanter",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "avi": {
+    "name": "Avi",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "genasi",
+        "prefix": "Water"
+      }
+    ],
+    "source": "WDH"
+  },
+  "awakened rat": {
+    "name": "Awakened Rat",
+    "type": "beast",
+    "tags": [],
+    "source": "WDH"
+  },
+  "barnibus blastwind": {
+    "name": "Barnibus Blastwind",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "black viper": {
+    "name": "Black Viper",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "davil starsong": {
+    "name": "Davil Starsong",
+    "type": "humanoid",
+    "tags": [
+      "elf"
+    ],
+    "source": "WDH"
+  },
+  "dining table mimic": {
+    "name": "Dining Table Mimic",
+    "type": "monstrosity",
+    "tags": [
+      "shapechanger"
+    ],
+    "source": "WDH"
+  },
+  "drow gunslinger": {
+    "name": "Drow Gunslinger",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "elf",
+        "prefix": "Drow",
+        "prefixHidden": true
+      }
+    ],
+    "source": "WDH"
+  },
+  "durnan": {
+    "name": "Durnan",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "elzerina cassalanter": {
+    "name": "Elzerina Cassalanter",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "embric": {
+    "name": "Embric",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "genasi",
+        "prefix": "Fire"
+      }
+    ],
+    "source": "WDH"
+  },
+  "emmek frewn": {
+    "name": "Emmek Frewn",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "floon blagmaar": {
+    "name": "Floon Blagmaar",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "flying staff": {
+    "name": "Flying Staff",
+    "type": "construct",
+    "tags": [],
+    "source": "WDH"
+  },
+  "griffon cavalry rider": {
+    "name": "Griffon Cavalry Rider",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "WDH"
+  },
+  "grinda garloth": {
+    "name": "Grinda Garloth",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "grum'shar": {
+    "name": "Grum'shar",
+    "type": "humanoid",
+    "tags": [
+      "half-orc"
+    ],
+    "source": "WDH"
+  },
+  "hester barch": {
+    "name": "Hester Barch",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "hlam": {
+    "name": "Hlam",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "hrabbaz": {
+    "name": "Hrabbaz",
+    "type": "humanoid",
+    "tags": [
+      "half-orc"
+    ],
+    "source": "WDH"
+  },
+  "istrid horn": {
+    "name": "Istrid Horn",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "WDH"
+  },
+  "jalester silvermane": {
+    "name": "Jalester Silvermane",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "jandar chergoba": {
+    "name": "Jandar Chergoba",
+    "type": "humanoid",
+    "tags": [
+      "tiefling"
+    ],
+    "source": "WDH"
+  },
+  "jarlaxle baenre": {
+    "name": "Jarlaxle Baenre",
+    "type": "humanoid",
+    "tags": [
+      "elf"
+    ],
+    "source": "WDH"
+  },
+  "jenks": {
+    "name": "Jenks",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "kaevja cynavern": {
+    "name": "Kaevja Cynavern",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Mulan",
+        "prefixHidden": true
+      }
+    ],
+    "source": "WDH"
+  },
+  "kalain": {
+    "name": "Kalain",
+    "type": "humanoid",
+    "tags": [
+      "half-elf"
+    ],
+    "source": "WDH"
+  },
+  "lady gondafrey": {
+    "name": "Lady Gondafrey",
+    "type": "elemental",
+    "tags": [],
+    "source": "WDH"
+  },
+  "laeral silverhand": {
+    "name": "Laeral Silverhand",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "laiba \"nana\" rosse": {
+    "name": "Laiba \"Nana\" Rosse",
+    "type": "humanoid",
+    "tags": [
+      "tiefling"
+    ],
+    "source": "WDH"
+  },
+  "magister umbero zastro": {
+    "name": "Magister Umbero Zastro",
+    "type": "humanoid",
+    "tags": [
+      "half-elf"
+    ],
+    "source": "WDH"
+  },
+  "manshoon": {
+    "name": "Manshoon",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "manshoon simulacrum": {
+    "name": "Manshoon Simulacrum",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "mattrim \"threestrings\" mereg": {
+    "name": "Mattrim \"Threestrings\" Mereg",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "maxeene": {
+    "name": "Maxeene",
+    "type": "beast",
+    "tags": [],
+    "source": "WDH"
+  },
+  "mechanical bird": {
+    "name": "Mechanical Bird",
+    "type": "construct",
+    "tags": [],
+    "source": "WDH"
+  },
+  "melannor fellbranch": {
+    "name": "Melannor Fellbranch",
+    "type": "humanoid",
+    "tags": [
+      "half-elf"
+    ],
+    "source": "WDH"
+  },
+  "meloon wardragon": {
+    "name": "Meloon Wardragon",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "mirt": {
+    "name": "Mirt",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "nat": {
+    "name": "Nat",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "nimblewright": {
+    "name": "Nimblewright",
+    "type": "construct",
+    "tags": [],
+    "source": "WDH"
+  },
+  "noska ur'gray": {
+    "name": "Noska Ur'gray",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "WDH"
+  },
+  "obaya uday": {
+    "name": "Obaya Uday",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "obliteros": {
+    "name": "Obliteros",
+    "type": "beast",
+    "tags": [],
+    "source": "WDH"
+  },
+  "orond gralhund": {
+    "name": "Orond Gralhund",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Tethyrian",
+        "prefixHidden": true
+      }
+    ],
+    "source": "WDH"
+  },
+  "ott steeltoes": {
+    "name": "Ott Steeltoes",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "WDH"
+  },
+  "panopticus wizard": {
+    "name": "Panopticus Wizard",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "WDH"
+  },
+  "remallia haventree": {
+    "name": "Remallia Haventree",
+    "type": "humanoid",
+    "tags": [
+      "elf"
+    ],
+    "source": "WDH"
+  },
+  "renaer neverember": {
+    "name": "Renaer Neverember",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Illuskan",
+        "prefixHidden": true
+      }
+    ],
+    "source": "WDH"
+  },
+  "rishaal the page-turner": {
+    "name": "Rishaal the Page-Turner",
+    "type": "humanoid",
+    "tags": [
+      "dragonborn"
+    ],
+    "source": "WDH"
+  },
+  "saeth cromley": {
+    "name": "Saeth Cromley",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Illuskan",
+        "prefixHidden": true
+      }
+    ],
+    "source": "WDH"
+  },
+  "shard shunner": {
+    "name": "Shard Shunner",
+    "type": "humanoid",
+    "tags": [
+      "halfling",
+      "shapechanger"
+    ],
+    "source": "WDH"
+  },
+  "skeemo weirdbottle": {
+    "name": "Skeemo Weirdbottle",
+    "type": "humanoid",
+    "tags": [
+      "gnome"
+    ],
+    "source": "WDH"
+  },
+  "soluun xibrindas": {
+    "name": "Soluun Xibrindas",
+    "type": "humanoid",
+    "tags": [
+      "elf"
+    ],
+    "source": "WDH"
+  },
+  "squiddly": {
+    "name": "Squiddly",
+    "type": "humanoid",
+    "tags": [
+      "tiefling"
+    ],
+    "source": "WDH"
+  },
+  "swarm of books": {
+    "name": "Swarm of Books",
+    "type": "construct",
+    "tags": [],
+    "source": "WDH"
+  },
+  "swarm of mechanical spiders": {
+    "name": "Swarm of Mechanical Spiders",
+    "type": "construct",
+    "tags": [],
+    "source": "WDH"
+  },
+  "sylgar": {
+    "name": "Sylgar",
+    "type": "beast",
+    "tags": [],
+    "source": "WDH"
+  },
+  "talisolvanar \"tally\" fellbranch": {
+    "name": "Talisolvanar \"Tally\" Fellbranch",
+    "type": "humanoid",
+    "tags": [
+      "half-elf"
+    ],
+    "source": "WDH"
+  },
+  "tashlyn yafeera": {
+    "name": "Tashlyn Yafeera",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "terenzio cassalanter": {
+    "name": "Terenzio Cassalanter",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "thorvin twinbeard": {
+    "name": "Thorvin Twinbeard",
+    "type": "humanoid",
+    "tags": [
+      "dwarf"
+    ],
+    "source": "WDH"
+  },
+  "thrakkus": {
+    "name": "Thrakkus",
+    "type": "humanoid",
+    "tags": [
+      "dragonborn"
+    ],
+    "source": "WDH"
+  },
+  "tissina khyret": {
+    "name": "Tissina Khyret",
+    "type": "humanoid",
+    "tags": [
+      "tiefling"
+    ],
+    "source": "WDH"
+  },
+  "urstul floxin": {
+    "name": "Urstul Floxin",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Illuskan",
+        "prefixHidden": true
+      }
+    ],
+    "source": "WDH"
+  },
+  "vajra safahr": {
+    "name": "Vajra Safahr",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "WDH"
+  },
+  "valetta": {
+    "name": "Valetta",
+    "type": "humanoid",
+    "tags": [
+      "dragonborn"
+    ],
+    "source": "WDH"
+  },
+  "victoro cassalanter": {
+    "name": "Victoro Cassalanter",
+    "type": "humanoid",
+    "tags": [
+      "half-elf"
+    ],
+    "source": "WDH"
+  },
+  "walking statue of waterdeep": {
+    "name": "Walking Statue of Waterdeep",
+    "type": "construct",
+    "tags": [],
+    "source": "WDH"
+  },
+  "yagra stonefist": {
+    "name": "Yagra Stonefist",
+    "type": "humanoid",
+    "tags": [
+      "half-orc"
+    ],
+    "source": "WDH"
+  },
+  "yalah gralhund": {
+    "name": "Yalah Gralhund",
+    "type": "humanoid",
+    "tags": [
+      {
+        "tag": "human",
+        "prefix": "Tethyrian",
+        "prefixHidden": true
+      }
+    ],
+    "source": "WDH"
+  },
+  "yorn": {
+    "name": "Yorn",
+    "type": "humanoid",
+    "tags": [
+      "half-orc"
+    ],
+    "source": "WDH"
+  },
+  "ziraj the hunter": {
+    "name": "Ziraj the Hunter",
+    "type": "humanoid",
+    "tags": [
+      "half-orc"
+    ],
+    "source": "WDH"
+  },
+  "amphisbaena": {
+    "name": "Amphisbaena",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "GoS"
+  },
+  "bullywug croaker": {
+    "name": "Bullywug Croaker",
+    "type": "humanoid",
+    "tags": [
+      "bullywug"
+    ],
+    "source": "GoS"
+  },
+  "bullywug royal": {
+    "name": "Bullywug Royal",
+    "type": "humanoid",
+    "tags": [
+      "bullywug"
+    ],
+    "source": "GoS"
+  },
+  "drowned ascetic": {
+    "name": "Drowned Ascetic",
+    "type": "undead",
+    "tags": [],
+    "source": "GoS"
+  },
+  "drowned assassin": {
+    "name": "Drowned Assassin",
+    "type": "undead",
+    "tags": [],
+    "source": "GoS"
+  },
+  "drowned blade": {
+    "name": "Drowned Blade",
+    "type": "undead",
+    "tags": [],
+    "source": "GoS"
+  },
+  "drowned master": {
+    "name": "Drowned Master",
+    "type": "undead",
+    "tags": [],
+    "source": "GoS"
+  },
+  "giant coral snake": {
+    "name": "Giant Coral Snake",
+    "type": "beast",
+    "tags": [],
+    "source": "GoS"
+  },
+  "giant sea eel": {
+    "name": "Giant Sea Eel",
+    "type": "beast",
+    "tags": [],
+    "source": "GoS"
+  },
+  "harpy matriarch": {
+    "name": "Harpy Matriarch",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "GoS"
+  },
+  "juvenile kraken": {
+    "name": "Juvenile Kraken",
+    "type": "monstrosity",
+    "tags": [
+      "titan"
+    ],
+    "source": "GoS"
+  },
+  "koalinth": {
+    "name": "Koalinth",
+    "type": "humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "source": "GoS"
+  },
+  "koalinth sergeant": {
+    "name": "Koalinth Sergeant",
+    "type": "humanoid",
+    "tags": [
+      "goblinoid"
+    ],
+    "source": "GoS"
+  },
+  "kysh": {
+    "name": "Kysh",
+    "type": "humanoid",
+    "tags": [
+      "triton"
+    ],
+    "source": "GoS"
+  },
+  "living iron statue": {
+    "name": "Living Iron Statue",
+    "type": "construct",
+    "tags": [],
+    "source": "GoS"
+  },
+  "lizardfolk commoner": {
+    "name": "Lizardfolk Commoner",
+    "type": "humanoid",
+    "tags": [
+      "lizardfolk"
+    ],
+    "source": "GoS"
+  },
+  "lizardfolk render": {
+    "name": "Lizardfolk Render",
+    "type": "humanoid",
+    "tags": [
+      "lizardfolk"
+    ],
+    "source": "GoS"
+  },
+  "lizardfolk scaleshield": {
+    "name": "Lizardfolk Scaleshield",
+    "type": "humanoid",
+    "tags": [
+      "lizardfolk"
+    ],
+    "source": "GoS"
+  },
+  "lizardfolk subchief": {
+    "name": "Lizardfolk Subchief",
+    "type": "humanoid",
+    "tags": [
+      "lizardfolk"
+    ],
+    "source": "GoS"
+  },
+  "locathah": {
+    "name": "Locathah",
+    "type": "humanoid",
+    "tags": [
+      "locathah"
+    ],
+    "source": "GoS"
+  },
+  "locathah hunter": {
+    "name": "Locathah Hunter",
+    "type": "humanoid",
+    "tags": [
+      "locathah"
+    ],
+    "source": "GoS"
+  },
+  "master refrum": {
+    "name": "Master Refrum",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "GoS"
+  },
+  "maw of sekolah": {
+    "name": "Maw of Sekolah",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "GoS"
+  },
+  "merfolk salvager": {
+    "name": "Merfolk Salvager",
+    "type": "humanoid",
+    "tags": [
+      "merfolk"
+    ],
+    "source": "GoS"
+  },
+  "merfolk scout": {
+    "name": "Merfolk Scout",
+    "type": "humanoid",
+    "tags": [
+      "merfolk"
+    ],
+    "source": "GoS"
+  },
+  "minotaur living crystal statue": {
+    "name": "Minotaur Living Crystal Statue",
+    "type": "construct",
+    "tags": [],
+    "source": "GoS"
+  },
+  "monstrous peryton": {
+    "name": "Monstrous Peryton",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "GoS"
+  },
+  "mr. dory": {
+    "name": "Mr. Dory",
+    "type": "aberration",
+    "tags": [],
+    "source": "GoS"
+  },
+  "oceanus": {
+    "name": "Oceanus",
+    "type": "humanoid",
+    "tags": [
+      "elf"
+    ],
+    "source": "GoS"
+  },
+  "pirate bosun": {
+    "name": "Pirate Bosun",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "GoS"
+  },
+  "pirate captain": {
+    "name": "Pirate Captain",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "GoS"
+  },
+  "pirate deck wizard": {
+    "name": "Pirate Deck Wizard",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "GoS"
+  },
+  "pirate first mate": {
+    "name": "Pirate First Mate",
+    "type": "humanoid",
+    "tags": [
+      "any race"
+    ],
+    "source": "GoS"
+  },
+  "rip tide priest": {
+    "name": "Rip Tide Priest",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "GoS"
+  },
+  "sahuagin blademaster": {
+    "name": "Sahuagin Blademaster",
+    "type": "humanoid",
+    "tags": [
+      "sahuagin"
+    ],
+    "source": "GoS"
+  },
+  "sahuagin champion": {
+    "name": "Sahuagin Champion",
+    "type": "humanoid",
+    "tags": [
+      "sahuagin"
+    ],
+    "source": "GoS"
+  },
+  "sahuagin coral smasher": {
+    "name": "Sahuagin Coral Smasher",
+    "type": "humanoid",
+    "tags": [
+      "sahuagin"
+    ],
+    "source": "GoS"
+  },
+  "sahuagin deep diver": {
+    "name": "Sahuagin Deep Diver",
+    "type": "humanoid",
+    "tags": [
+      "sahuagin"
+    ],
+    "source": "GoS"
+  },
+  "sahuagin hatchling swarm": {
+    "name": "Sahuagin Hatchling Swarm",
+    "type": "beast",
+    "tags": [],
+    "source": "GoS"
+  },
+  "sahuagin high priestess": {
+    "name": "Sahuagin High Priestess",
+    "type": "humanoid",
+    "tags": [
+      "sahuagin"
+    ],
+    "source": "GoS"
+  },
+  "sahuagin wave shaper": {
+    "name": "Sahuagin Wave Shaper",
+    "type": "humanoid",
+    "tags": [
+      "sahuagin"
+    ],
+    "source": "GoS"
+  },
+  "sanbalet": {
+    "name": "Sanbalet",
+    "type": "humanoid",
+    "tags": [
+      "human"
+    ],
+    "source": "GoS"
+  },
+  "shell shark": {
+    "name": "Shell Shark",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "GoS"
+  },
+  "skeletal alchemist": {
+    "name": "Skeletal Alchemist",
+    "type": "undead",
+    "tags": [],
+    "source": "GoS"
+  },
+  "skeletal juggernaut": {
+    "name": "Skeletal Juggernaut",
+    "type": "undead",
+    "tags": [],
+    "source": "GoS"
+  },
+  "skeletal swarm": {
+    "name": "Skeletal Swarm",
+    "type": "undead",
+    "tags": [],
+    "source": "GoS"
+  },
+  "skum": {
+    "name": "Skum",
+    "type": "aberration",
+    "tags": [],
+    "source": "GoS"
+  },
+  "thousand teeth": {
+    "name": "Thousand Teeth",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "GoS"
+  },
+  "vampiric jade statue": {
+    "name": "Vampiric Jade Statue",
+    "type": "construct",
+    "tags": [],
+    "source": "GoS"
+  },
+  "yalaga maladwyn": {
+    "name": "Yalaga Maladwyn",
+    "type": "undead",
+    "tags": [],
+    "source": "GoS"
+  },
+  "hound of ill omen": {
+    "name": "Hound of Ill Omen",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "XGE"
+  },
+  "tiny servant": {
+    "name": "Tiny Servant",
+    "type": "construct",
+    "tags": [],
+    "source": "XGE"
+  },
+  "aberrant spirit": {
+    "name": "Aberrant Spirit",
+    "type": "aberration",
+    "tags": [],
+    "source": "TCE"
+  },
+  "beast of the land": {
+    "name": "Beast of the Land",
+    "type": "beast",
+    "tags": [],
+    "source": "TCE"
+  },
+  "beast of the sea": {
+    "name": "Beast of the Sea",
+    "type": "beast",
+    "tags": [],
+    "source": "TCE"
+  },
+  "beast of the sky": {
+    "name": "Beast of the Sky",
+    "type": "beast",
+    "tags": [],
+    "source": "TCE"
+  },
+  "bestial spirit": {
+    "name": "Bestial Spirit",
+    "type": "beast",
+    "tags": [],
+    "source": "TCE"
+  },
+  "celestial spirit": {
+    "name": "Celestial Spirit",
+    "type": "celestial",
+    "tags": [],
+    "source": "TCE"
+  },
+  "construct spirit": {
+    "name": "Construct Spirit",
+    "type": "construct",
+    "tags": [],
+    "source": "TCE"
+  },
+  "dancing item": {
+    "name": "Dancing Item",
+    "type": "construct",
+    "tags": [],
+    "source": "TCE"
+  },
+  "elemental spirit": {
+    "name": "Elemental Spirit",
+    "type": "elemental",
+    "tags": [],
+    "source": "TCE"
+  },
+  "fey spirit": {
+    "name": "Fey Spirit",
+    "type": "fey",
+    "tags": [],
+    "source": "TCE"
+  },
+  "fiendish spirit": {
+    "name": "Fiendish Spirit",
+    "type": "fiend",
+    "tags": [],
+    "source": "TCE"
+  },
+  "homunculus servant": {
+    "name": "Homunculus Servant",
+    "type": "construct",
+    "tags": [],
+    "source": "TCE"
+  },
+  "juvenile mimic": {
+    "name": "Juvenile Mimic",
+    "type": "monstrosity",
+    "tags": [
+      "shapechanger"
+    ],
+    "source": "TCE"
+  },
+  "mighty servant of leuk-o": {
+    "name": "Mighty Servant of Leuk-o",
+    "type": "construct",
+    "tags": [],
+    "source": "TCE"
+  },
+  "reflection": {
+    "name": "Reflection",
+    "type": "fey",
+    "tags": [],
+    "source": "TCE"
+  },
+  "shadow spirit": {
+    "name": "Shadow Spirit",
+    "type": "monstrosity",
+    "tags": [],
+    "source": "TCE"
+  },
+  "steel defender": {
+    "name": "Steel Defender",
+    "type": "construct",
+    "tags": [],
+    "source": "TCE"
+  },
+  "undead spirit": {
+    "name": "Undead Spirit",
+    "type": "undead",
+    "tags": [],
+    "source": "TCE"
+  },
+  "wildfire spirit": {
+    "name": "Wildfire Spirit",
+    "type": "elemental",
+    "tags": [],
+    "source": "TCE"
+  }
+}

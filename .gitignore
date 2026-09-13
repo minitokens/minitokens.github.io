@@ -4,3 +4,5 @@ _site
 .jekyll-metadata
 vendor
 cpy.sh
+__pycache__/
+*.pyc
