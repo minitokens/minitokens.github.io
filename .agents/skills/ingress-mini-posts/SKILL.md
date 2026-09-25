@@ -65,11 +65,23 @@ If you prefer to run steps individually:
    python3 .agents/skills/ingress-mini-posts/scripts/categorize.py BlackDrake1 BlueDrake2 DrakeHandler
    ```
 
-### 2. Background Removal & Knockout
-When raw photos or non-transparent images are placed into `ingress/`, knockout backgrounds and crop to subject bounding box:
+### 2. Background Removal, Sizing & Knockout
+When raw photos or non-transparent images are placed into `ingress/`, knockout backgrounds, crop to subject bounding box, and scale down according to creature size:
 ```bash
-python3 .agents/skills/ingress-mini-posts/scripts/knockout_background.py --input-dir ingress/ --output-dir ingress/ --format png --margin 10
+python3 .agents/skills/ingress-mini-posts/scripts/knockout_background.py --input-dir ingress/ --output-dir ingress/ --format png --margin 10 --max-dim 800 --max-size-mb 1.0
 ```
+
+#### Image Sizing & Dimension Standards
+To maintain high visual quality while keeping page weight optimized, images are constrained based on D&D 5e monster size:
+- **Medium (`M`)**: Max dimension **800px**, file size **< 1.0 MB** (typically ~550–680 KB).
+- **Small (`S`)**: Max dimension **650px**, file size **< 0.75 MB**.
+- **Tiny (`T`)**: Max dimension **500px**, file size **< 0.5 MB**.
+- **Large (`L`)**: Max dimension **1000px**, file size **< 1.5 MB**.
+- **Huge (`H`)**: Max dimension **1200px**, file size **< 2.0 MB**.
+- **Gargantuan (`G`)**: Max dimension **1400px**, file size **< 2.5 MB**.
+
+`process_ingress.py` queries `5e_monsters.json` automatically to look up the creature's size and applies the corresponding `max_dim` and `max_size_mb` constraints during processing.
+
 
 ### 3. Move Image Assets
 1. Move the processed transparent image files (`.png` / `.webp`) to `assets/images/minis/<category_folder>/`.

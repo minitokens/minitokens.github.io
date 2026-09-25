@@ -96,6 +96,18 @@ def main():
         help="Padding margin around bounding box. Default: 10.",
     )
     parser.add_argument(
+        "--max-dim",
+        type=int,
+        default=None,
+        help="Override maximum dimension in pixels (default: determined by 5e monster size, 800px for Medium).",
+    )
+    parser.add_argument(
+        "--max-size-mb",
+        type=float,
+        default=None,
+        help="Override maximum target file size in MB (default: 1.0MB for Medium creatures).",
+    )
+    parser.add_argument(
         "--skip-knockout",
         action="store_true",
         help="Skip background removal (use if images are already transparent).",
@@ -180,10 +192,18 @@ visit: "{args.visit}"
 From the {args.manufacturer} {args.campaign.replace('DnL-', 'Dungeons & Lasers: ')} Campaign.
 """
 
+        # Monster size and max dimension
+        monster_size = classification.get("size", "M")
+        max_dim = args.max_dim if args.max_dim is not None else classification.get("max_dim", 800)
+        max_size_mb = args.max_size_mb if args.max_size_mb is not None else classification.get("max_size_mb", 1.0)
+
         plan.append({
             "src_path": file_path,
             "title": title,
             "folder": folder,
+            "size": monster_size,
+            "max_dim": max_dim,
+            "max_size_mb": max_size_mb,
             "dest_img_abs": dest_img_abs,
             "dest_img_rel": dest_img_rel,
             "post_abs": post_abs,
@@ -195,7 +215,7 @@ From the {args.manufacturer} {args.campaign.replace('DnL-', 'Dungeons & Lasers: 
     for item in plan:
         print(f"\n[{item['title']}]")
         print(f"  Source:     {item['src_path']}")
-        print(f"  Target Img: {item['dest_img_rel']}")
+        print(f"  Target Img: {item['dest_img_rel']} (Size: {item['size']}, max_dim: {item['max_dim']}px, cap: <={item['max_size_mb']}MB)")
         print(f"  Target Post: {item['post_rel']}")
 
     if args.dry_run:
@@ -211,13 +231,34 @@ From the {args.manufacturer} {args.campaign.replace('DnL-', 'Dungeons & Lasers: 
         src = item["src_path"]
         dest_img = item["dest_img_abs"]
         dest_post = item["post_abs"]
+        max_dim = item["max_dim"]
+        max_size_mb = item["max_size_mb"]
 
         os.makedirs(os.path.dirname(dest_img), exist_ok=True)
         os.makedirs(os.path.dirname(dest_post), exist_ok=True)
 
         if args.skip_knockout:
-            shutil.copy2(src, dest_img)
-            print(f"Copied '{os.path.basename(src)}' -> '{item['dest_img_rel']}'")
+            from PIL import Image
+            im = Image.open(src)
+            if max_dim and (im.width > max_dim or im.height > max_dim):
+                im.thumbnail((max_dim, max_dim), Image.Resampling.LANCZOS)
+            save_kwargs = {}
+            if args.format.lower() == "png":
+                save_kwargs["optimize"] = True
+            elif args.format.lower() == "webp":
+                save_kwargs["quality"] = 90
+
+            max_bytes = int(max_size_mb * 1024 * 1024) if max_size_mb else None
+            curr = im
+            while True:
+                curr.save(dest_img, format=args.format.upper(), **save_kwargs)
+                file_size = os.path.getsize(dest_img)
+                if not max_bytes or file_size <= max_bytes or curr.width <= 300 or curr.height <= 300:
+                    break
+                new_w = max(300, int(curr.width * 0.9))
+                new_h = max(300, int(curr.height * 0.9))
+                curr = curr.resize((new_w, new_h), Image.Resampling.LANCZOS)
+            print(f"Copied & sized '{os.path.basename(src)}' -> '{item['dest_img_rel']}' ({curr.size[0]}x{curr.size[1]}, {os.path.getsize(dest_img)/1024:.1f} KB)")
         else:
             print(f"Knocking out background for '{os.path.basename(src)}'...")
             process_image(
@@ -225,6 +266,8 @@ From the {args.manufacturer} {args.campaign.replace('DnL-', 'Dungeons & Lasers: 
                 dest_img,
                 margin=args.margin,
                 out_format=args.format,
+                max_dim=max_dim,
+                max_size_mb=max_size_mb,
             )
 
         with open(dest_post, "w", encoding="utf-8") as f:

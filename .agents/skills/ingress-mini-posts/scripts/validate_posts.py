@@ -70,6 +70,9 @@ def validate_posts(posts):
                 errors.append(f"{post_path}: Referenced image does not exist -> {local_img_path}")
             elif os.path.getsize(local_img_path) == 0:
                 errors.append(f"{post_path}: Referenced image is 0 bytes -> {local_img_path}")
+            elif os.path.getsize(local_img_path) > 1024 * 1024:
+                size_mb = os.path.getsize(local_img_path) / (1024 * 1024)
+                warnings.append(f"{post_path}: Image is {size_mb:.2f}MB (> 1.0MB) -> {rel_img}")
 
     return checked, errors, warnings
 

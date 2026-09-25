@@ -39,6 +39,17 @@ CATEGORY_MAP = {
     "undead": ("undead", "Undead"),
 }
 
+# Mapping 5e creature size to recommended (max_dim_px, max_size_mb)
+# Keeps Medium creatures strictly under 1MB (~500KB - 750KB at 800px)
+SIZE_DIM_MAP = {
+    "T": (500, 0.5),   # Tiny
+    "S": (650, 0.75),  # Small
+    "M": (800, 1.0),   # Medium (Guaranteed < 1MB)
+    "L": (1000, 1.5),  # Large
+    "H": (1200, 2.0),  # Huge
+    "G": (1400, 2.5),  # Gargantuan
+}
+
 HUMANOID_RACES = {
     "gnome": ("humanoid/gnomes", "Gnomes"),
     "gnomes": ("humanoid/gnomes", "Gnomes"),
@@ -163,6 +174,7 @@ def classify_monster(raw_input):
     extra_categories = []
     folder = None
     category = None
+    monster_size = None
 
     # Check for role tag (e.g. Caster, Cultist)
     for w in lower_words:
@@ -173,6 +185,10 @@ def classify_monster(raw_input):
     for w in lower_words:
         if w in HUMANOID_RACES:
             folder, category = HUMANOID_RACES[w]
+            if w in ["gnome", "gnomes", "goblin", "goblins", "kobold", "kobolds"]:
+                monster_size = "S"
+            else:
+                monster_size = "M"
             break
 
     # 2. Humanoid Role check if race not specified
@@ -180,6 +196,7 @@ def classify_monster(raw_input):
         for w in lower_words:
             if w in HUMANOID_ROLES:
                 folder, category = "humanoid/humans", "Humans"
+                monster_size = "M"
                 break
 
     # 3. Dragons / Drakes
@@ -187,6 +204,14 @@ def classify_monster(raw_input):
         for w in lower_words:
             if any(k in w for k in ["drake", "dragon", "wyvern", "wyrmling"]):
                 folder, category = "dragons", "Dragons"
+                if "ancient" in lower_words:
+                    monster_size = "G"
+                elif "adult" in lower_words:
+                    monster_size = "H"
+                elif "young" in lower_words or "wyvern" in lower_words:
+                    monster_size = "L"
+                else:
+                    monster_size = "M"
                 break
 
     # 4. Elementals
@@ -194,6 +219,12 @@ def classify_monster(raw_input):
         for w in lower_words:
             if any(k in w for k in ["elemental", "chwinga", "chiwinga", "genie", "djinn", "efreet", "dao", "mephit"]):
                 folder, category = "elementals", "Elementals"
+                if "chiwinga" in w or "chwinga" in w or "mephit" in w:
+                    monster_size = "T"
+                elif "elemental" in w or "genie" in w or "djinn" in w or "efreet" in w or "dao" in w:
+                    monster_size = "L"
+                else:
+                    monster_size = "M"
                 break
 
     # 5. Fiends / Demons / Devils
@@ -202,13 +233,16 @@ def classify_monster(raw_input):
             if "demon" in w:
                 folder, category = "demons", "Fiends"
                 extra_categories.append("Demons")
+                monster_size = "M"
                 break
             elif "devil" in w:
                 folder, category = "devils", "Fiends"
                 extra_categories.append("Devils")
+                monster_size = "M"
                 break
             elif "fiend" in w:
                 folder, category = "fiends", "Fiends"
+                monster_size = "M"
                 break
 
     # 6. Undead
@@ -216,32 +250,45 @@ def classify_monster(raw_input):
         for w in lower_words:
             if any(k in w for k in ["skeleton", "zombie", "ghoul", "ghast", "wight", "wraith", "ghost", "vampire", "lich", "mummy"]):
                 folder, category = "undead", "Undead"
+                monster_size = "M"
                 break
 
     # 7. Check 5e DB lookup
-    if not folder:
+    if not folder or not monster_size:
         db = get_monsters_db()
         query = " ".join(lower_words)
         if query in db:
             mtype = db[query]["type"]
-            clean_title = db[query]["name"]
-            slug_base = slugify(clean_title)
-            if mtype in CATEGORY_MAP:
-                folder, category = CATEGORY_MAP[mtype]
-
-        if not folder:
-            # Fuzzy match
-            matches = difflib.get_close_matches(query, db.keys(), n=1, cutoff=0.7)
-            if matches:
-                mtype = db[matches[0]]["type"]
-                clean_title = db[matches[0]]["name"]
+            db_size = db[query].get("size", "M")
+            if not monster_size:
+                monster_size = db_size
+            if not folder:
+                clean_title = db[query]["name"]
                 slug_base = slugify(clean_title)
                 if mtype in CATEGORY_MAP:
                     folder, category = CATEGORY_MAP[mtype]
 
+        if not folder or not monster_size:
+            # Fuzzy match
+            matches = difflib.get_close_matches(query, db.keys(), n=1, cutoff=0.7)
+            if matches:
+                mtype = db[matches[0]]["type"]
+                db_size = db[matches[0]].get("size", "M")
+                if not monster_size:
+                    monster_size = db_size
+                if not folder:
+                    clean_title = db[matches[0]]["name"]
+                    slug_base = slugify(clean_title)
+                    if mtype in CATEGORY_MAP:
+                        folder, category = CATEGORY_MAP[mtype]
+
     # 8. Fallback
     if not folder:
         folder, category = "monstrosity", "Monstrocities"
+    if not monster_size:
+        monster_size = "M"
+
+    max_dim, max_size_mb = SIZE_DIM_MAP.get(monster_size, (800, 1.0))
 
     # Numbering convention:
     # First item: BlackDrake.png, slug: black-drake
@@ -261,6 +308,9 @@ def classify_monster(raw_input):
         "slug": post_slug,
         "number_suffix": num_str,
         "dest_image_base": dest_image_base,
+        "size": monster_size,
+        "max_dim": max_dim,
+        "max_size_mb": max_size_mb,
     }
 
 
@@ -278,6 +328,8 @@ def main():
         print(f"  Extra Categories: {res['extra_categories']}")
         print(f"  Post Slug:        {res['slug']}")
         print(f"  Image Basename:   {res['dest_image_base']}")
+        print(f"  5e Size:          {res['size']}")
+        print(f"  Max Dimension:    {res['max_dim']}px (Target <= {res['max_size_mb']}MB)")
         print()
 
 

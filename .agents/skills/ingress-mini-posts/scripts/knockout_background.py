@@ -41,7 +41,7 @@ def get_session(model_name="u2net"):
     return _worker_session
 
 
-def process_image(in_path, out_path, margin=10, out_format="PNG", model_name="u2net"):
+def process_image(in_path, out_path, margin=10, out_format="PNG", model_name="u2net", max_dim=None, max_size_mb=None):
     t0 = time.time()
     if rembg is None:
         raise RuntimeError("rembg is not installed. Please run: pip install 'rembg[cpu]' pillow")
@@ -60,6 +60,10 @@ def process_image(in_path, out_path, margin=10, out_format="PNG", model_name="u2
         )
         out = out.crop(crop_box)
 
+    # Proportional downscale if max_dim is set and image exceeds it
+    if max_dim and (out.width > max_dim or out.height > max_dim):
+        out.thumbnail((max_dim, max_dim), Image.Resampling.LANCZOS)
+
     os.makedirs(os.path.dirname(os.path.abspath(out_path)), exist_ok=True)
     save_kwargs = {}
     if out_format.upper() == "PNG":
@@ -67,15 +71,36 @@ def process_image(in_path, out_path, margin=10, out_format="PNG", model_name="u2
     elif out_format.upper() == "WEBP":
         save_kwargs["quality"] = 90
 
-    out.save(out_path, format=out_format.upper(), **save_kwargs)
+    # Save and enforce max_size_mb if specified
+    max_bytes = int(max_size_mb * 1024 * 1024) if max_size_mb else None
+    current_img = out
+    while True:
+        current_img.save(out_path, format=out_format.upper(), **save_kwargs)
+        file_size = os.path.getsize(out_path)
+        if not max_bytes or file_size <= max_bytes or current_img.width <= 300 or current_img.height <= 300:
+            break
+        # Scale down by 10% until file size fits within max_size_mb
+        new_w = max(300, int(current_img.width * 0.9))
+        new_h = max(300, int(current_img.height * 0.9))
+        current_img = current_img.resize((new_w, new_h), Image.Resampling.LANCZOS)
+
     duration = time.time() - t0
-    print(f"Processed '{in_path}' -> '{out_path}' ({out.size[0]}x{out.size[1]}) in {duration:.2f}s")
+    final_kb = os.path.getsize(out_path) / 1024
+    print(f"Processed '{in_path}' -> '{out_path}' ({current_img.size[0]}x{current_img.size[1]}, {final_kb:.1f} KB) in {duration:.2f}s")
     return out_path
 
 
 def _worker_task(args):
-    in_path, out_path, margin, out_format, model_name = args
-    return process_image(in_path, out_path, margin=margin, out_format=out_format, model_name=model_name)
+    in_path, out_path, margin, out_format, model_name, max_dim, max_size_mb = args
+    return process_image(
+        in_path,
+        out_path,
+        margin=margin,
+        out_format=out_format,
+        model_name=model_name,
+        max_dim=max_dim,
+        max_size_mb=max_size_mb,
+    )
 
 
 def main():
@@ -121,6 +146,18 @@ def main():
         default="u2net",
         help="Rembg model name (e.g. u2net, isnet-general-use). Default: u2net.",
     )
+    parser.add_argument(
+        "--max-dim",
+        type=int,
+        default=None,
+        help="Maximum width or height dimension in pixels (e.g. 800 for Medium creatures).",
+    )
+    parser.add_argument(
+        "--max-size-mb",
+        type=float,
+        default=None,
+        help="Maximum target file size in megabytes (e.g. 1.0 for Medium creatures).",
+    )
 
     args = parser.parse_args()
 
@@ -155,7 +192,7 @@ def main():
             out_path = os.path.join(args.output_dir, out_name)
         else:
             out_path = os.path.join(os.path.dirname(in_path), out_name)
-        tasks.append((in_path, out_path, args.margin, args.format, args.model))
+        tasks.append((in_path, out_path, args.margin, args.format, args.model, args.max_dim, args.max_size_mb))
 
     print(f"Starting background removal for {len(tasks)} file(s) with {args.workers} worker(s)...")
     t_start = time.time()
