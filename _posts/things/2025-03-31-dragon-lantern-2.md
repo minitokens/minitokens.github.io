@@ -2,7 +2,7 @@
 title:  "Lantern"
 metadate: "hide"
 categories: [ Things, Archon-Studio, DnL-Woodhaven ]
-image: "/assets/images/minis/things/DragonLantern2.jpg"
+image: "/assets/images/minis/things/DragonLantern2.png"
 visit: "https://www.archon-studio.com"
 ---
 Dungeons & Lasers: Woodhaven Kickstarter mini.

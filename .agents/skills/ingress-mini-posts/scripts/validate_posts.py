@@ -70,9 +70,18 @@ def validate_posts(posts):
                 errors.append(f"{post_path}: Referenced image does not exist -> {local_img_path}")
             elif os.path.getsize(local_img_path) == 0:
                 errors.append(f"{post_path}: Referenced image is 0 bytes -> {local_img_path}")
-            elif os.path.getsize(local_img_path) > 1024 * 1024:
-                size_mb = os.path.getsize(local_img_path) / (1024 * 1024)
-                warnings.append(f"{post_path}: Image is {size_mb:.2f}MB (> 1.0MB) -> {rel_img}")
+            else:
+                img_ext = os.path.splitext(local_img_path)[1].lower()
+                if img_ext in [".jpg", ".jpeg"]:
+                    errors.append(
+                        f"{post_path}: Image has '{img_ext}' extension which does not support transparency! Must be .png or .webp -> {rel_img}"
+                    )
+                elif img_ext not in [".png", ".webp"]:
+                    warnings.append(f"{post_path}: Unexpected image format '{img_ext}' -> {rel_img}")
+
+                if os.path.getsize(local_img_path) > 1024 * 1024:
+                    size_mb = os.path.getsize(local_img_path) / (1024 * 1024)
+                    warnings.append(f"{post_path}: Image is {size_mb:.2f}MB (> 1.0MB) -> {rel_img}")
 
     return checked, errors, warnings
 

@@ -2,5 +2,5 @@
 title:  "Ice Elemental"
 metadate: "hide"
 categories: [ Elementals, Ice ]
-image: "/assets/images/minis/elementals/IceElemental.jpg"
+image: "/assets/images/minis/elementals/IceElemental.png"
 ---

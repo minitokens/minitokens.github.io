@@ -21,7 +21,8 @@ The skill includes dedicated Python automation scripts in `scripts/` backed by a
 | [`process_ingress.py`](file://scripts/process_ingress.py) | **All-in-one pipeline**: knocks out backgrounds, categorizes monsters, moves assets, creates Jekyll markdown posts, cleans `ingress/`, and runs validation. |
 | [`knockout_background.py`](file://scripts/knockout_background.py) | Standalone background knockout using `rembg` (u2net model), alpha transparency generation, and tight bounding box cropping with configurable padding. |
 | [`categorize.py`](file://scripts/categorize.py) | Categorization tool mapping miniature filenames to 5e types, category folders, Jekyll tags, post slugs, and titles. |
-| [`validate_posts.py`](file://scripts/validate_posts.py) | Quality control validator checking that all post image links exist, frontmatter is intact, and `ingress/` is clean. |
+| [`fix_image_extensions.py`](file://scripts/fix_image_extensions.py) | Audit and migration tool fixing non-transparent image extensions (e.g. transparent PNGs incorrectly named `.jpg`), renaming files via git mv and updating all Jekyll post references. |
+| [`validate_posts.py`](file://scripts/validate_posts.py) | Quality control validator checking that all post image links exist, frontmatter is intact, formats support transparency, and `ingress/` is clean. |
 
 ---
 

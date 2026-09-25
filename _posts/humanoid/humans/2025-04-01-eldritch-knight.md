@@ -2,7 +2,7 @@
 title:  "Eldritch Knight"
 metadate: "hide"
 categories: [ Humans, Fighters, Casters, Games-Workshop ]
-image: "/assets/images/minis/humanoid/humans/EldritchKnight.jpg"
+image: "/assets/images/minis/humanoid/humans/EldritchKnight.png"
 visit: "https://games-workshop.com/"
 ---
 Games Workshop Underworlds Mini.
