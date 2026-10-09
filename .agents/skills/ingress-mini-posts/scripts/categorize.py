@@ -37,6 +37,7 @@ CATEGORY_MAP = {
     "ooze": ("oozes", "Oozes"),
     "plant": ("plants", "Plants"),
     "undead": ("undead", "Undead"),
+    "sci-fi": ("sci-fi", "Sci-Fi"),
 }
 
 # Mapping 5e creature size to recommended (max_dim_px, max_size_mb)
@@ -282,7 +283,16 @@ def classify_monster(raw_input):
                     if mtype in CATEGORY_MAP:
                         folder, category = CATEGORY_MAP[mtype]
 
-    # 8. Fallback
+    # 8. Sci-fi (Games Workshop / non-5e miniatures)
+    if not folder or not monster_size:
+        for w in lower_words:
+            sci_keywords = ["noise", "space", "orbital", "cybertitan", "tyrannic", "eldritch", "horror", "ghoul", "orok", "mekke", "adventurer"]
+            if any(k in w for k in sci_keywords):
+                folder, category = "sci-fi", "Sci-Fi"
+                monster_size = "M"
+                break
+
+    # 9. Fallback
     if not folder:
         folder, category = "monstrosity", "Monstrocities"
     if not monster_size:
