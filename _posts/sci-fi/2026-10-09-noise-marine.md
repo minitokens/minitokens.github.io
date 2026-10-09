@@ -1,8 +1,8 @@
 ---
 title:  "Noise Marine"
 metadate: "hide"
-categories: [ Sci-Fi, Games Workshop, Noise Marine ]
+categories: [ Sci-Fi, Games-Workshop ]
 image: "/assets/images/minis/sci-fi/NoiseMarine.png"
-visit: "https://archon-studio.com/"
+visit: "https://warhammer.com/"
 ---
-From the Games Workshop Noise Marine Campaign.
+From Games Workshop.
