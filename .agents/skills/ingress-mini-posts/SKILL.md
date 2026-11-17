@@ -2,8 +2,9 @@
 name: ingress-mini-posts
 description: >-
   Use this skill when processing miniature token images placed in the ingress folder or assets/images/minis/,
-  identifying their D&D 5e monster type (via 5e.tools), moving image files to the appropriate category subfolder,
-  generating Jekyll blog post markdown files in _posts with standard frontmatter, and preserving the ingress directory.
+  identifying their D&D 5e monster type (from a local 5e.tools data cache), moving image files to the appropriate
+  category subfolder, generating Jekyll blog post markdown files in _posts with standard frontmatter, and
+  preserving the ingress directory.
 ---
 
 # Ingress Mini Post Generator Skill
@@ -23,6 +24,25 @@ The skill includes dedicated Python automation scripts in `scripts/` backed by a
 | [`categorize.py`](file://scripts/categorize.py) | Categorization tool mapping miniature filenames to 5e types, category folders, Jekyll tags, post slugs, and titles. |
 | [`fix_image_extensions.py`](file://scripts/fix_image_extensions.py) | Audit and migration tool fixing non-transparent image extensions (e.g. transparent PNGs incorrectly named `.jpg`), renaming files via git mv and updating all Jekyll post references. |
 | [`validate_posts.py`](file://scripts/validate_posts.py) | Quality control validator checking that all post image links exist, frontmatter is intact, formats support transparency, and `ingress/` is clean. |
+| [`build_monster_cache.py`](file://scripts/build_monster_cache.py) | **Regenerates** `resources/5e_monsters.json` from a local `5etools-src` checkout (no web lookup). Run after updating the 5etools data. |
+
+### Local 5e Monster Data (no web lookup)
+
+Categorization is backed entirely by `resources/5e_monsters.json`, a local cache of 5e.tools bestiary data. It is **not** fetched from the web — it is generated from a local checkout of the [5etools-src](https://github.com/saltsearoom/5etools) repository using `build_monster_cache.py`.
+
+Both repos are expected to be checked out **as siblings** (e.g. `…/git/minitokens.github.io` and `…/git/5etools-src`). The generator auto-detects the 5etools checkout relative to the skill, so it works on any machine that has both checked out.
+
+To (re)generate the cache after updating `5etools-src`:
+
+```bash
+# From the site root — uses the auto-detected sibling 5etools checkout
+python3 .agents/skills/ingress-mini-posts/scripts/build_monster_cache.py --print-stats
+
+# Or point at an explicit checkout (relative path is fine):
+python3 .agents/skills/ingress-mini-posts/scripts/build_monster_cache.py --5etools-dir ../../../../5etools-src
+```
+
+Files are processed in a fixed (book-code) order with first-occurrence-wins deduplication, so regenerating from the same 5etools data produces a byte-identical file.
 
 ---
 
