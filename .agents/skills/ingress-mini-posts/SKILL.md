@@ -137,3 +137,13 @@ git add .agents _posts assets ingress
 git commit -m "Add <Monster Names> miniatures and posts"
 git push origin main
 ```
+
+## One-Liner: Process + Commit + Push
+
+Paste into Open WebUI terminal:
+
+cd /home/user/minitokens.github.io && bash .agents/skills/ingress-mini-posts/scripts/run_ingress.sh
+
+Optional args: manufacturer campaign url
+Defaults: Archon-Studio DnL-Deuslair https://archon-studio.com/
+Handles: process -> validate -> git add -> commit -> push.
